@@ -1,0 +1,61 @@
+input detected
+
+color detection has been runed!
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 4, 1  
+Blue: X_scale is=14, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=14 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 6, 2  
+Blue: X_scale is=14, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=61
+yellow is=0, min is=14, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 5, 2  
+Blue: X_scale is=14, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=56
+yellow is=0, min is=14, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 5, 7, 1  
+Blue: X_scale is=14, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=58
+yellow is=0, min is=14, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 3, 1  
+Blue: X_scale is=15, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=76, Y_scale is=41
+yellow is=0, min is=15, max is=76 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 4, 1  
+Blue: X_scale is=14, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=76, Y_scale is=44
+yellow is=0, min is=14, max is=76 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 9, 1  
+Blue: X_scale is=14, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=14 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 7, 2  
+Blue: X_scale is=14, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=76, Y_scale is=39
+yellow is=0, min is=14, max is=76 
+Press command
+input detected
+
+color detection stopped!

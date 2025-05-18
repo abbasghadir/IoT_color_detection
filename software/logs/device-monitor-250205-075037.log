@@ -1,0 +1,111 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+......
+WiFi connected
+Camera Ready! Use 'http://192.168.137.67' to connect
+[ 15250][E][WebServer.cpp:638] _handleRequest(): request handler not found
+cam_hal: EV-VSYNC-OVF
+[ 47746][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[ 47756][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 128, "Socket is not connected"
+cam_hal: EV-VSYNC-OVF
+input detected
+
+color detection stopped!
+resizer
+X_scale is=100, Y_scale is=60, X_length is=120, Y_length is=70 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=0, Y_scale is=0, X_length is=200, Y_length is=150 
+input detected
+
+color detection stopped!
+resizer
+X_scale is=0, Y_scale is=0, X_length is=200, Y_length is=150 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=50, Y_scale is=50, X_length is=100, Y_length is=100 
+cam_hal: EV-VSYNC-OVF
+input detected
+80
+color detection stopped!
+resizer
+X_scale is=50, Y_scale is=50, X_length is=100, Y_length is=100 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=80, Y_scale is=60, X_length is=100, Y_length is=100 
+input detected
+
+color detection stopped!
+resizer
+X_scale is=80, Y_scale is=60, X_length is=100, Y_length is=100 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=80, Y_scale is=60, X_length is=150, Y_length is=150 
+cam_hal: EV-VSYNC-OVF
+input detected
+
+color detection stopped!
+resizer
+X_scale is=80, Y_scale is=60, X_length is=150, Y_length is=150 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=80, Y_scale is=60, X_length is=120, Y_length is=120 
+input detected
+80
+color detection stopped!
+resizer
+X_scale is=80, Y_scale is=60, X_length is=120, Y_length is=120 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=60, Y_scale is=60, X_length is=60, Y_length is=6 
+input detected
+
+color detection stopped!
+resizer
+X_scale is=60, Y_scale is=60, X_length is=60, Y_length is=6 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=80, Y_scale is=60, X_length is=120, Y_length is=120 
+input detected
+
+color detection stopped!
+resizer
+X_scale is=80, Y_scale is=60, X_length is=120, Y_length is=120 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=80, Y_scale is=60, X_length is=110, Y_length is=120 
+cam_hal: EV-VSYNC-OVF

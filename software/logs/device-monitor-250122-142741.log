@@ -1,0 +1,1547 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+cam_hal: EV-EOF-OVF
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:227 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:224 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:253 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+Yellow center X:185 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:208 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:223 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:189 
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:266 
+checkpoint1
+Yellow center X:222 
+checkpoint1
+Yellow center X:200 
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:185 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:197 
+checkpoint1
+Yellow center X:199 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:188 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:257 
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:240 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found!
+checkpoint1
+Yellow center X:223 
+checkpoint1
+Yellow center X:228 
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-EOF-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found 2!
+checkpoint1
+No yellow region found 2!

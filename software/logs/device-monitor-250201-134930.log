@@ -1,0 +1,817 @@
+.........................................................................ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 �ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+...ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+.................................................................................................................................ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+loa�ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+.....................................................................................................................................................................................................................................................................................................0,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+............ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+............ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+E (298) ledc: ledc_set_duty(725): LEDC is not initialized
+E (298) ledc: ledc_update_duty(653): LEDC is not initialized
+E (309) ledc: ledc_set_duty(725): LEDC is not initialized
+E (309) ledc: ledc_update_duty(653): LEDC is not initialized
+E (319) ledc: ledc_set_duty(725): LEDC is not initialized
+E (319) ledc: ledc_update_duty(653): LEDC is not initialized
+E (330) ledc: ledc_set_duty(725): LEDC is not initialized
+E (330) ledc: ledc_update_duty(653): LEDC is not initialized
+E (340) ledc: ledc_set_duty(725): LEDC is not initialized
+E (340) ledc: ledc_update_duty(653): LEDC is not initialized
+E (351) ledc: ledc_set_duty(725): LEDC is not initialized
+E (351) ledc: ledc_update_duty(653): LEDC is not initialized
+E (361) ledc: ledc_set_duty(725): LEDC is not initialized
+E (361) ledc: ledc_update_duty(653): LEDC is not initialized
+E (372) ledc: ledc_set_duty(725): LEDC is not initialized
+E (372) ledc: ledc_update_duty(653): LEDC is not initialized
+E (382) ledc: ledc_set_duty(725): LEDC is not initialized
+E (382) ledc: ledc_update_duty(653): LEDC is not initialized
+E (393) ledc: ledc_set_duty(725): LEDC is not initialized
+E (393) ledc: ledc_update_duty(653): LEDC is not initialized
+E (403) ledc: ledc_set_duty(725): LEDC is not initialized
+E (403) ledc: ledc_update_duty(653): LEDC is not initialized
+E (414) ledc: ledc_set_duty(725): LEDC is not initialized
+E (414) ledc: ledc_update_duty(653): LEDC is not initialized
+E (424) ledc: ledc_set_duty(725): LEDC is not initialized
+E (424) ledc: ledc_update_duty(653): LEDC is not initialized
+E (435) ledc: ledc_set_duty(725): LEDC is not initialized
+E (435) ledc: ledc_update_duty(653): LEDC is not initialized
+E (445) ledc: ledc_set_duty(725): LEDC is not initialized
+E (445) ledc: ledc_update_duty(653): LEDC is not initialized
+E (456) ledc: ledc_set_duty(725): LEDC is not initialized
+E (456) ledc: ledc_update_duty(653): LEDC is not initialized
+E (466) ledc: ledc_set_duty(725): LEDC is not initialized
+E (466) ledc: ledc_update_duty(653): LEDC is not initialized
+E (477) ledc: ledc_set_duty(725): LEDC is not initialized
+E (477) ledc: ledc_update_duty(653): LEDC is not initialized
+E (487) ledc: ledc_set_duty(725): LEDC is not initialized
+E (487) ledc: ledc_update_duty(653): LEDC is not initialized
+E (498) ledc: ledc_set_duty(725): LEDC is not initialized
+E (498) ledc: ledc_update_duty(653): LEDC is not initialized
+E (508) ledc: ledc_set_duty(725): LEDC is not initialized
+E (508) ledc: ledc_update_duty(653): LEDC is not initialized
+E (519) ledc: ledc_set_duty(725): LEDC is not initialized
+E (519) ledc: ledc_update_duty(653): LEDC is not initialized
+E (529) ledc: ledc_set_duty(725): LEDC is not initialized
+E (529) ledc: ledc_update_duty(653): LEDC is not initialized
+E (540) ledc: ledc_set_duty(725): LEDC is not initialized
+E (540) ledc: ledc_update_duty(653): LEDC is not initialized
+E (550) ledc: ledc_set_duty(725): LEDC is not initialized
+E (550) ledc: ledc_update_duty(653): LEDC is not initialized
+E (561) ledc: ledc_set_duty(725): LEDC is not initialized
+E (561) ledc: ledc_update_duty(653): LEDC is not initialized
+E (571) ledc: ledc_set_duty(725): LEDC is not initialized
+E (571) ledc: ledc_update_duty(653): LEDC is not initialized
+E (582) ledc: ledc_set_duty(725): LEDC is not initialized
+E (582) ledc: ledc_update_duty(653): LEDC is not initialized
+E (592) ledc: ledc_set_duty(725): LEDC is not initialized
+E (592) ledc: ledc_update_duty(653): LEDC is not initialized
+E (603) ledc: ledc_set_duty(725): LEDC is not initialized
+E (603) ledc: ledc_update_duty(653): LEDC is not initialized
+E (613) ledc: ledc_set_duty(725): LEDC is not initialized
+E (613) ledc: ledc_update_duty(653): LEDC is not initialized
+E (624) ledc: ledc_set_duty(725): LEDC is not initialized
+E (624) ledc: ledc_update_duty(653): LEDC is not initialized
+E (634) ledc: ledc_set_duty(725): LEDC is not initialized
+E (634) ledc: ledc_update_duty(653): LEDC is not initialized
+E (645) ledc: ledc_set_duty(725): LEDC is not initialized
+E (645) ledc: ledc_update_duty(653): LEDC is not initialized
+E (655) ledc: ledc_set_duty(725): LEDC is not initialized
+E (655) ledc: ledc_update_duty(653): LEDC is not initialized
+E (666) ledc: ledc_set_duty(725): LEDC is not initialized
+E (666) ledc: ledc_update_duty(653): LEDC is not initialized
+E (676) ledc: ledc_set_duty(725): LEDC is not initialized
+E (676) ledc: ledc_update_duty(653): LEDC is not initialized
+E (687) ledc: ledc_set_duty(725): LEDC is not initialized
+E (687) ledc: ledc_update_duty(653): LEDC is not initialized
+E (697) ledc: ledc_set_duty(725): LEDC is not initialized
+E (697) ledc: ledc_update_duty(653): LEDC is not initialized
+E (708) ledc: ledc_set_duty(725): LEDC is not initialized
+E (708) ledc: ledc_update_duty(653): LEDC is not initialized
+E (718) ledc: ledc_set_duty(725): LEDC is not initialized
+E (718) ledc: ledc_update_duty(653): LEDC is not initialized
+E (729) ledc: ledc_set_duty(725): LEDC is not initialized
+E (729) ledc: ledc_update_duty(653): LEDC is not initialized
+E (739) ledc: ledc_set_duty(725): LEDC is not initialized
+E (739) ledc: ledc_update_duty(653): LEDC is not initialized
+E (750) ledc: ledc_set_duty(725): LEDC is not initialized
+E (750) ledc: ledc_update_duty(653): LEDC is not initialized
+E (760) ledc: ledc_set_duty(725): LEDC is not initialized
+E (760) ledc: ledc_update_duty(653): LEDC is not initialized
+E (771) ledc: ledc_set_duty(725): LEDC is not initialized
+E (771) ledc: ledc_update_duty(653): LEDC is not initialized
+E (781) ledc: ledc_set_duty(725): LEDC is not initialized
+E (781) ledc: ledc_update_duty(653): LEDC is not initialized
+E (792) ledc: ledc_set_duty(725): LEDC is not initialized
+E (792) ledc: ledc_update_duty(653): LEDC is not initialized
+E (802) ledc: ledc_set_duty(725): LEDC is not initialized
+E (802) ledc: ledc_update_duty(653): LEDC is not initialized
+E (813) ledc: ledc_set_duty(725): LEDC is not initialized
+E (813) ledc: ledc_update_duty(653): LEDC is not initialized
+E (823) ledc: ledc_set_duty(725): LEDC is not initialized
+E (823) ledc: ledc_update_duty(653): LEDC is not initialized
+E (834) ledc: ledc_set_duty(725): LEDC is not initialized
+E (834) ledc: ledc_update_duty(653): LEDC is not initialized
+E (844) ledc: ledc_set_duty(725): LEDC is not initialized
+E (844) ledc: ledc_update_duty(653): LEDC is not initialized
+E (855) ledc: ledc_set_duty(725): LEDC is not initialized
+E (855) ledc: ledc_update_duty(653): LEDC is not initialized
+E (865) ledc: ledc_set_duty(725): LEDC is not initialized
+E (865) ledc: ledc_update_duty(653): LEDC is not initialized
+E (876) ledc: ledc_set_duty(725): LEDC is not initialized
+E (876) ledc: ledc_update_duty(653): LEDC is not initialized
+E (886) ledc: ledc_set_duty(725): LEDC is not initialized
+E (886) ledc: ledc_update_duty(653): LEDC is not initialized
+E (897) ledc: ledc_set_duty(725): LEDC is not initialized
+E (897) ledc: ledc_update_duty(653): LEDC is not initialized
+E (907) ledc: ledc_set_duty(725): LEDC is not initialized
+E (907) ledc: ledc_update_duty(653): LEDC is not initialized
+E (918) ledc: ledc_set_duty(725): LEDC is not initialized
+E (918) ledc: ledc_update_duty(653): LEDC is not initialized
+E (928) ledc: ledc_set_duty(725): LEDC is not initialized
+E (928) ledc: ledc_update_duty(653): LEDC is not initialized
+E (939) ledc: ledc_set_duty(725): LEDC is not initialized
+E (939) ledc: ledc_update_duty(653): LEDC is not initialized
+E (949) ledc: ledc_set_duty(725): LEDC is not initialized
+E (949) ledc: ledc_update_duty(653): LEDC is not initialized
+E (960) ledc: ledc_set_duty(725): LEDC is not initialized
+E (960) ledc: ledc_update_duty(653): LEDC is not initialized
+E (970) ledc: ledc_set_duty(725): LEDC is not initialized
+E (970) ledc: ledc_update_duty(653): LEDC is not initialized
+E (981) ledc: ledc_set_duty(725): LEDC is not initialized
+E (981) ledc: ledc_update_duty(653): LEDC is not initialized
+E (991) ledc: ledc_set_duty(725): LEDC is not initialized
+E (991) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1002) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1002) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1012) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1012) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1023) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1023) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1034) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1034) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1044) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1044) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1055) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1055) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1066) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1066) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1076) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1076) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1087) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1087) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1098) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1098) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1109) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1109) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1119) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1119) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1130) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1130) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1141) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1141) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1151) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1151) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1162) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1162) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1173) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1173) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1183) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1183) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1194) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1194) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1205) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1205) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1215) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1215) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1226) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1226) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1237) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1237) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1247) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1247) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1258) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1258) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1269) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1269) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1279) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1279) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1290) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1290) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1301) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1301) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1311) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1311) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1322) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1322) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1333) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1333) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1343) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1343) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1354) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1354) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1365) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1365) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1375) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1375) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1386) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1386) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1397) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1397) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1407) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1407) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1418) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1418) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1429) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1429) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1439) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1439) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1450) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1450) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1461) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1461) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1472) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1472) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1482) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1482) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1493) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1493) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1504) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1504) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1514) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1514) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1525) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1525) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1536) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1536) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1546) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1546) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1557) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1557) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1568) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1568) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1578) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1578) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1589) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1589) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1600) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1600) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1610) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1610) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1621) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1621) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1632) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1632) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1642) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1642) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1653) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1653) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1664) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1664) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1674) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1674) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1685) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1685) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1696) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1696) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1706) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1706) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1717) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1717) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1728) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1728) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1738) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1738) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1749) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1749) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1760) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1760) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1770) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1770) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1781) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1781) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1792) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1792) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1803) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1803) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1813) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1813) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1824) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1824) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1835) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1835) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1845) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1845) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1856) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1856) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1867) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1867) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1877) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1877) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1888) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1888) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1899) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1899) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1909) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1909) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1920) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1920) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1931) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1931) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1941) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1941) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1952) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1952) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1963) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1963) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1973) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1973) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1984) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1984) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1995) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1995) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2005) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2005) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2016) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2016) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2027) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2027) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2037) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2037) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2048) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2048) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2059) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2059) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2069) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2069) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2080) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2080) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2091) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2091) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2101) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2101) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2112) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2112) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2123) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2123) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2134) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2134) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2144) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2144) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2155) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2155) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2166) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2166) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2176) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2176) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2187) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2187) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2198) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2198) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2208) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2208) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2219) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2219) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2230) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2230) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2240) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2240) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2251) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2251) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2262) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2262) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2272) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2272) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2283) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2283) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2294) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2294) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2304) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2304) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2315) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2315) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2326) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2326) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2336) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2336) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2347) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2347) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2358) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2358) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2368) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2368) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2379) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2379) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2390) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2390) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2400) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2400) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2411) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2411) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2422) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2422) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2432) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2432) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2443) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2443) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2454) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2454) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2464) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2464) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2475) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2475) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2486) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2486) ledc: ledc_update_duty(653): LEDC is notets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+.............ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+.......................................................................
+WiFi connected
+192.168.137.58
+Camera Ready! Use 'http://192.168.137.58' to connect
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+192.168.137.58
+Camera Ready! Use 'http://192.168.137.58' to connect
+ets Jul 29 2�ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+192.168.137.58
+Camera Ready! Use 'http://192.168.137.58' to connect
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+192.168.137.58
+Camera Ready! Use 'http://192.168.137.58' to connect
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLAS�/�  � �   �  �    ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+.....E (6685) wifi:Set status to INIT
+E (6738) wifi:Set status to INIT
+E (6829) wifi:Set status to INIT
+E (6908) wifi:Set status to INIT
+E (6968) wifi:Set status to INIT
+E (6999) wifi:Set status to INIT
+E (7079) wifi:Set status to INIT
+.E (7196) wifi:Set status to INIT
+E (7310) wifi:Set status to INIT
+E (7452) wifi:Set status to INIT
+E (7519) wifi:Set status to INIT
+E (7566) wifi:Set status to INIT
+.E (7641) wifi:Set status to INIT
+E (7800) wifi:Set status to INIT
+E (7935) wifi:Set status to INIT
+E (8015) wifi:Set status to INIT
+E (8125) wifi:Set status to INIT
+.E (8227) wifi:Set status to INIT
+E (8420) wifi:Set status to INIT
+E (8519) wifi:Set status to INIT
+E (8616) wifi:Set status to INIT
+.E (8662) wifi:Set status to INIT
+E (8732) wifi:Set status to INIT
+E (8797) wifi:Set status to INIT
+E (8886) wifi:Set status to INIT
+E (8910) wifi:Set status to INIT
+E (9080) wifi:Set status to INIT
+.E (9354) wifi:Set status to INIT
+E (9384) wifi:Set status to INIT
+E (9456) wifi:Set status to INIT
+E (9630) wifi:Set status to INIT
+.E (9852) wifi:Set status to INIT
+E (9929) wifi:Set status to INIT
+E (10070) wifi:Set status to INIT
+E (10111) wifi:Set status to INIT
+.E (10150) wifi:Set status to INIT
+E (10213) wifi:Set status to INIT
+E (10378) wifi:Set status to INIT
+E (10461) wifi:Set status to INIT
+E (10636) wifi:Set status to INIT
+.E (10768) wifi:Set status to INIT
+E (10817) wifi:Set status to INIT
+E (10869) wifi:Set status to INIT
+E (10976) wifi:Set status to INIT
+.E (11153) wifi:Set status to INIT
+E (11258) wifi:Set status to INIT
+E (11402) wifi:Set status to INIT
+E (11466) wifi:Set status to INIT
+E (11508) wifi:Set status to INIT
+E (11529) wifi:Set status to INIT
+.E (11639) wifi:Set status to INIT
+E (11736) wifi:Set status to INIT
+E (11820) wifi:Set status to INIT
+E (11886) wifi:Set status to INIT
+E (11938) wifi:Set status to INIT
+E (12026) wifi:Set status to INIT
+E (12060) wifi:Set status to INIT
+E (12102) wifi:Set status to INIT
+.E (12147) wifi:Set status to INIT
+E (12182) wifi:Set status to INIT
+E (12281) wifi:Set status to INIT
+E (12465) wifi:Set status to INIT
+E (12486) wifi:Set status to INIT
+E (12548) wifi:Set status to INIT
+.E (12653) wifi:Set status to INIT
+E (12676) wifi:Set status to INIT
+E (12720) wifi:Set status to INIT
+E (12750) wifi:Set status to INIT
+E (12776) wifi:Set status to INIT
+E (12835) wifi:Set status to INIT
+E (12919) wifi:Set status to INIT
+E (12952) wifi:Set status to INIT
+E (13073) wifi:Set status to INIT
+.E (13157) wifi:Set status to INIT
+E (13236) wifi:Set status to INIT
+E (13376) wifi:Set status to INIT
+E (13530) wifi:Set status to INIT
+.E (13654) wifi:Set status to INIT
+E (13732) wifi:Set status to INIT
+E (13789) wifi:Set status to INIT
+E (13866) wifi:Set status to INIT
+E (13930) wifi:Set status to INIT
+E (13978) wifi:Set status to INIT
+E (14035) wifi:Set status to INIT
+E (14116) wifi:Set status to INIT
+.E (14191) wifi:Set status to INIT
+E (14228) wifi:Set status to INIT
+E (14266) wifi:Set status to INIT
+E (14291) wifi:Set status to INIT
+E (14311) wifi:Set status to INIT
+E (14339) wifi:Set status to INIT
+E (14367) wifi:Set status to INIT
+E (14396) wifi:Set status to INIT
+E (14416) wifi:Set status to INIT
+E (14446) wifi:Set status to INIT
+E (14474) wifi:Set status to INIT
+E (14516) wifi:Set status to INIT
+E (14548) wifi:Set status to INIT
+E (14580) wifi:Set status to INIT
+.E (14672) wifi:Set status to INIT
+E (14701) wifi:Set status to INIT
+........ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+192.168.137.58
+Camera Ready! Use 'http://192.168.137.58' to connect
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download

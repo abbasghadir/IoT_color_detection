@@ -1,0 +1,15 @@
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-VSYNC-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.61' to connect
+check2
+check2
+check2
+check2
+check2
+check2
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=65, Y_scale is=50

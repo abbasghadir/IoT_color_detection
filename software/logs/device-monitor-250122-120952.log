@@ -1,0 +1,290 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+cam_hal: EV-EOF-OVF
+.cam_hal: EV-VSYNC-OVF
+.
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+cam_hal: EV-EOF-OVF
+...cam_hal: EV-VSYNC-OVF
+.
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+cam_hal: EV-VSYNC-OVF
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+cam_hal: EV-EOF-OVF
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+cam_hal: EV-VSYNC-OVF
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+.cam_hal: EV-VSYNC-OVF
+.
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+.cam_hal: EV-EOF-OVF
+.
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+
+abort() was called at PC 0x401db4bb on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1860 0x4008f509:0x3ffb1880 0x4009516d:0x3ffb18a0 0x401db4bb:0x3ffb1920 0x401db502:0x3ffb1940 0x401db463:0x3ffb1960 0x400f6516:0x3ffb1980 0x400f6e99:0x3ffb19c0 0x400f0d69:0x3ffb1a80 0x400e8a7e:0x3ffb1b00 0x400d262e:0x3ffb2010 0x400d284f:0x3ffb2270 0x40167058:0x3ffb2290
+
+
+
+
+ELF file SHA256: 9a7ed3509c6b5dc0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/ghadiri/platformio/BarcodeDetector_7/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

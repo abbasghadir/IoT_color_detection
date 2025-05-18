@@ -1,0 +1,727 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c14e  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c159  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c15b  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c15b  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c15a  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c14d  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c15b  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c14f  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c152  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c14c  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c150  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c151  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c14f  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c157  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c158  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   300][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004951c  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c15a  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+[   311][E][main.cpp:141] color_range_detection(): Framebuffer is null
+Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d235e  PS      : 0x00060a30  A0      : 0x800d2e4a  A1      : 0x3ffb1fb0  
+A2      : 0x3f4013eb  A3      : 0x00000000  A4      : 0x0004c159  A5      : 0x00000000  
+A6      : 0x3ffcb0d8  A7      : 0x3ffb215c  A8      : 0x3ffb2100  A9      : 0x3ffb1f90  
+A10     : 0x00000015  A11     : 0x00000013  A12     : 0x3f4013eb  A13     : 0x0000008d  
+A14     : 0x3f4014fd  A15     : 0x00000008  SAR     : 0x0000001b  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d235b:0x3ffb1fb0 0x400d2e47:0x3ffb2270 0x40166454:0x3ffb2290
+
+
+
+
+ELF file SHA256: ba4b3d304f35a47e
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4

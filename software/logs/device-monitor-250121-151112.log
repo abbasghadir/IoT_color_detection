@@ -1,0 +1,973 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+.cam_hal: EV-VSYNC-OVF
+.
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+......
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint1
+[   315][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d21a2  PS      : 0x00060a30  A0      : 0x800d2842  A1      : 0x3ffb2000  
+A2      : 0x3ffcae48  A3      : 0x3f4013f7  A4      : 0x00000000  A5      : 0xfffffee8  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d219a  A9      : 0x3ffb1f80  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f40151b  A15     : 0x00000008  SAR     : 0x00000020  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d219f:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+checkpoint5
+
+abort() was called at PC 0x401dab77 on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1780 0x4008f509:0x3ffb17a0 0x4009516d:0x3ffb17c0 0x401dab77:0x3ffb1840 0x401dabbe:0x3ffb1860 0x401dab71:0x3ffb1880 0x400ea84d:0x3ffb18a0 0x400f327d:0x3ffb1980 0x400d8361:0x3ffb19d0 0x400d254e:0x3ffb2000 0x400d283f:0x3ffb2270 0x40166714:0x3ffb2290
+
+
+
+
+ELF file SHA256: e29227acb4bb7074
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+

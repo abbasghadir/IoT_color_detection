@@ -1,0 +1,179 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.46' to connect
+ceckpoint
+chesks
+chesks
+chesks
+chesks
+chesks
+Guru Meditation Error: Core  1 panic'ed (StoreProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d15bb  PS      : 0x00060b30  A0      : 0x800d164c  A1      : 0x3ffb20c0  
+A2      : 0x3f800810  A3      : 0x3f40132a  A4      : 0x3f809c56  A5      : 0x3ffc8bf0  
+A6      : 0x00000000  A7      : 0x00000000  A8      : 0x800d15b7  A9      : 0x3ffb20a0  
+A10     : 0x3ffc8bf0  A11     : 0x3f40132a  A12     : 0x00000000  A13     : 0x00000000  
+A14     : 0x00ff0000  A15     : 0xff000000  SAR     : 0x00000020  EXCCAUSE: 0x0000001d  
+EXCVADDR: 0x00000000  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d15b8:0x3ffb20c0 0x400d1649:0x3ffb2100 0x401ea649:0x3ffb2130 0x40137102:0x3ffb2150 0x4013720d:0x3ffb2170 0x401372f3:0x3ffb21b0 0x4013749a:0x3ffb2220 0x400d1b7e:0x3ffb2270 0x4013c83d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 1e773776b48190ee
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.46' to connect
+ceckpoint
+chesks
+chesks
+chesks
+chesks
+chesks
+Guru Meditation Error: Core  1 panic'ed (StoreProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d15bb  PS      : 0x00060b30  A0      : 0x800d164c  A1      : 0x3ffb20c0  
+A2      : 0x3f800810  A3      : 0x3f40132a  A4      : 0x3f809c56  A5      : 0x3ffc8bf0  
+A6      : 0x00000000  A7      : 0x00000000  A8      : 0x800d15b7  A9      : 0x3ffb20a0  
+A10     : 0x3ffc8bf0  A11     : 0x3f40132a  A12     : 0x00000000  A13     : 0x00000000  
+A14     : 0x00ff0000  A15     : 0xff000000  SAR     : 0x0000001c  EXCCAUSE: 0x0000001d  
+EXCVADDR: 0x00000000  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d15b8:0x3ffb20c0 0x400d1649:0x3ffb2100 0x401ea649:0x3ffb2130 0x40137102:0x3ffb2150 0x4013720d:0x3ffb2170 0x401372f3:0x3ffb21b0 0x4013749a:0x3ffb2220 0x400d1b7e:0x3ffb2270 0x4013c83d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 1e773776b48190ee
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.46' to connect
+ceckpoint
+chesks
+chesks
+chesks
+chesks
+chesks
+Guru Meditation Error: Core  1 panic'ed (StoreProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d15bb  PS      : 0x00060b30  A0      : 0x800d164c  A1      : 0x3ffb20c0  
+A2      : 0x3f800810  A3      : 0x3f40132a  A4      : 0x3f809c56  A5      : 0x3ffc8bf0  
+A6      : 0x00000000  A7      : 0x00000000  A8      : 0x800d15b7  A9      : 0x3ffb20a0  
+A10     : 0x3ffc8bf0  A11     : 0x3f40132a  A12     : 0x00000000  A13     : 0x00000000  
+A14     : 0x00ff0000  A15     : 0xff000000  SAR     : 0x00000020  EXCCAUSE: 0x0000001d  
+EXCVADDR: 0x00000000  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d15b8:0x3ffb20c0 0x400d1649:0x3ffb2100 0x401ea649:0x3ffb2130 0x40137102:0x3ffb2150 0x4013720d:0x3ffb2170 0x401372f3:0x3ffb21b0 0x4013749a:0x3ffb2220 0x400d1b7e:0x3ffb2270 0x4013c83d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 1e773776b48190ee
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-VSYNC-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.46' to connect
+ceckpoint
+chesks
+chesks
+chesks
+chesks
+chesks
+Guru Meditation Error: Core  1 panic'ed (StoreProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d15bb  PS      : 0x00060b30  A0      : 0x800d164c  A1      : 0x3ffb20c0  
+A2      : 0x3f800810  A3      : 0x3f40132a  A4      : 0x3f809c56  A5      : 0x3ffc8bf0  
+A6      : 0x00000000  A7      : 0x00000000  A8      : 0x800d15b7  A9      : 0x3ffb20a0  
+A10     : 0x3ffc8bf0  A11     : 0x3f40132a  A12     : 0x00000000  A13     : 0x00000000  
+A14     : 0x00ff0000  A15     : 0xff000000  SAR     : 0x00000019  EXCCAUSE: 0x0000001d  
+EXCVADDR: 0x00000000  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d15b8:0x3ffb20c0 0x400d1649:0x3ffb2100 0x401ea649:0x3ffb2130 0x40137102:0x3ffb2150 0x4013720d:0x3ffb2170 0x401372f3:0x3ffb21b0 0x4013749a:0x3ffb2220 0x400d1b7e:0x3ffb2270 0x4013c83d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 1e773776b48190ee
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.46' to connect

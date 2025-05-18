@@ -1,0 +1,1488 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (279) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105E (280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (283) ledc: ledc_update_duty(653): LEDC is not initialized
+E (298) ledc: ledc_set_duty(725): LEDC is not initialized
+E (298) ledc: ledc_update_duty(653): LEDC is not initialized
+E (309) ledc: ledc_set_duty(725): LEDC is not initialized
+E (309) ledc: ledc_update_duty(653): LEDC is not initialized
+E (319) ledc: ledc_set_duty(725): LEDC is not initialized
+E (319) ledc: ledc_update_duty(653): LEDC is not initialized
+E (330) ledc: ledc_set_duty(725): LEDC is not initialized
+E (330) ledc: ledc_update_duty(653): LEDC is not initialized
+E (340) ledc: ledc_set_duty(725): LEDC is not initialized
+E (340) ledc: ledc_update_duty(653): LEDC is not initialized
+E (351) ledc: ledc_set_duty(725): LEDC is not initialized
+E (351) ledc: ledc_update_duty(653): LEDC is not initialized
+E (361) ledc: ledc_set_duty(725): LEDC is not initialized
+E (361) ledc: ledc_update_duty(653): LEDC is not initialized
+E (372) ledc: ledc_set_duty(725): LEDC is not initialized
+E (372) ledc: ledc_update_duty(653): LEDC is not initialized
+E (382) ledc: ledc_set_duty(725): LEDC is not initialized
+E (382) ledc: ledc_update_duty(653): LEDC is not initialized
+E (393) ledc: ledc_set_duty(725): LEDC is not initialized
+E (393) ledc: ledc_update_duty(653): LEDC is not initialized
+E (403) ledc: ledc_set_duty(725): LEDC is not initialized
+E (403) ledc: ledc_update_duty(653): LEDC is not initialized
+E (414) ledc: ledc_set_duty(725): LEDC is not initialized
+E (414) ledc: ledc_update_duty(653): LEDC is not initialized
+E (424) ledc: ledc_set_duty(725): LEDC is not initialized
+E (424) ledc: ledc_update_duty(653): LEDC is not initialized
+E (435) ledc: ledc_set_duty(725): LEDC is not initialized
+E (435) ledc: ledc_update_duty(653): LEDC is not initialized
+E (445) ledc: ledc_set_duty(725): LEDC is not initialized
+E (445) ledc: ledc_update_duty(653): LEDC is not initialized
+E (456) ledc: ledc_set_duty(725): LEDC is not initialized
+E (456) ledc: ledc_update_duty(653): LEDC is not initialized
+E (466) ledc: ledc_set_duty(725): LEDC is not initialized
+E (466) ledc: ledc_update_duty(653): LEDC is not initialized
+E (477) ledc: ledc_set_duty(725): LEDC is not initialized
+E (477) ledc: ledc_update_duty(653): LEDC is not initialized
+E (487) ledc: ledc_set_duty(725): LEDC is not initialized
+E (487) ledc: ledc_update_duty(653): LEDC is not initialized
+E (498) ledc: ledc_set_duty(725): LEDC is not initialized
+E (498) ledc: ledc_update_duty(653): LEDC is not initialized
+E (508) ledc: ledc_set_duty(725): LEDC is not initialized
+E (508) ledc: ledc_update_duty(653): LEDC is not initialized
+E (519) ledc: ledc_set_duty(725): LEDC is not initialized
+E (519) ledc: ledc_update_duty(653): LEDC is not initialized
+E (529) ledc: ledc_set_duty(725): LEDC is not initialized
+E (529) ledc: ledc_update_duty(653): LEDC is not initialized
+E (540) ledc: ledc_set_duty(725): LEDC is not initialized
+E (540) ledc: ledc_update_duty(653): LEDC is not initialized
+E (550) ledc: ledc_set_duty(725): LEDC is not initialized
+E (550) ledc: ledc_update_duty(653): LEDC is not initialized
+E (561) ledc: ledc_set_duty(725): LEDC is not initialized
+E (561) ledc: ledc_update_duty(653): LEDC is not initialized
+E (571) ledc: ledc_set_duty(725): LEDC is not initialized
+E (571) ledc: ledc_update_duty(653): LEDC is not initialized
+E (582) ledc: ledc_set_duty(725): LEDC is not initialized
+E (582) ledc: ledc_update_duty(653): LEDC is not initialized
+E (592) ledc: ledc_set_duty(725): LEDC is not initialized
+E (592) ledc: ledc_update_duty(653): LEDC is not initialized
+E (603) ledc: ledc_set_duty(725): LEDC is not initialized
+E (603) ledc: ledc_update_duty(653): LEDC is not initialized
+E (613) ledc: ledc_set_duty(725): LEDC is not initialized
+E (613) ledc: ledc_update_duty(653): LEDC is not initialized
+E (624) ledc: ledc_set_duty(725): LEDC is not initialized
+E (624) ledc: ledc_update_duty(653): LEDC is not initialized
+E (634) ledc: ledc_set_duty(725): LEDC is not initialized
+E (634) ledc: ledc_update_duty(653): LEDC is not initialized
+E (645) ledc: ledc_set_duty(725): LEDC is not initialized
+E (645) ledc: ledc_update_duty(653): LEDC is not initialized
+E (655) ledc: ledc_set_duty(725): LEDC is not initialized
+E (655) ledc: ledc_update_duty(653): LEDC is not initialized
+E (666) ledc: ledc_set_duty(725): LEDC is not initialized
+E (666) ledc: ledc_update_duty(653): LEDC is not initialized
+E (676) ledc: ledc_set_duty(725): LEDC is not initialized
+E (676) ledc: ledc_update_duty(653): LEDC is not initialized
+E (687) ledc: ledc_set_duty(725): LEDC is not initialized
+E (687) ledc: ledc_update_duty(653): LEDC is not initialized
+E (697) ledc: ledc_set_duty(725): LEDC is not initialized
+E (697) ledc: ledc_update_duty(653): LEDC is not initialized
+E (708) ledc: ledc_set_duty(725): LEDC is not initialized
+E (708) ledc: ledc_update_duty(653): LEDC is not initialized
+E (718) ledc: ledc_set_duty(725): LEDC is not initialized
+E (718) ledc: ledc_update_duty(653): LEDC is not initialized
+E (729) ledc: ledc_set_duty(725): LEDC is not initialized
+E (729) ledc: ledc_update_duty(653): LEDC is not initialized
+E (739) ledc: ledc_set_duty(725): LEDC is not initialized
+E (739) ledc: ledc_update_duty(653): LEDC is not initialized
+E (750) ledc: ledc_set_duty(725): LEDC is not initialized
+E (750) ledc: ledc_update_duty(653): LEDC is not initialized
+E (760) ledc: ledc_set_duty(725): LEDC is not initialized
+E (760) ledc: ledc_update_duty(653): LEDC is not initialized
+E (771) ledc: ledc_set_duty(725): LEDC is not initialized
+E (771) ledc: ledc_update_duty(653): LEDC is not initialized
+E (781) ledc: ledc_set_duty(725): LEDC is not initialized
+E (781) ledc: ledc_update_duty(653): LEDC is not initialized
+E (792) ledc: ledc_set_duty(725): LEDC is not initialized
+E (792) ledc: ledc_update_duty(653): LEDC is not initialized
+E (802) ledc: ledc_set_duty(725): LEDC is not initialized
+E (802) ledc: ledc_update_duty(653): LEDC is not initialized
+E (813) ledc: ledc_set_duty(725): LEDC is not initialized
+E (813) ledc: ledc_update_duty(653): LEDC is not initialized
+E (823) ledc: ledc_set_duty(725): LEDC is not initialized
+E (823) ledc: ledc_update_duty(653): LEDC is not initialized
+E (834) ledc: ledc_set_duty(725): LEDC is not initialized
+E (834) ledc: ledc_update_duty(653): LEDC is not initialized
+E (844) ledc: ledc_set_duty(725): LEDC is not initialized
+E (844) ledc: ledc_update_duty(653): LEDC is not initialized
+E (855) ledc: ledc_set_duty(725): LEDC is not initialized
+E (855) ledc: ledc_update_duty(653): LEDC is not initialized
+E (865) ledc: ledc_set_duty(725): LEDC is not initialized
+E (865) ledc: ledc_update_duty(653): LEDC is not initialized
+E (876) ledc: ledc_set_duty(725): LEDC is not initialized
+E (876) ledc: ledc_update_duty(653): LEDC is not initialized
+E (886) ledc: ledc_set_duty(725): LEDC is not initialized
+E (886) ledc: ledc_update_duty(653): LEDC is not initialized
+E (897) ledc: ledc_set_duty(725): LEDC is not initialized
+E (897) ledc: ledc_update_duty(653): LEDC is not initialized
+E (907) ledc: ledc_set_duty(725): LEDC is not initialized
+E (907) ledc: ledc_update_duty(653): LEDC is not initialized
+E (918) ledc: ledc_set_duty(725): LEDC is not initialized
+E (918) ledc: ledc_update_duty(653): LEDC is not initialized
+E (928) ledc: ledc_set_duty(725): LEDC is not initialized
+E (928) ledc: ledc_update_duty(653): LEDC is not initialized
+E (939) ledc: ledc_set_duty(725): LEDC is not initialized
+E (939) ledc: ledc_update_duty(653): LEDC is not initialized
+E (949) ledc: ledc_set_duty(725): LEDC is not initialized
+E (949) ledc: ledc_update_duty(653): LEDC is not initialized
+E (960) ledc: ledc_set_duty(725): LEDC is not initialized
+E (960) ledc: ledc_update_duty(653): LEDC is not initialized
+E (970) ledc: ledc_set_duty(725): LEDC is not initialized
+E (970) ledc: ledc_update_duty(653): LEDC is not initialized
+E (981) ledc: ledc_set_duty(725): LEDC is not initialized
+E (981) ledc: ledc_update_duty(653): LEDC is not initialized
+E (991) ledc: ledc_set_duty(725): LEDC is not initialized
+E (991) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1002) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1002) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1012) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1012) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1023) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1023) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1034) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1034) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1044) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1044) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1055) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1055) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1066) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1066) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1076) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1076) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1087) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1087) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1098) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1098) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1109) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1109) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1119) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1119) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1130) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1130) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1141) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1141) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1151) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1151) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1162) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1162) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1173) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1173) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1183) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1183) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1194) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1194) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1205) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1205) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1215) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1215) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1226) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1226) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1237) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1237) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1247) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1247) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1258) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1258) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1269) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1269) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1279) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1279) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1290) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1290) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1301) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1301) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1311) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1311) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1322) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1322) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1333) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1333) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1343) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1343) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1354) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1354) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1365) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1365) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1375) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1375) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1386) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1386) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1397) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1397) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1407) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1407) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1418) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1418) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1429) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1429) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1440) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1440) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1450) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1450) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1461) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1461) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1472) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1472) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1482) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1482) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1493) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1493) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1504) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1504) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1514) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1514) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1525) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1525) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1536) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1536) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1546) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1546) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1557) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1557) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1568) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1568) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1578) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1578) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1589) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1589) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1600) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1600) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1610) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1610) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1621) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1621) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1632) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1632) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1642) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1642) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1653) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1653) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1664) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1664) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1674) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1674) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1685) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1685) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1696) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1696) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1706) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1706) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1717) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1717) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1728) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1728) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1738) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1738) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1749) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1749) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1760) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1760) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1770) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1770) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1781) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1781) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1792) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1792) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1803) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1803) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1813) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1813) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1824) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1824) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1835) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1835) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1845) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1845) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1856) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1856) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1867) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1867) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1877) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1877) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1888) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1888) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1899) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1899) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1909) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1909) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1920) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1920) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1931) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1931) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1941) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1941) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1952) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1952) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1963) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1963) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1973) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1973) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1984) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1984) ledc: ledc_update_duty(653): LEDC is not initialized
+E (1995) ledc: ledc_set_duty(725): LEDC is not initialized
+E (1995) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2005) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2005) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2016) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2016) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2027) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2027) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2037) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2037) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2048) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2048) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2059) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2059) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2069) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2069) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2080) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2080) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2091) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2091) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2101) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2101) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2112) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2112) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2123) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2123) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2134) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2134) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2144) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2144) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2155) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2155) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2166) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2166) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2176) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2176) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2187) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2187) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2198) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2198) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2208) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2208) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2219) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2219) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2230) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2230) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2240) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2240) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2251) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2251) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2262) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2262) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2272) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2272) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2283) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2283) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2294) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2294) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2304) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2304) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2315) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2315) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2326) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2326) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2336) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2336) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2347) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2347) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2358) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2358) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2368) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2368) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2379) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2379) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2390) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2390) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2400) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2400) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2411) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2411) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2422) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2422) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2432) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2432) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2443) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2443) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2454) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2454) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2464) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2464) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2475) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2475) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2486) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2486) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2497) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2497) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2507) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2507) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2518) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2518) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2529) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2529) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2539) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2539) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2550) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2550) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2561) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2561) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2571) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2571) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2582) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2582) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2593) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2593) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2603) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2603) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2614) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2614) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2625) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2625) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2635) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2635) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2646) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2646) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2657) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2657) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2667) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2667) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2678) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2678) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2689) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2689) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2699) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2699) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2710) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2710) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2721) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2721) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2731) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2731) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2742) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2742) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2753) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2753) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2763) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2763) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2774) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2774) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2785) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2785) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2795) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2795) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2806) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2806) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2817) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2817) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2828) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2828) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2838) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2838) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2849) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2849) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2860) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2860) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2870) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2870) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2881) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2881) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2892) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2892) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2902) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2902) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2913) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2913) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2924) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2924) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2934) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2934) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2945) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2945) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2956) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2956) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2966) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2966) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2977) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2977) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2988) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2988) ledc: ledc_update_duty(653): LEDC is not initialized
+E (2998) ledc: ledc_set_duty(725): LEDC is not initialized
+E (2998) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3009) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3009) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3020) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3020) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3030) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3030) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3041) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3041) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3052) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3052) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3062) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3062) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3073) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3073) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3084) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3084) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3094) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3094) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3105) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3105) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3116) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3116) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3126) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3126) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3137) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3137) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3148) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3148) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3158) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3158) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3169) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3169) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3180) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3180) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3191) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3191) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3201) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3201) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3212) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3212) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3223) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3223) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3233) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3233) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3244) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3244) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3255) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3255) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3265) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3265) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3276) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3276) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3287) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3287) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3297) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3297) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3308) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3308) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3319) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3319) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3329) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3329) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3340) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3340) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3351) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3351) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3361) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3361) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3372) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3372) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3383) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3383) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3393) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3393) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3404) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3404) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3415) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3415) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3425) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3425) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3436) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3436) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3447) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3447) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3457) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3457) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3468) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3468) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3479) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3479) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3489) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3489) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3500) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3500) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3511) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3511) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3522) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3522) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3532) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3532) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3543) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3543) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3554) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3554) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3564) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3564) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3575) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3575) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3586) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3586) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3596) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3596) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3607) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3607) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3618) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3618) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3628) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3628) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3639) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3639) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3650) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3650) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3660) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3660) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3671) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3671) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3682) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3682) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3692) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3692) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3703) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3703) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3714) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3714) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3724) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3724) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3735) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3735) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3746) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3746) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3756) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3756) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3767) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3767) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3778) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3778) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3788) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3788) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3799) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3799) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3810) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3810) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3820) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3820) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3831) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3831) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3842) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3842) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3852) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3852) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3863) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3863) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3874) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3874) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3885) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3885) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3895) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3895) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3906) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3906) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3917) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3917) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3927) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3927) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3938) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3938) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3949) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3949) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3959) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3959) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3970) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3970) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3981) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3981) ledc: ledc_update_duty(653): LEDC is not initialized
+E (3991) ledc: ledc_set_duty(725): LEDC is not initialized
+E (3991) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4002) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4002) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4013) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4013) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4023) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4023) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4034) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4034) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4045) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4045) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4055) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4055) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4066) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4066) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4077) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4077) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4087) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4087) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4098) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4098) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4109) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4109) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4119) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4119) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4130) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4130) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4141) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4141) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4151) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4151) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4162) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4162) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4173) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4173) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4183) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4183) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4194) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4194) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4205) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4205) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4216) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4216) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4226) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4226) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4237) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4237) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4248) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4248) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4258) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4258) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4269) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4269) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4280) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4280) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4290) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4290) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4301) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4301) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4312) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4312) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4322) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4322) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4333) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4333) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4344) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4344) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4354) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4354) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4365) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4365) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4376) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4376) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4386) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4386) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4397) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4397) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4408) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4408) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4418) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4418) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4429) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4429) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4440) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4440) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4450) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4450) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4461) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4461) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4472) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4472) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4482) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4482) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4493) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4493) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4504) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4504) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4514) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4514) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4525) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4525) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4536) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4536) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4547) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4547) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4557) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4557) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4568) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4568) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4579) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4579) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4589) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4589) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4600) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4600) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4611) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4611) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4621) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4621) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4632) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4632) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4643) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4643) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4653) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4653) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4664) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4664) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4675) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4675) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4685) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4685) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4696) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4696) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4707) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4707) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4717) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4717) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4728) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4728) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4739) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4739) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4749) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4749) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4760) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4760) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4771) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4771) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4781) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4781) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4792) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4792) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4803) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4803) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4813) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4813) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4824) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4824) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4835) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4835) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4845) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4845) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4856) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4856) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4867) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4867) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4877) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4877) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4888) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4888) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4899) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4899) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4910) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4910) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4920) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4920) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4931) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4931) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4942) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4942) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4952) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4952) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4963) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4963) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4974) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4974) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4984) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4984) ledc: ledc_update_duty(653): LEDC is not initialized
+E (4995) ledc: ledc_set_duty(725): LEDC is not initialized
+E (4995) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5006) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5006) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5016) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5016) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5027) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5027) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5038) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5038) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5048) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5048) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5059) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5059) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5070) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5070) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5080) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5080) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5091) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5091) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5102) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5102) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5112) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5112) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5123) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5123) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5134) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5134) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5144) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5144) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5155) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5155) ledc: ledc_update_duty(653): LEDC is not initialized
+E (5166) ledc: ledc_set_duty(725): LEDC is not initialized
+E (5166) ledc: ledc_update_duty(653): LEDC is not initialized
+E�ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+192.168.137.107
+Camera Ready! Use 'http://192.168.137.107' to connect
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=259, Y_scale is=112
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=303, Y_scale is=228
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=179, Y_scale is=73
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=126, Y_scale is=160
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=170, Y_scale is=122
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=94, Y_scale is=161
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=156, Y_scale is=149
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=88, Y_scale is=136
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=63, Y_scale is=68
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=234, Y_scale is=137
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=72, Y_scale is=66
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=189, Y_scale is=124
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=61, Y_scale is=77
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=175
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=50, Y_scale is=85
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=69, Y_scale is=63
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=90, Y_scale is=130
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=71, Y_scale is=61
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=156, Y_scale is=119
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=66, Y_scale is=69
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=76, Y_scale is=77
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=114, Y_scale is=130
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+cam_hal: EV-VSYNC-OVF
+Blue: X_scale is=77, Y_scale is=68
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=125
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=78, Y_scale is=75
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=246, Y_scale is=135
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=121, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=127, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=159, Y_scale is=84
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=114, Y_scale is=48
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=236, Y_scale is=147
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=94, Y_scale is=61
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=237, Y_scale is=176
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=101, Y_scale is=60
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=157, Y_scale is=87
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=102, Y_scale is=60
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=110, Y_scale is=122
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=102, Y_scale is=52
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=21, Y_scale is=146
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=92, Y_scale is=65
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=152
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+192.168.137.107
+Camera Ready! Use 'http://192.168.137.107' to connect
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=78, Y_scale is=70
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=101, Y_scale is=47
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=238, Y_scale is=136
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+192.168.137.107
+Camera Ready! Use 'http://192.168.137.107' to connect
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=119, Y_scale is=68
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=112, Y_scale is=48
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=126, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=275, Y_scale is=185
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=134, Y_scale is=30
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=287, Y_scale is=184
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=107, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=213, Y_scale is=109
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=110, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=189, Y_scale is=97
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=143, Y_scale is=26
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=162, Y_scale is=83
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=100, Y_scale is=56
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=165, Y_scale is=82
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=123, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=279, Y_scale is=189
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=105, Y_scale is=50
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=110, Y_scale is=49
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=197, Y_scale is=108
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=77, Y_scale is=65
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=257, Y_scale is=171
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=220, Y_scale is=13
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=233, Y_scale is=167
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=232, Y_scale is=167
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=214, Y_scale is=9
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=173, Y_scale is=26
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=248, Y_scale is=158
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=206, Y_scale is=10
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=207, Y_scale is=126
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=214, Y_scale is=133
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=221, Y_scale is=2
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=240, Y_scale is=160
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=200, Y_scale is=123
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=39, Y_scale is=86
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=196, Y_scale is=135
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=185, Y_scale is=19
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=250, Y_scale is=156
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=112, Y_scale is=52
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=217, Y_scale is=124
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=183, Y_scale is=14
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=240, Y_scale is=161
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=201, Y_scale is=11
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=194, Y_scale is=114
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=128, Y_scale is=55
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=212, Y_scale is=129
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=147, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=243, Y_scale is=160
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall
+↓ D1 Falling Edge Interrupt has been occured.
+
+rise
+Blue: X_scale is=158, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=257, Y_scale is=159
+↑ D1 Rising Edge Interrupt has been occured.
+
+fall

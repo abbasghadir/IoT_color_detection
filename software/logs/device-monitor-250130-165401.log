@@ -1,0 +1,201 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-VSYNC-OVF
+....
+WiFi connected
+192.168.137.107
+Camera Ready! Use 'http://192.168.137.107' to connect
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+Blue: X_scale is=200, Y_scale is=27
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=169
+cam_hal: EV-VSYNC-OVF
+Blue: X_scale is=231, Y_scale is=23
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=49, Y_scale is=178
+Blue: X_scale is=278, Y_scale is=10
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=52, Y_scale is=173
+Blue: X_scale is=268, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=176
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=54, Y_scale is=163
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=158
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=164
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=168
+cam_hal: EV-VSYNC-OVF
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=166
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=83, Y_scale is=162
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=93, Y_scale is=156
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=153
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=83, Y_scale is=159
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=80, Y_scale is=157
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=82, Y_scale is=159
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=85, Y_scale is=157
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=78, Y_scale is=156
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=83, Y_scale is=153
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=94, Y_scale is=78
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=108, Y_scale is=88
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=126, Y_scale is=101
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=103, Y_scale is=90
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=107, Y_scale is=92
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=112, Y_scale is=87
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=176, Y_scale is=130
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=146, Y_scale is=108
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=95, Y_scale is=111
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=109, Y_scale is=107
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=103, Y_scale is=109
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=97, Y_scale is=99
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=115, Y_scale is=116
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=112
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=89, Y_scale is=110
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=92, Y_scale is=102
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=97, Y_scale is=104
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=103, Y_scale is=110
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=94, Y_scale is=102
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=88, Y_scale is=103
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=83, Y_scale is=101
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=78, Y_scale is=92
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=115, Y_scale is=113
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=104, Y_scale is=100
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=118, Y_scale is=115
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=102, Y_scale is=111
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=82, Y_scale is=97
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=98, Y_scale is=96
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=113, Y_scale is=99
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=111, Y_scale is=100
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=112, Y_scale is=119
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=97, Y_scale is=103
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=129, Y_scale is=102
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=92, Y_scale is=106
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=109, Y_scale is=116
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=107, Y_scale is=121
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=118, Y_scale is=120
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-VSYNC-OVF
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=123, Y_scale is=105
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=115, Y_scale is=116
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=115, Y_scale is=108
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=135, Y_scale is=90

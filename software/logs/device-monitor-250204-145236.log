@@ -1,0 +1,1440 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+.........E (11281) wifi:Set status to INIT
+E (11299) wifi:Set status to INIT
+E (11315) wifi:Set status to INIT
+E (11333) wifi:Set status to INIT
+E (11353) wifi:Set status to INIT
+E (11371) wifi:Set status to INIT
+E (11389) wifi:Set status to INIT
+E (11408) wifi:Set status to INIT
+E (11426) wifi:Set status to INIT
+.E (11444) wifi:Set status to INIT
+E (11462) wifi:Set status to INIT
+E (11480) wifi:Set status to INIT
+E (11498) wifi:Set status to INIT
+E (11516) wifi:Set status to INIT
+E (11534) wifi:Set status to INIT
+E (11552) wifi:Set status to INIT
+E (11570) wifi:Set status to INIT
+E (11588) wifi:Set status to INIT
+E (11606) wifi:Set status to INIT
+E (11622) wifi:Set status to INIT
+E (11640) wifi:Set status to INIT
+E (11658) wifi:Set status to INIT
+E (11676) wifi:Set status to INIT
+E (11694) wifi:Set status to INIT
+E (11712) wifi:Set status to INIT
+E (11730) wifi:Set status to INIT
+E (11748) wifi:Set status to INIT
+E (11828) wifi:Set status to INIT
+E (11848) wifi:Set status to INIT
+E (11866) wifi:Set status to INIT
+E (11886) wifi:Set status to INIT
+E (11905) wifi:Set status to INIT
+E (11923) wifi:Set status to INIT
+.E (11941) wifi:Set status to INIT
+E (11959) wifi:Set status to INIT
+E (11977) wifi:Set status to INIT
+E (11996) wifi:Set status to INIT
+E (12014) wifi:Set status to INIT
+E (12032) wifi:Set status to INIT
+E (12050) wifi:Set status to INIT
+E (12067) wifi:Set status to INIT
+E (12085) wifi:Set status to INIT
+E (12133) wifi:Set status to INIT
+E (12151) wifi:Set status to INIT
+E (12169) wifi:Set status to INIT
+E (12187) wifi:Set status to INIT
+E (12205) wifi:Set status to INIT
+E (12223) wifi:Set status to INIT
+E (12241) wifi:Set status to INIT
+E (12259) wifi:Set status to INIT
+E (12338) wifi:Set status to INIT
+E (12356) wifi:Set status to INIT
+E (12374) wifi:Set status to INIT
+E (12392) wifi:Set status to INIT
+E (12410) wifi:Set status to INIT
+E (12428) wifi:Set status to INIT
+.E (12446) wifi:Set status to INIT
+E (12464) wifi:Set status to INIT
+E (12482) wifi:Set status to INIT
+E (12503) wifi:Set status to INIT
+E (12521) wifi:Set status to INIT
+E (12539) wifi:Set status to INIT
+E (12557) wifi:Set status to INIT
+E (12578) wifi:Set status to INIT
+E (12596) wifi:Set status to INIT
+E (12614) wifi:Set status to INIT
+E (12632) wifi:Set status to INIT
+E (12650) wifi:Set status to INIT
+E (12667) wifi:Set status to INIT
+E (12685) wifi:Set status to INIT
+E (12706) wifi:Set status to INIT
+E (12724) wifi:Set status to INIT
+E (12742) wifi:Set status to INIT
+E (12761) wifi:Set status to INIT
+E (12779) wifi:Set status to INIT
+E (12798) wifi:Set status to INIT
+E (12816) wifi:Set status to INIT
+E (12834) wifi:Set status to INIT
+E (12850) wifi:Set status to INIT
+E (12868) wifi:Set status to INIT
+E (12886) wifi:Set status to INIT
+E (12904) wifi:Set status to INIT
+E (12922) wifi:Set status to INIT
+.E (12942) wifi:Set status to INIT
+E (12959) wifi:Set status to INIT
+E (12977) wifi:Set status to INIT
+E (12995) wifi:Set status to INIT
+E (13015) wifi:Set status to INIT
+E (13033) wifi:Set status to INIT
+E (13051) wifi:Set status to INIT
+E (13069) wifi:Set status to INIT
+E (13087) wifi:Set status to INIT
+E (13105) wifi:Set status to INIT
+E (13123) wifi:Set status to INIT
+E (13141) wifi:Set status to INIT
+E (13157) wifi:Set status to INIT
+E (13259) wifi:Set status to INIT
+E (13277) wifi:Set status to INIT
+E (13296) wifi:Set status to INIT
+E (13314) wifi:Set status to INIT
+E (13332) wifi:Set status to INIT
+E (13350) wifi:Set status to INIT
+E (13368) wifi:Set status to INIT
+E (13386) wifi:Set status to INIT
+.E (13463) wifi:Set status to INIT
+E (13483) wifi:Set status to INIT
+E (13503) wifi:Set status to INIT
+E (13523) wifi:Set status to INIT
+E (13541) wifi:Set status to INIT
+E (13559) wifi:Set status to INIT
+E (13577) wifi:Set status to INIT
+E (13595) wifi:Set status to INIT
+E (13613) wifi:Set status to INIT
+E (13633) wifi:Set status to INIT
+E (13651) wifi:Set status to INIT
+E (13669) wifi:Set status to INIT
+E (13687) wifi:Set status to INIT
+E (13705) wifi:Set status to INIT
+E (13723) wifi:Set status to INIT
+E (13742) wifi:Set status to INIT
+E (13760) wifi:Set status to INIT
+E (13778) wifi:Set status to INIT
+E (13797) wifi:Set status to INIT
+E (13815) wifi:Set status to INIT
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (1607) wifi:Set status to INIT
+E (1627) wifi:Set status to INIT
+E (1649) wifi:Set status to INIT
+E (1672) wifi:Set status to INIT
+E (1695) wifi:Set status to INIT
+E (1713) wifi:Set status to INIT
+E (1731) wifi:Set status to INIT
+E (1749) wifi:Set status to INIT
+E (1767) wifi:Set status to INIT
+E (1785) wifi:Set status to INIT
+E (1803) wifi:Set status to INIT
+E (1821) wifi:Set status to INIT
+E (1839) wifi:Set status to INIT
+E (1937) wifi:Set status to INIT
+E (1955) wifi:Set status to INIT
+E (1975) wifi:Set status to INIT
+E (1994) wifi:Set status to INIT
+E (2012) wifi:Set status to INIT
+E (2030) wifi:Set status to INIT
+E (2048) wifi:Set status to INIT
+E (2066) wifi:Set status to INIT
+E (2084) wifi:Set status to INIT
+.E (2104) wifi:Set status to INIT
+E (2127) wifi:Set status to INIT
+E (2145) wifi:Set status to INIT
+E (2163) wifi:Set status to INIT
+E (2181) wifi:Set status to INIT
+E (2201) wifi:Set status to INIT
+E (2219) wifi:Set status to INIT
+E (2237) wifi:Set status to INIT
+E (2255) wifi:Set status to INIT
+E (2273) wifi:Set status to INIT
+E (2291) wifi:Set status to INIT
+E (2309) wifi:Set status to INIT
+E (2346) wifi:Set status to INIT
+E (2364) wifi:Set status to INIT
+E (2382) wifi:Set status to INIT
+E (2404) wifi:Set status to INIT
+E (2422) wifi:Set status to INIT
+E (2440) wifi:Set status to INIT
+E (2458) wifi:Set status to INIT
+E (2476) wifi:Set status to INIT
+E (2494) wifi:Set status to INIT
+E (2514) wifi:Set status to INIT
+E (2532) wifi:Set status to INIT
+E (2550) wifi:Set status to INIT
+E (2568) wifi:Set status to INIT
+E (2586) wifi:Set status to INIT
+.E (2604) wifi:Set status to INIT
+E (2621) wifi:Set status to INIT
+E (2639) wifi:Set status to INIT
+E (2657) wifi:Set status to INIT
+E (2675) wifi:Set status to INIT
+E (2693) wifi:Set status to INIT
+E (2711) wifi:Set status to INIT
+E (2729) wifi:Set status to INIT
+E (2756) wifi:Set status to INIT
+E (2774) wifi:Set status to INIT
+E (2793) wifi:Set status to INIT
+E (2811) wifi:Set status to INIT
+E (2832) wifi:Set status to INIT
+E (2851) wifi:Set status to INIT
+E (2869) wifi:Set status to INIT
+E (2887) wifi:Set status to INIT
+E (2904) wifi:Set status to INIT
+E (2924) wifi:Set status to INIT
+E (2942) wifi:Set status to INIT
+E (2961) wifi:Set status to INIT
+E (2979) wifi:Set status to INIT
+E (2997) wifi:Set status to INIT
+E (3015) wifi:Set status to INIT
+E (3032) wifi:Set status to INIT
+E (3050) wifi:Set status to INIT
+E (3069) wifi:Set status to INIT
+E (3087) wifi:Set status to INIT
+.E (3106) wifi:Set status to INIT
+E (3130) wifi:Set status to INIT
+E (3147) wifi:Set status to INIT
+E (3165) wifi:Set status to INIT
+E (3183) wifi:Set status to INIT
+E (3201) wifi:Set status to INIT
+E (3219) wifi:Set status to INIT
+E (3237) wifi:Set status to INIT
+E (3255) wifi:Set status to INIT
+E (3273) wifi:Set status to INIT
+E (3291) wifi:Set status to INIT
+E (3309) wifi:Set status to INIT
+E (3329) wifi:Set status to INIT
+E (3347) wifi:Set status to INIT
+E (3366) wifi:Set status to INIT
+E (3384) wifi:Set status to INIT
+E (3402) wifi:Set status to INIT
+E (3423) wifi:Set status to INIT
+E (3441) wifi:Set status to INIT
+E (3459) wifi:Set status to INIT
+E (3477) wifi:Set status to INIT
+E (3495) wifi:Set status to INIT
+E (3513) wifi:Set status to INIT
+E (3531) wifi:Set status to INIT
+E (3549) wifi:Set status to INIT
+E (3567) wifi:Set status to INIT
+E (3585) wifi:Set status to INIT
+.E (3603) wifi:Set status to INIT
+E (3621) wifi:Set status to INIT
+E (3640) wifi:Set status to INIT
+E (3659) wifi:Set status to INIT
+E (3677) wifi:Set status to INIT
+E (3695) wifi:Set status to INIT
+E (3713) wifi:Set status to INIT
+E (3731) wifi:Set status to INIT
+E (3749) wifi:Set status to INIT
+E (3779) wifi:Set status to INIT
+E (3797) wifi:Set status to INIT
+E (3816) wifi:Set status to INIT
+E (3834) wifi:Set status to INIT
+E (3852) wifi:Set status to INIT
+E (3875) wifi:Set status to INIT
+E (3893) wifi:Set status to INIT
+E (3911) wifi:Set status to INIT
+E (3929) wifi:Set status to INIT
+E (3947) wifi:Set status to INIT
+E (3966) wifi:Set status to INIT
+E (3984) wifi:Set status to INIT
+E (4002) wifi:Set status to INIT
+E (4020) wifi:Set status to INIT
+E (4038) wifi:Set status to INIT
+E (4056) wifi:Set status to INIT
+E (4074) wifi:Set status to INIT
+E (4092) wifi:Set status to INIT
+.E (4110) wifi:Set status to INIT
+E (4128) wifi:Set status to INIT
+E (4148) wifi:Set status to INIT
+E (4166) wifi:Set status to INIT
+E (4186) wifi:Set status to INIT
+E (4204) wifi:Set status to INIT
+E (4222) wifi:Set status to INIT
+E (4240) wifi:Set status to INIT
+E (4260) wifi:Set status to INIT
+E (4291) wifi:Set status to INIT
+E (4310) wifi:Set status to INIT
+E (4328) wifi:Set status to INIT
+E (4346) wifi:Set status to INIT
+E (4364) wifi:Set status to INIT
+E (4382) wifi:Set status to INIT
+E (4400) wifi:Set status to INIT
+E (4418) wifi:Set status to INIT
+E (4436) wifi:Set status to INIT
+E (4454) wifi:Set status to INIT
+E (4475) wifi:Set status to INIT
+E (4493) wifi:Set status to INIT
+E (4511) wifi:Set status to INIT
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+....E (6439) wifi:Set status to INIT
+E (6457) wifi:Set status to INIT
+E (6478) wifi:Set status to INIT
+E (6496) wifi:Set status to INIT
+.E (6515) wifi:Set status to INIT
+E (6534) wifi:Set status to INIT
+E (6552) wifi:Set status to INIT
+E (6570) wifi:Set status to INIT
+E (6593) wifi:Set status to INIT
+E (6611) wifi:Set status to INIT
+E (6629) wifi:Set status to INIT
+E (6647) wifi:Set status to INIT
+E (6665) wifi:Set status to INIT
+E (6683) wifi:Set status to INIT
+E (6701) wifi:Set status to INIT
+E (6720) wifi:Set status to INIT
+E (6738) wifi:Set status to INIT
+E (6757) wifi:Set status to INIT
+E (6775) wifi:Set status to INIT
+E (6793) wifi:Set status to INIT
+E (6811) wifi:Set status to INIT
+E (6829) wifi:Set status to INIT
+E (6847) wifi:Set status to INIT
+E (6865) wifi:Set status to INIT
+E (6883) wifi:Set status to INIT
+E (6901) wifi:Set status to INIT
+E (6919) wifi:Set status to INIT
+E (6937) wifi:Set status to INIT
+E (6955) wifi:Set status to INIT
+E (6977) wifi:Set status to INIT
+E (6997) wifi:Set status to INIT
+.E (7016) wifi:Set status to INIT
+E (7034) wifi:Set status to INIT
+E (7051) wifi:Set status to INIT
+E (7069) wifi:Set status to INIT
+E (7087) wifi:Set status to INIT
+E (7105) wifi:Set status to INIT
+E (7123) wifi:Set status to INIT
+E (7141) wifi:Set status to INIT
+E (7159) wifi:Set status to INIT
+E (7177) wifi:Set status to INIT
+E (7195) wifi:Set status to INIT
+E (7212) wifi:Set status to INIT
+E (7231) wifi:Set status to INIT
+E (7249) wifi:Set status to INIT
+E (7267) wifi:Set status to INIT
+E (7285) wifi:Set status to INIT
+E (7305) wifi:Set status to INIT
+E (7324) wifi:Set status to INIT
+E (7345) wifi:Set status to INIT
+E (7363) wifi:Set status to INIT
+E (7382) wifi:Set status to INIT
+E (7400) wifi:Set status to INIT
+E (7418) wifi:Set status to INIT
+E (7436) wifi:Set status to INIT
+E (7454) wifi:Set status to INIT
+E (7472) wifi:Set status to INIT
+E (7490) wifi:Set status to INIT
+E (7509) wifi:Set status to INIT
+.E (7527) wifi:Set status to INIT
+E (7545) wifi:Set status to INIT
+E (7563) wifi:Set status to INIT
+E (7581) wifi:Set status to INIT
+E (7599) wifi:Set status to INIT
+E (7617) wifi:Set status to INIT
+E (7635) wifi:Set status to INIT
+E (7653) wifi:Set status to INIT
+E (7671) wifi:Set status to INIT
+E (7691) wifi:Set status to INIT
+E (7714) wifi:Set status to INIT
+E (7732) wifi:Set status to INIT
+E (7750) wifi:Set status to INIT
+E (7768) wifi:Set status to INIT
+E (7786) wifi:Set status to INIT
+E (7806) wifi:Set status to INIT
+E (7826) wifi:Set status to INIT
+E (7845) wifi:Set status to INIT
+E (7863) wifi:Set status to INIT
+E (7881) wifi:Set status to INIT
+E (7900) wifi:Set status to INIT
+E (7919) wifi:Set status to INIT
+E (7937) wifi:Set status to INIT
+E (7958) wifi:Set status to INIT
+E (7976) wifi:Set status to INIT
+E (7998) wifi:Set status to INIT
+.E (8016) wifi:Set status to INIT
+E (8034) wifi:Set status to INIT
+E (8052) wifi:Set status to INIT
+E (8070) wifi:Set status to INIT
+E (8088) wifi:Set status to INIT
+E (8106) wifi:Set status to INIT
+E (8124) wifi:Set status to INIT
+E (8142) wifi:Set status to INIT
+E (8159) wifi:Set status to INIT
+E (8180) wifi:Set status to INIT
+E (8199) wifi:Set status to INIT
+E (8217) wifi:Set status to INIT
+E (8235) wifi:Set status to INIT
+E (8253) wifi:Set status to INIT
+E (8271) wifi:Set status to INIT
+E (8289) wifi:Set status to INIT
+E (8307) wifi:Set status to INIT
+E (8329) wifi:Set status to INIT
+E (8347) wifi:Set status to INIT
+E (8365) wifi:Set status to INIT
+E (8386) wifi:Set status to INIT
+E (8404) wifi:Set status to INIT
+E (8426) wifi:Set status to INIT
+E (8449) wifi:Set status to INIT
+E (8467) wifi:Set status to INIT
+E (8485) wifi:Set status to INIT
+E (8503) wifi:Set status to INIT
+.E (8521) wifi:Set status to INIT
+E (8539) wifi:Set status to INIT
+E (8556) wifi:Set status to INIT
+E (8574) wifi:Set status to INIT
+E (8592) wifi:Set status to INIT
+E (8612) wifi:Set status to INIT
+E (8630) wifi:Set status to INIT
+E (8653) wifi:Set status to INIT
+E (8669) wifi:Set status to INIT
+E (8687) wifi:Set status to INIT
+E (8705) wifi:Set status to INIT
+E (8722) wifi:Set status to INIT
+E (8741) wifi:Set status to INIT
+E (8759) wifi:Set status to INIT
+E (8777) wifi:Set status to INIT
+E (8795) wifi:Set status to INIT
+E (8812) wifi:Set status to INIT
+E (8831) wifi:Set status to INIT
+E (8849) wifi:Set status to INIT
+E (8867) wifi:Set status to INIT
+E (8885) wifi:Set status to INIT
+E (8903) wifi:Set status to INIT
+E (8923) wifi:Set status to INIT
+E (8943) wifi:Set status to INIT
+E (8961) wifi:Set status to INIT
+E (8979) wifi:Set status to INIT
+E (8997) wifi:Set status to INIT
+.E (9015) wifi:Set status to INIT
+E (9034) wifi:Set status to INIT
+E (9052) wifi:Set status to INIT
+E (9071) wifi:Set status to INIT
+E (9089) wifi:Set status to INIT
+E (9107) wifi:Set status to INIT
+E (9125) wifi:Set status to INIT
+E (9146) wifi:Set status to INIT
+E (9163) wifi:Set status to INIT
+E (9181) wifi:Set status to INIT
+E (9199) wifi:Set status to INIT
+E (9217) wifi:Set status to INIT
+E (9235) wifi:Set status to INIT
+E (9255) wifi:Set status to INIT
+E (9273) wifi:Set status to INIT
+E (9291) wifi:Set status to INIT
+E (9309) wifi:Set status to INIT
+E (9327) wifi:Set status to INIT
+E (9345) wifi:Set status to INIT
+E (9363) wifi:Set status to INIT
+E (9381) wifi:Set status to INIT
+E (9400) wifi:Set status to INIT
+E (9418) wifi:Set status to INIT
+E (9436) wifi:Set status to INIT
+E (9457) wifi:Set status to INIT
+E (9476) wifi:Set status to INIT
+E (9495) wifi:Set status to INIT
+.E (9513) wifi:Set status to INIT
+E (9532) wifi:Set status to INIT
+E (9553) wifi:Set status to INIT
+E (9571) wifi:Set status to INIT
+E (9589) wifi:Set status to INIT
+E (9607) wifi:Set status to INIT
+E (9625) wifi:Set status to INIT
+E (9644) wifi:Set status to INIT
+E (9662) wifi:Set status to INIT
+E (9681) wifi:Set status to INIT
+E (9699) wifi:Set status to INIT
+E (9717) wifi:Set status to INIT
+E (9735) wifi:Set status to INIT
+E (9794) wifi:Set status to INIT
+E (9812) wifi:Set status to INIT
+E (9829) wifi:Set status to INIT
+E (9847) wifi:Set status to INIT
+E (9866) wifi:Set status to INIT
+E (9884) wifi:Set status to INIT
+E (9902) wifi:Set status to INIT
+E (9922) wifi:Set status to INIT
+E (9942) wifi:Set status to INIT
+E (9960) wifi:Set status to INIT
+E (9979) wifi:Set status to INIT
+E (9997) wifi:Set status to INIT
+.E (10016) wifi:Set status to INIT
+E (10034) wifi:Set status to INIT
+E (10052) wifi:Set status to INIT
+E (10070) wifi:Set status to INIT
+E (10087) wifi:Set status to INIT
+E (10106) wifi:Set status to INIT
+E (10124) wifi:Set status to INIT
+E (10203) wifi:Set status to INIT
+E (10221) wifi:Set status to INIT
+E (10239) wifi:Set status to INIT
+E (10257) wifi:Set status to INIT
+E (10275) wifi:Set status to INIT
+E (10294) wifi:Set status to INIT
+E (10312) wifi:Set status to INIT
+E (10330) wifi:Set status to INIT
+E (10350) wifi:Set status to INIT
+E (10368) wifi:Set status to INIT
+E (10386) wifi:Set status to INIT
+E (10404) wifi:Set status to INIT
+E (10425) wifi:Set status to INIT
+E (10443) wifi:Set status to INIT
+E (10461) wifi:Set status to INIT
+E (10483) wifi:Set status to INIT
+E (10501) wifi:Set status to INIT
+.E (10519) wifi:Set status to INIT
+E (10538) wifi:Set status to INIT
+E (10556) wifi:Set status to INIT
+E (10574) wifi:Set status to INIT
+E (10592) wifi:Set status to INIT
+E (10610) wifi:Set status to INIT
+E (10628) wifi:Set status to INIT
+E (10646) wifi:Set status to INIT
+E (10664) wifi:Set status to INIT
+E (10685) wifi:Set status to INIT
+E (10703) wifi:Set status to INIT
+E (10725) wifi:Set status to INIT
+E (10743) wifi:Set status to INIT
+E (10761) wifi:Set status to INIT
+E (10778) wifi:Set status to INIT
+E (10796) wifi:Set status to INIT
+E (10814) wifi:Set status to INIT
+E (10832) wifi:Set status to INIT
+E (10852) wifi:Set status to INIT
+E (10870) wifi:Set status to INIT
+E (10889) wifi:Set status to INIT
+E (10907) wifi:Set status to INIT
+E (10925) wifi:Set status to INIT
+E (10943) wifi:Set status to INIT
+E (10962) wifi:Set status to INIT
+E (10982) wifi:Set status to INIT
+E (11000) wifi:Set status to INIT
+.E (11023) wifi:Set status to INIT
+E (11041) wifi:Set status to INIT
+E (11059) wifi:Set status to INIT
+E (11077) wifi:Set status to INIT
+..................ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.78' to connect
+cam_hal: EV-VSYNC-OVF
+input detected
+
+color detection has been runed!
+mean color 1 in HSV: H=1073422272, S=-1677082468, V,1078688192
+mean color 2 in HSV: H=1073447400, S=-1677082468, V,1078688192
+mean color 1 in HSV: H=1073422272, S=-1030792151, V,1078864117
+mean color 2 in HSV: H=1073447400, S=-1030792151, V,1078864117
+mean color 1 in HSV: H=1073422272, S=-1857062050, V,1078868654
+mean color 2 in HSV: H=1073447400, S=-1857062050, V,1078868654
+mean color 1 in HSV: H=1073422272, S=-89989791, V,1078881398
+mean color 2 in HSV: H=1073447400, S=-89989791, V,1078881398
+mean color 1 in HSV: H=1073422272, S=-466310735, V,1078949852
+mean color 2 in HSV: H=1073447400, S=-466310735, V,1078949852
+mean color 1 in HSV: H=1073422272, S=-1472560216, V,1078882947
+mean color 2 in HSV: H=1073447400, S=-1472560216, V,1078882947
+mean color 1 in HSV: H=1073422272, S=-531757856, V,1078855172
+mean color 2 in HSV: H=1073447400, S=-531757856, V,1078855172
+mean color 1 in HSV: H=1073422272, S=98170681, V,1078836932
+mean color 2 in HSV: H=1073447400, S=98170681, V,1078836932
+mean color 1 in HSV: H=1073422272, S=1979775401, V,1078912454
+mean color 2 in HSV: H=1073447400, S=1979775401, V,1078912454
+mean color 1 in HSV: H=1073422272, S=-1717986918, V,1078808985
+mean color 2 in HSV: H=1073447400, S=-1717986918, V,1078808985
+mean color 1 in HSV: H=1073422272, S=556300526, V,1078926252
+mean color 2 in HSV: H=1073447400, S=556300526, V,1078926252
+mean color 1 in HSV: H=1073422272, S=-1546188227, V,1078859120
+mean color 2 in HSV: H=1073447400, S=-1546188227, V,1078859120
+mean color 1 in HSV: H=1073422272, S=-1816157599, V,1078917845
+mean color 2 in HSV: H=1073447400, S=-1816157599, V,1078917845
+mean color 1 in HSV: H=1073422272, S=-1137143722, V,1078908662
+mean color 2 in HSV: H=1073447400, S=-1137143722, V,1078908662
+mean color 1 in HSV: H=1073422272, S=-212703142, V,1078936577
+mean color 2 in HSV: H=1073447400, S=-212703142, V,1078936577
+mean color 1 in HSV: H=1073422272, S=-826269899, V,1078792632
+mean color 2 in HSV: H=1073447400, S=-826269899, V,1078792632
+mean color 1 in HSV: H=1073422272, S=-2053403412, V,1078910246
+mean color 2 in HSV: H=1073447400, S=-2053403412, V,1078910246
+mean color 1 in HSV: H=1073422272, S=-2037041632, V,1078848412
+mean color 2 in HSV: H=1073447400, S=-2037041632, V,1078848412
+mean color 1 in HSV: H=1073422272, S=1546188227, V,1078823567
+mean color 2 in HSV: H=1073447400, S=1546188227, V,1078823567
+mean color 1 in HSV: H=1073422272, S=548119636, V,1078886513
+mean color 2 in HSV: H=1073447400, S=548119636, V,1078886513
+mean color 1 in HSV: H=1073422272, S=1169867283, V,1078851061
+mean color 2 in HSV: H=1073447400, S=1169867283, V,1078851061
+mean color 1 in HSV: H=1073422272, S=57266231, V,1078918813
+mean color 2 in HSV: H=1073447400, S=57266231, V,1078918813
+mean color 1 in HSV: H=1073422272, S=-719918328, V,1078907831
+mean color 2 in HSV: H=1073447400, S=-719918328, V,1078907831
+mean color 1 in HSV: H=1073422272, S=-1897966500, V,1078862471
+mean color 2 in HSV: H=1073447400, S=-1897966500, V,1078862471
+mean color 1 in HSV: H=1073422272, S=1513464666, V,1078789539
+mean color 2 in HSV: H=1073447400, S=1513464666, V,1078789539
+mean color 1 in HSV: H=1073422272, S=-269969373, V,1078852964
+mean color 2 in HSV: H=1073447400, S=-269969373, V,1078852964
+mean color 1 in HSV: H=1073422272, S=-1840700270, V,1078845732
+mean color 2 in HSV: H=1073447400, S=-1840700270, V,1078845732
+mean color 1 in HSV: H=1073422272, S=908078800, V,1078933141
+mean color 2 in HSV: H=1073447400, S=908078800, V,1078933141
+mean color 1 in HSV: H=1073422272, S=728099218, V,1078902659
+mean color 2 in HSV: H=1073447400, S=728099218, V,1078902659
+mean color 1 in HSV: H=1073422272, S=40904450, V,1078794279
+mean color 2 in HSV: H=1073447400, S=40904450, V,1078794279
+mean color 1 in HSV: H=1073422272, S=1709806028, V,1078840107
+mean color 2 in HSV: H=1073447400, S=1709806028, V,1078840107
+mean color 1 in HSV: H=1073422272, S=-1497102886, V,1078902994
+mean color 2 in HSV: H=1073447400, S=-1497102886, V,1078902994
+mean color 1 in HSV: H=1073422272, S=-204522252, V,1078900540
+mean color 2 in HSV: H=1073447400, S=-204522252, V,1078900540
+mean color 1 in HSV: H=1073422272, S=1153505502, V,1078851455
+mean color 2 in HSV: H=1073447400, S=1153505502, V,1078851455
+mean color 1 in HSV: H=1073422272, S=-81808901, V,1078822833
+mean color 2 in HSV: H=1073447400, S=-81808901, V,1078822833
+mean color 1 in HSV: H=1073422272, S=1693444248, V,1078912181
+mean color 2 in HSV: H=1073447400, S=1693444248, V,1078912181
+mean color 1 in HSV: H=1073422272, S=-1439836655, V,1078841199
+mean color 2 in HSV: H=1073447400, S=-1439836655, V,1078841199
+mean color 1 in HSV: H=1073422272, S=-179979582, V,1078872301
+mean color 2 in HSV: H=1073447400, S=-179979582, V,1078872301
+mean color 1 in HSV: H=1073422272, S=1505283776, V,1078882920
+mean color 2 in HSV: H=1073447400, S=1505283776, V,1078882920
+mean color 1 in HSV: H=1073422272, S=1169867283, V,1078836725
+mean color 2 in HSV: H=1073447400, S=1169867283, V,1078836725
+mean color 1 in HSV: H=1073422272, S=-1488921996, V,1078856717
+mean color 2 in HSV: H=1073447400, S=-1488921996, V,1078856717
+mean color 1 in HSV: H=1073422272, S=1464379326, V,1078923841
+mean color 2 in HSV: H=1073447400, S=1464379326, V,1078923841
+mean color 1 in HSV: H=1073422272, S=-1268037964, V,1078817606
+mean color 2 in HSV: H=1073447400, S=-1268037964, V,1078817606
+mean color 1 in HSV: H=1073422272, S=368140054, V,1078884703
+mean color 2 in HSV: H=1073447400, S=368140054, V,1078884703
+mean color 1 in HSV: H=1073422272, S=1488921996, V,1078881266
+mean color 2 in HSV: H=1073447400, S=1488921996, V,1078881266
+mean color 1 in HSV: H=1073422272, S=359959164, V,1078871588
+mean color 2 in HSV: H=1073447400, S=359959164, V,1078871588
+mean color 1 in HSV: H=1073422272, S=1251676183, V,1078894147
+mean color 2 in HSV: H=1073447400, S=1251676183, V,1078894147
+mean color 1 in HSV: H=1073422272, S=-449948955, V,1078855250
+mean color 2 in HSV: H=1073447400, S=-449948955, V,1078855250
+mean color 1 in HSV: H=1073422272, S=188160472, V,1078825549
+mean color 2 in HSV: H=1073447400, S=188160472, V,1078825549
+mean color 1 in HSV: H=1073422272, S=-981706811, V,1078873175
+mean color 2 in HSV: H=1073447400, S=-981706811, V,1078873175
+mean color 1 in HSV: H=1073422272, S=1423474875, V,1078884890
+mean color 2 in HSV: H=1073447400, S=1423474875, V,1078884890
+mean color 1 in HSV: H=1073422272, S=-1407113095, V,1078811739
+mean color 2 in HSV: H=1073447400, S=-1407113095, V,1078811739
+mean color 1 in HSV: H=1073422272, S=-2077946082, V,1078838133
+mean color 2 in HSV: H=1073447400, S=-2077946082, V,1078838133
+mean color 1 in HSV: H=1073422272, S=-1840700270, V,1078886692
+mean color 2 in HSV: H=1073447400, S=-1840700270, V,1078886692
+mean color 1 in HSV: H=1073422272, S=1734348699, V,1078852828
+mean color 2 in HSV: H=1073447400, S=1734348699, V,1078852828
+mean color 1 in HSV: H=1073422272, S=1284399744, V,1078852399
+mean color 2 in HSV: H=1073447400, S=1284399744, V,1078852399
+mean color 1 in HSV: H=1073422272, S=-1341665974, V,1078877747
+mean color 2 in HSV: H=1073447400, S=-1341665974, V,1078877747
+mean color 1 in HSV: H=1073422272, S=1423474875, V,1078815258
+mean color 2 in HSV: H=1073447400, S=1423474875, V,1078815258
+mean color 1 in HSV: H=1073422272, S=-1325304194, V,1078793385
+mean color 2 in HSV: H=1073447400, S=-1325304194, V,1078793385
+mean color 1 in HSV: H=1073422272, S=-507215185, V,1078878133
+mean color 2 in HSV: H=1073447400, S=-507215185, V,1078878133
+mean color 1 in HSV: H=1073422272, S=-1415293985, V,1078825248
+mean color 2 in HSV: H=1073447400, S=-1415293985, V,1078825248
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=1799795819, V,1078912692
+mean color 2 in HSV: H=1073447400, S=1799795819, V,1078912692
+mean color 1 in HSV: H=1073422272, S=359959164, V,1078838820
+mean color 2 in HSV: H=1073447400, S=359959164, V,1078838820
+mean color 1 in HSV: H=1073422272, S=2118850533, V,1078854833
+mean color 2 in HSV: H=1073447400, S=2118850533, V,1078854833
+mean color 1 in HSV: H=1073422272, S=-580843196, V,1078907554
+mean color 2 in HSV: H=1073447400, S=-580843196, V,1078907554
+mean color 1 in HSV: H=1073422272, S=245426703, V,1078806762
+mean color 2 in HSV: H=1073447400, S=245426703, V,1078806762
+mean color 1 in HSV: H=1073422272, S=-1742529589, V,1078904808
+mean color 2 in HSV: H=1073447400, S=-1742529589, V,1078904808
+mean color 1 in HSV: H=1073422272, S=752641888, V,1078909236
+mean color 2 in HSV: H=1073447400, S=752641888, V,1078909236
+mean color 1 in HSV: H=1073422272, S=-1857062050, V,1078856366
+mean color 2 in HSV: H=1073447400, S=-1857062050, V,1078856366
+mean color 1 in HSV: H=1073422272, S=1971594511, V,1078852235
+mean color 2 in HSV: H=1073447400, S=1971594511, V,1078852235
+mean color 1 in HSV: H=1073422272, S=-916259690, V,1078847023
+mean color 2 in HSV: H=1073447400, S=-916259690, V,1078847023
+mean color 1 in HSV: H=1073422272, S=1128962832, V,1078887886
+mean color 2 in HSV: H=1073447400, S=1128962832, V,1078887886
+mean color 1 in HSV: H=1073422272, S=1987956291, V,1078882561
+mean color 2 in HSV: H=1073447400, S=1987956291, V,1078882561
+mean color 1 in HSV: H=1073422272, S=204522252, V,1078827203
+mean color 2 in HSV: H=1073447400, S=204522252, V,1078827203
+mean color 1 in HSV: H=1073422272, S=-16361780, V,1078882697
+mean color 2 in HSV: H=1073447400, S=-16361780, V,1078882697
+mean color 1 in HSV: H=1073422272, S=981706811, V,1078881192
+mean color 2 in HSV: H=1073447400, S=981706811, V,1078881192
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=998068591, V,1078852126
+mean color 2 in HSV: H=1073447400, S=998068591, V,1078852126
+mean color 1 in HSV: H=1073422272, S=-1006249481, V,1078872742
+mean color 2 in HSV: H=1073447400, S=-1006249481, V,1078872742
+mean color 1 in HSV: H=1073422272, S=-1333485084, V,1078862190
+mean color 2 in HSV: H=1073447400, S=-1333485084, V,1078862190
+mean color 1 in HSV: H=1073422272, S=-1030792151, V,1078892789
+mean color 2 in HSV: H=1073447400, S=-1030792151, V,1078892789
+mean color 1 in HSV: H=1073422272, S=1603454457, V,1078935852
+mean color 2 in HSV: H=1073447400, S=1603454457, V,1078935852
+mean color 1 in HSV: H=1073422272, S=-327235604, V,1078941383
+mean color 2 in HSV: H=1073447400, S=-327235604, V,1078941383
+mean color 1 in HSV: H=1073422272, S=638109427, V,1078934522
+mean color 2 in HSV: H=1073447400, S=638109427, V,1078934522
+mean color 1 in HSV: H=1073422272, S=220884032, V,1078882105
+mean color 2 in HSV: H=1073447400, S=220884032, V,1078882105
+mean color 1 in HSV: H=1073422272, S=-1660720688, V,1078894646
+mean color 2 in HSV: H=1073447400, S=-1660720688, V,1078894646
+mean color 1 in HSV: H=1073422272, S=327235603, V,1078901048
+mean color 2 in HSV: H=1073447400, S=327235603, V,1078901048
+mean color 1 in HSV: H=1073422272, S=916259690, V,1078890960
+mean color 2 in HSV: H=1073447400, S=916259690, V,1078890960
+mean color 1 in HSV: H=1073422272, S=1284399744, V,1078870831
+mean color 2 in HSV: H=1073447400, S=1284399744, V,1078870831
+mean color 1 in HSV: H=1073422272, S=-589024086, V,1078912871
+mean color 2 in HSV: H=1073447400, S=-589024086, V,1078912871
+mean color 1 in HSV: H=1073422272, S=-261788483, V,1078896799
+mean color 2 in HSV: H=1073447400, S=-261788483, V,1078896799
+mean color 1 in HSV: H=1073422272, S=1570730897, V,1078926400
+mean color 2 in HSV: H=1073447400, S=1570730897, V,1078926400
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=-1300761524, V,1078937178
+mean color 2 in HSV: H=1073447400, S=-1300761524, V,1078937178
+mean color 1 in HSV: H=1073422272, S=-875355239, V,1078922838
+mean color 2 in HSV: H=1073447400, S=-875355239, V,1078922838
+mean color 1 in HSV: H=1073422272, S=2135212313, V,1078887207
+mean color 2 in HSV: H=1073447400, S=2135212313, V,1078887207
+mean color 1 in HSV: H=1073422272, S=-2127031423, V,1078900755
+mean color 2 in HSV: H=1073447400, S=-2127031423, V,1078900755
+mean color 1 in HSV: H=1073422272, S=-163617802, V,1078873955
+mean color 2 in HSV: H=1073447400, S=-163617802, V,1078873955
+mean color 1 in HSV: H=1073422272, S=1423474875, V,1078921754
+mean color 2 in HSV: H=1073447400, S=1423474875, V,1078921754
+mean color 1 in HSV: H=1073422272, S=-1038973041, V,1078939066
+mean color 2 in HSV: H=1073447400, S=-1038973041, V,1078939066
+mean color 1 in HSV: H=1073422272, S=-932621470, V,1078835129
+mean color 2 in HSV: H=1073447400, S=-932621470, V,1078835129
+mean color 1 in HSV: H=1073422272, S=-1627997127, V,1078840610
+mean color 2 in HSV: H=1073447400, S=-1627997127, V,1078840610
+mean color 1 in HSV: H=1073422272, S=2028860742, V,1078798632
+mean color 2 in HSV: H=1073447400, S=2028860742, V,1078798632
+mean color 1 in HSV: H=1073422272, S=1799795819, V,1078863540
+mean color 2 in HSV: H=1073447400, S=1799795819, V,1078863540
+mean color 1 in HSV: H=1073422272, S=858993459, V,1078870835
+mean color 2 in HSV: H=1073447400, S=858993459, V,1078870835
+mean color 1 in HSV: H=1073422272, S=425406285, V,1078824956
+mean color 2 in HSV: H=1073447400, S=425406285, V,1078824956
+mean color 1 in HSV: H=1073422272, S=1726167808, V,1078895009
+mean color 2 in HSV: H=1073447400, S=1726167808, V,1078895009
+mean color 1 in HSV: H=1073422272, S=1701625138, V,1078984688
+mean color 2 in HSV: H=1073447400, S=1701625138, V,1078984688
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=-1922509171, V,1078900950
+mean color 2 in HSV: H=1073447400, S=-1922509171, V,1078900950
+mean color 1 in HSV: H=1073422272, S=1546188227, V,1078876815
+mean color 2 in HSV: H=1073447400, S=1546188227, V,1078876815
+mean color 1 in HSV: H=1073422272, S=1865242940, V,1078915212
+mean color 2 in HSV: H=1073447400, S=1865242940, V,1078915212
+mean color 1 in HSV: H=1073422272, S=188160472, V,1078843981
+mean color 2 in HSV: H=1073447400, S=188160472, V,1078843981
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=-1358027755, V,1078902717
+mean color 2 in HSV: H=1073447400, S=-1358027755, V,1078902717
+mean color 1 in HSV: H=1073422272, S=-229064922, V,1078846859
+mean color 2 in HSV: H=1073447400, S=-229064922, V,1078846859
+mean color 1 in HSV: H=1073422272, S=2037041632, V,1078873187
+mean color 2 in HSV: H=1073447400, S=2037041632, V,1078873187
+mean color 1 in HSV: H=1073422272, S=1308942414, V,1078838496
+mean color 2 in HSV: H=1073447400, S=1308942414, V,1078838496
+mean color 1 in HSV: H=1073422272, S=-1161686392, V,1078857029
+mean color 2 in HSV: H=1073447400, S=-1161686392, V,1078857029
+mean color 1 in HSV: H=1073422272, S=-449948955, V,1078922834
+mean color 2 in HSV: H=1073447400, S=-449948955, V,1078922834
+mean color 1 in HSV: H=1073422272, S=605385866, V,1078830862
+mean color 2 in HSV: H=1073447400, S=605385866, V,1078830862
+mean color 1 in HSV: H=1073422272, S=-1055334821, V,1078871876
+mean color 2 in HSV: H=1073447400, S=-1055334821, V,1078871876
+mean color 1 in HSV: H=1073422272, S=572662306, V,1078807074
+mean color 2 in HSV: H=1073447400, S=572662306, V,1078807074
+mean color 1 in HSV: H=1073422272, S=1807976709, V,1078882799
+mean color 2 in HSV: H=1073447400, S=1807976709, V,1078882799
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=-1627997127, V,1078912290
+mean color 2 in HSV: H=1073447400, S=-1627997127, V,1078912290
+mean color 1 in HSV: H=1073422272, S=1243495293, V,1078948616
+mean color 2 in HSV: H=1073447400, S=1243495293, V,1078948616
+mean color 1 in HSV: H=1073422272, S=-1259857074, V,1078877825
+mean color 2 in HSV: H=1073447400, S=-1259857074, V,1078877825
+mean color 1 in HSV: H=1073422272, S=-1210771733, V,1078870499
+mean color 2 in HSV: H=1073447400, S=-1210771733, V,1078870499
+mean color 1 in HSV: H=1073422272, S=605385866, V,1078849294
+mean color 2 in HSV: H=1073447400, S=605385866, V,1078849294
+mean color 1 in HSV: H=1073422272, S=237245813, V,1078869423
+mean color 2 in HSV: H=1073447400, S=237245813, V,1078869423
+mean color 1 in HSV: H=1073422272, S=449948955, V,1078843821
+mean color 2 in HSV: H=1073447400, S=449948955, V,1078843821
+mean color 1 in HSV: H=1073422272, S=1398932205, V,1078888553
+mean color 2 in HSV: H=1073447400, S=1398932205, V,1078888553
+mean color 1 in HSV: H=1073422272, S=1914328280, V,1078959086
+mean color 2 in HSV: H=1073447400, S=1914328280, V,1078959086
+mean color 1 in HSV: H=1073422272, S=147256022, V,1078888998
+mean color 2 in HSV: H=1073447400, S=147256022, V,1078888998
+mean color 1 in HSV: H=1073422272, S=687194767, V,1078937436
+mean color 2 in HSV: H=1073447400, S=687194767, V,1078937436
+mean color 1 in HSV: H=1073422272, S=2077946082, V,1078795402
+mean color 2 in HSV: H=1073447400, S=2077946082, V,1078795402
+mean color 1 in HSV: H=1073422272, S=654471207, V,1078874736
+mean color 2 in HSV: H=1073447400, S=654471207, V,1078874736
+mean color 1 in HSV: H=1073422272, S=-1750710479, V,1078881453
+mean color 2 in HSV: H=1073447400, S=-1750710479, V,1078881453
+mean color 1 in HSV: H=1073422272, S=-2135212313, V,1078877400
+mean color 2 in HSV: H=1073447400, S=-2135212313, V,1078877400
+mean color 1 in HSV: H=1073422272, S=744460998, V,1078904313
+mean color 2 in HSV: H=1073447400, S=744460998, V,1078904313
+mean color 1 in HSV: H=1073422272, S=-1881604720, V,1078864125
+mean color 2 in HSV: H=1073447400, S=-1881604720, V,1078864125
+mean color 1 in HSV: H=1073422272, S=-809908119, V,1078853678
+mean color 2 in HSV: H=1073447400, S=-809908119, V,1078853678
+mean color 1 in HSV: H=1073422272, S=646290317, V,1078923061
+mean color 2 in HSV: H=1073447400, S=646290317, V,1078923061
+mean color 1 in HSV: H=1073422272, S=785365448, V,1078906400
+mean color 2 in HSV: H=1073447400, S=785365448, V,1078906400
+mean color 1 in HSV: H=1073422272, S=-1063515711, V,1078795273
+mean color 2 in HSV: H=1073447400, S=-1063515711, V,1078795273
+mean color 1 in HSV: H=1073422272, S=-1701625138, V,1078880271
+mean color 2 in HSV: H=1073447400, S=-1701625138, V,1078880271
+mean color 1 in HSV: H=1073422272, S=409044504, V,1078837638
+mean color 2 in HSV: H=1073447400, S=409044504, V,1078837638
+mean color 1 in HSV: H=1073422272, S=-842631679, V,1078852418
+mean color 2 in HSV: H=1073447400, S=-842631679, V,1078852418
+mean color 1 in HSV: H=1073422272, S=425406285, V,1078831100
+mean color 2 in HSV: H=1073447400, S=425406285, V,1078831100
+mean color 1 in HSV: H=1073422272, S=1325304194, V,1078836054
+mean color 2 in HSV: H=1073447400, S=1325304194, V,1078836054
+mean color 1 in HSV: H=1073422272, S=139075131, V,1078800107
+mean color 2 in HSV: H=1073447400, S=139075131, V,1078800107
+mean color 1 in HSV: H=1073422272, S=1259857073, V,1078837630
+mean color 2 in HSV: H=1073447400, S=1259857073, V,1078837630
+mean color 1 in HSV: H=1073422272, S=441768065, V,1078857330
+mean color 2 in HSV: H=1073447400, S=441768065, V,1078857330
+mean color 1 in HSV: H=1073422272, S=2020679852, V,1078906349
+mean color 2 in HSV: H=1073447400, S=2020679852, V,1078906349
+mean color 1 in HSV: H=1073422272, S=1930690061, V,1078850148
+mean color 2 in HSV: H=1073447400, S=1930690061, V,1078850148
+mean color 1 in HSV: H=1073422272, S=-801727229, V,1078901609
+mean color 2 in HSV: H=1073447400, S=-801727229, V,1078901609
+mean color 1 in HSV: H=1073422272, S=106351571, V,1078905343
+mean color 2 in HSV: H=1073447400, S=106351571, V,1078905343
+mean color 1 in HSV: H=1073422272, S=-2012498962, V,1078859085
+mean color 2 in HSV: H=1073447400, S=-2012498962, V,1078859085
+mean color 1 in HSV: H=1073422272, S=-1333485084, V,1078853998
+mean color 2 in HSV: H=1073447400, S=-1333485084, V,1078853998
+mean color 1 in HSV: H=1073422272, S=212703142, V,1078969342
+mean color 2 in HSV: H=1073447400, S=212703142, V,1078969342
+mean color 1 in HSV: H=1073422272, S=1922509171, V,1078834985
+mean color 2 in HSV: H=1073447400, S=1922509171, V,1078834985
+mean color 1 in HSV: H=1073422272, S=188160472, V,1078850125
+mean color 2 in HSV: H=1073447400, S=188160472, V,1078850125
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=-1259857074, V,1078912641
+mean color 2 in HSV: H=1073447400, S=-1259857074, V,1078912641
+mean color 1 in HSV: H=1073422272, S=179979582, V,1078947602
+mean color 2 in HSV: H=1073447400, S=179979582, V,1078947602
+mean color 1 in HSV: H=1073422272, S=1513464666, V,1078916515
+mean color 2 in HSV: H=1073447400, S=1513464666, V,1078916515
+mean color 1 in HSV: H=1073422272, S=1922509171, V,1078953769
+mean color 2 in HSV: H=1073447400, S=1922509171, V,1078953769
+mean color 1 in HSV: H=1073422272, S=2127031423, V,1078829036
+mean color 2 in HSV: H=1073447400, S=2127031423, V,1078829036
+mean color 1 in HSV: H=1073422272, S=1652539798, V,1078836366
+mean color 2 in HSV: H=1073447400, S=1652539798, V,1078836366
+mean color 1 in HSV: H=1073422272, S=695375657, V,1078964887
+mean color 2 in HSV: H=1073447400, S=695375657, V,1078964887
+mean color 1 in HSV: H=1073422272, S=1431655765, V,1078852949
+mean color 2 in HSV: H=1073447400, S=1431655765, V,1078852949
+mean color 1 in HSV: H=1073422272, S=989887701, V,1078857443
+mean color 2 in HSV: H=1073447400, S=989887701, V,1078857443
+mean color 1 in HSV: H=1073422272, S=229064922, V,1078938228
+mean color 2 in HSV: H=1073447400, S=229064922, V,1078938228
+mean color 1 in HSV: H=1073422272, S=-1644358908, V,1078890156
+mean color 2 in HSV: H=1073447400, S=-1644358908, V,1078890156
+mean color 1 in HSV: H=1073422272, S=1308942414, V,1078850784
+mean color 2 in HSV: H=1073447400, S=1308942414, V,1078850784
+mean color 1 in HSV: H=1073422272, S=-1660720688, V,1078892598
+mean color 2 in HSV: H=1073447400, S=-1660720688, V,1078892598
+mean color 1 in HSV: H=1073422272, S=179979582, V,1078824722
+mean color 2 in HSV: H=1073447400, S=179979582, V,1078824722
+mean color 1 in HSV: H=1073422272, S=654471207, V,1078887024
+mean color 2 in HSV: H=1073447400, S=654471207, V,1078887024
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=2020679852, V,1078851053
+mean color 2 in HSV: H=1073447400, S=2020679852, V,1078851053
+mean color 1 in HSV: H=1073422272, S=302692933, V,1078869895
+mean color 2 in HSV: H=1073447400, S=302692933, V,1078869895
+mean color 1 in HSV: H=1073422272, S=-957164140, V,1078892040
+mean color 2 in HSV: H=1073447400, S=-957164140, V,1078892040
+mean color 1 in HSV: H=1073422272, S=1480741106, V,1078886583
+mean color 2 in HSV: H=1073447400, S=1480741106, V,1078886583
+mean color 1 in HSV: H=1073422272, S=-433587175, V,1078848712
+mean color 2 in HSV: H=1073447400, S=-433587175, V,1078848712
+mean color 1 in HSV: H=1073422272, S=1881604720, V,1078808322
+mean color 2 in HSV: H=1073447400, S=1881604720, V,1078808322
+mean color 1 in HSV: H=1073422272, S=-359959164, V,1078845915
+mean color 2 in HSV: H=1073447400, S=-359959164, V,1078845915
+mean color 1 in HSV: H=1073422272, S=-1259857074, V,1078840961
+mean color 2 in HSV: H=1073447400, S=-1259857074, V,1078840961
+mean color 1 in HSV: H=1073422272, S=-589024086, V,1078812519
+mean color 2 in HSV: H=1073447400, S=-589024086, V,1078812519
+mean color 1 in HSV: H=1073422272, S=-1218952623, V,1078869672
+mean color 2 in HSV: H=1073447400, S=-1218952623, V,1078869672
+mean color 1 in HSV: H=1073422272, S=-1701625138, V,1078867983
+mean color 2 in HSV: H=1073447400, S=-1701625138, V,1078867983
+mean color 1 in HSV: H=1073422272, S=1398932205, V,1078898793
+mean color 2 in HSV: H=1073447400, S=1398932205, V,1078898793
+mean color 1 in HSV: H=1073422272, S=1161686392, V,1078866618
+mean color 2 in HSV: H=1073447400, S=1161686392, V,1078866618
+mean color 1 in HSV: H=1073422272, S=867174349, V,1078871662
+mean color 2 in HSV: H=1073447400, S=867174349, V,1078871662
+mean color 1 in HSV: H=1073422272, S=1251676183, V,1078873667
+mean color 2 in HSV: H=1073447400, S=1251676183, V,1078873667
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=1251676183, V,1078771267
+mean color 2 in HSV: H=1073447400, S=1251676183, V,1078771267
+mean color 1 in HSV: H=1073422272, S=-1505283776, V,1078859159
+mean color 2 in HSV: H=1073447400, S=-1505283776, V,1078859159
+mean color 1 in HSV: H=1073422272, S=-769003668, V,1078894677
+mean color 2 in HSV: H=1073447400, S=-769003668, V,1078894677
+mean color 1 in HSV: H=1073422272, S=-1627997127, V,1078881570
+mean color 2 in HSV: H=1073447400, S=-1627997127, V,1078881570
+mean color 1 in HSV: H=1073422272, S=818089009, V,1078872844
+mean color 2 in HSV: H=1073447400, S=818089009, V,1078872844
+mean color 1 in HSV: H=1073422272, S=548119636, V,1078804593
+mean color 2 in HSV: H=1073447400, S=548119636, V,1078804593
+mean color 1 in HSV: H=1073422272, S=1112601052, V,1078779736
+mean color 2 in HSV: H=1073447400, S=1112601052, V,1078779736
+mean color 1 in HSV: H=1073422272, S=327235603, V,1078853944
+mean color 2 in HSV: H=1073447400, S=327235603, V,1078853944
+mean color 1 in HSV: H=1073422272, S=-621747647, V,1078907515
+mean color 2 in HSV: H=1073447400, S=-621747647, V,1078907515
+mean color 1 in HSV: H=1073422272, S=-1088058382, V,1078841944
+mean color 2 in HSV: H=1073447400, S=-1088058382, V,1078841944
+mean color 1 in HSV: H=1073422272, S=-147256022, V,1078832601
+mean color 2 in HSV: H=1073447400, S=-147256022, V,1078832601
+mean color 1 in HSV: H=1073422272, S=-65447121, V,1078783527
+mean color 2 in HSV: H=1073447400, S=-65447121, V,1078783527
+mean color 1 in HSV: H=1073422272, S=-400863614, V,1078849972
+mean color 2 in HSV: H=1073447400, S=-400863614, V,1078849972
+mean color 1 in HSV: H=1073422272, S=1374389535, V,1078820536
+mean color 2 in HSV: H=1073447400, S=1374389535, V,1078820536
+mean color 1 in HSV: H=1073422272, S=597204976, V,1078922195
+mean color 2 in HSV: H=1073447400, S=597204976, V,1078922195
+mean color 1 in HSV: H=1073422272, S=826269899, V,1078824519
+mean color 2 in HSV: H=1073447400, S=826269899, V,1078824519
+mean color 1 in HSV: H=1073422272, S=-564481416, V,1078890776
+mean color 2 in HSV: H=1073447400, S=-564481416, V,1078890776
+mean color 1 in HSV: H=1073422272, S=1497102886, V,1078845229
+mean color 2 in HSV: H=1073447400, S=1497102886, V,1078845229
+mean color 1 in HSV: H=1073422272, S=1366208645, V,1078801277
+mean color 2 in HSV: H=1073447400, S=1366208645, V,1078801277
+mean color 1 in HSV: H=1073422272, S=1137143722, V,1078937865
+mean color 2 in HSV: H=1073447400, S=1137143722, V,1078937865
+mean color 1 in HSV: H=1073422272, S=-1996137181, V,1078813635
+mean color 2 in HSV: H=1073447400, S=-1996137181, V,1078813635
+mean color 1 in HSV: H=1073422272, S=-1284399744, V,1078856912
+mean color 2 in HSV: H=1073447400, S=-1284399744, V,1078856912
+mean color 1 in HSV: H=1073422272, S=2127031423, V,1078931436
+mean color 2 in HSV: H=1073447400, S=2127031423, V,1078931436
+mean color 1 in HSV: H=1073422272, S=1153505502, V,1078890367
+mean color 2 in HSV: H=1073447400, S=1153505502, V,1078890367
+mean color 1 in HSV: H=1073422272, S=-842631679, V,1078823746
+mean color 2 in HSV: H=1073447400, S=-842631679, V,1078823746
+mean color 1 in HSV: H=1073422272, S=2143393203, V,1078840930
+mean color 2 in HSV: H=1073447400, S=2143393203, V,1078840930
+mean color 1 in HSV: H=1073422272, S=1194409953, V,1078896550
+mean color 2 in HSV: H=1073447400, S=1194409953, V,1078896550
+mean color 1 in HSV: H=1073422272, S=-155436912, V,1078833822
+mean color 2 in HSV: H=1073447400, S=-155436912, V,1078833822
+mean color 1 in HSV: H=1073422272, S=-1955232731, V,1078782954
+mean color 2 in HSV: H=1073447400, S=-1955232731, V,1078782954
+mean color 1 in HSV: H=1073422272, S=-400863614, V,1078849972
+mean color 2 in HSV: H=1073447400, S=-400863614, V,1078849972
+mean color 1 in HSV: H=1073422272, S=-1832519380, V,1078824031
+mean color 2 in HSV: H=1073447400, S=-1832519380, V,1078824031
+mean color 1 in HSV: H=1073422272, S=417225394, V,1078873281
+mean color 2 in HSV: H=1073447400, S=417225394, V,1078873281
+mean color 1 in HSV: H=1073422272, S=965345030, V,1078869298
+mean color 2 in HSV: H=1073447400, S=965345030, V,1078869298
+mean color 1 in HSV: H=1073422272, S=1848881160, V,1078815254
+mean color 2 in HSV: H=1073447400, S=1848881160, V,1078815254
+mean color 1 in HSV: H=1073422272, S=449948955, V,1078845869
+mean color 2 in HSV: H=1073447400, S=449948955, V,1078845869
+mean color 1 in HSV: H=1073422272, S=654471207, V,1078864496
+mean color 2 in HSV: H=1073447400, S=654471207, V,1078864496
+mean color 1 in HSV: H=1073422272, S=2102488753, V,1078863419
+mean color 2 in HSV: H=1073447400, S=2102488753, V,1078863419
+mean color 1 in HSV: H=1073422272, S=441768065, V,1078873714
+mean color 2 in HSV: H=1073447400, S=441768065, V,1078873714
+mean color 1 in HSV: H=1073422272, S=-940802360, V,1078881406
+mean color 2 in HSV: H=1073447400, S=-940802360, V,1078881406
+mean color 1 in HSV: H=1073422272, S=-1848881160, V,1078826473
+mean color 2 in HSV: H=1073447400, S=-1848881160, V,1078826473
+mean color 1 in HSV: H=1073422272, S=-1292580634, V,1078874517
+mean color 2 in HSV: H=1073447400, S=-1292580634, V,1078874517
+mean color 1 in HSV: H=1073422272, S=924440580, V,1078850827
+mean color 2 in HSV: H=1073447400, S=924440580, V,1078850827
+mean color 1 in HSV: H=1073422272, S=-1963413621, V,1078892719
+mean color 2 in HSV: H=1073447400, S=-1963413621, V,1078892719
+mean color 1 in HSV: H=1073422272, S=2143393203, V,1078822498
+mean color 2 in HSV: H=1073447400, S=2143393203, V,1078822498
+mean color 1 in HSV: H=1073422272, S=-2004318071, V,1078868104
+mean color 2 in HSV: H=1073447400, S=-2004318071, V,1078868104
+mean color 1 in HSV: H=1073422272, S=335416494, V,1078867059
+mean color 2 in HSV: H=1073447400, S=335416494, V,1078867059
+mean color 1 in HSV: H=1073422272, S=752641888, V,1078817076
+mean color 2 in HSV: H=1073447400, S=752641888, V,1078817076
+mean color 1 in HSV: H=1073422272, S=1112601052, V,1078925144
+mean color 2 in HSV: H=1073447400, S=1112601052, V,1078925144
+mean color 1 in HSV: H=1073422272, S=245426703, V,1078835434
+mean color 2 in HSV: H=1073447400, S=245426703, V,1078835434
+mean color 1 in HSV: H=1073422272, S=-556300526, V,1078883411
+mean color 2 in HSV: H=1073447400, S=-556300526, V,1078883411
+mean color 1 in HSV: H=1073422272, S=948983250, V,1078898364
+mean color 2 in HSV: H=1073447400, S=948983250, V,1078898364
+mean color 1 in HSV: H=1073422272, S=417225394, V,1078807745
+mean color 2 in HSV: H=1073447400, S=417225394, V,1078807745
+mean color 1 in HSV: H=1073422272, S=-1308942414, V,1078825759
+mean color 2 in HSV: H=1073447400, S=-1308942414, V,1078825759
+mean color 1 in HSV: H=1073422272, S=1685263358, V,1078868346
+mean color 2 in HSV: H=1073447400, S=1685263358, V,1078868346
+mean color 1 in HSV: H=1073422272, S=989887701, V,1078816483
+mean color 2 in HSV: H=1073447400, S=989887701, V,1078816483
+mean color 1 in HSV: H=1073422272, S=1627997127, V,1078887133
+mean color 2 in HSV: H=1073447400, S=1627997127, V,1078887133
+mean color 1 in HSV: H=1073422272, S=1734348699, V,1078822108
+mean color 2 in HSV: H=1073447400, S=1734348699, V,1078822108
+mean color 1 in HSV: H=1073422272, S=654471207, V,1078872688
+mean color 2 in HSV: H=1073447400, S=654471207, V,1078872688
+mean color 1 in HSV: H=1073422272, S=1816157599, V,1078803754
+mean color 2 in HSV: H=1073447400, S=1816157599, V,1078803754
+mean color 1 in HSV: H=1073422272, S=638109427, V,1078905850
+mean color 2 in HSV: H=1073447400, S=638109427, V,1078905850
+mean color 1 in HSV: H=1073422272, S=-1570730897, V,1078827967
+mean color 2 in HSV: H=1073447400, S=-1570730897, V,1078827967
+mean color 1 in HSV: H=1073422272, S=204522252, V,1078870211
+mean color 2 in HSV: H=1073447400, S=204522252, V,1078870211
+mean color 1 in HSV: H=1073422272, S=-2020679852, V,1078835730
+mean color 2 in HSV: H=1073447400, S=-2020679852, V,1078835730
+mean color 1 in HSV: H=1073422272, S=1358027755, V,1078882370
+mean color 2 in HSV: H=1073447400, S=1358027755, V,1078882370
+mean color 1 in HSV: H=1073422272, S=867174349, V,1078816366
+mean color 2 in HSV: H=1073447400, S=867174349, V,1078816366
+mean color 1 in HSV: H=1073422272, S=490853405, V,1078784468
+mean color 2 in HSV: H=1073447400, S=490853405, V,1078784468
+mean color 1 in HSV: H=1073422272, S=359959164, V,1078773284
+mean color 2 in HSV: H=1073447400, S=359959164, V,1078773284
+mean color 1 in HSV: H=1073422272, S=-523576966, V,1078819135
+mean color 2 in HSV: H=1073447400, S=-523576966, V,1078819135
+mean color 1 in HSV: H=1073422272, S=-687194767, V,1078814883
+mean color 2 in HSV: H=1073447400, S=-687194767, V,1078814883
+mean color 1 in HSV: H=1073422272, S=1857062050, V,1078875473
+mean color 2 in HSV: H=1073447400, S=1857062050, V,1078875473
+mean color 1 in HSV: H=1073422272, S=269969373, V,1078878875
+mean color 2 in HSV: H=1073447400, S=269969373, V,1078878875
+mean color 1 in HSV: H=1073422272, S=1235314403, V,1078833101
+mean color 2 in HSV: H=1073447400, S=1235314403, V,1078833101
+mean color 1 in HSV: H=1073422272, S=-1235314403, V,1078833202
+mean color 2 in HSV: H=1073447400, S=-1235314403, V,1078833202
+mean color 1 in HSV: H=1073422272, S=1873423830, V,1078928327
+mean color 2 in HSV: H=1073447400, S=1873423830, V,1078928327
+mean color 1 in HSV: H=1073422272, S=-1529826446, V,1078846438
+mean color 2 in HSV: H=1073447400, S=-1529826446, V,1078846438
+mean color 1 in HSV: H=1073422272, S=359959164, V,1078836772
+mean color 2 in HSV: H=1073447400, S=359959164, V,1078836772
+mean color 1 in HSV: H=1073422272, S=-155436912, V,1078827678
+mean color 2 in HSV: H=1073447400, S=-155436912, V,1078827678
+mean color 1 in HSV: H=1073422272, S=-1693444248, V,1078860618
+mean color 2 in HSV: H=1073447400, S=-1693444248, V,1078860618
+mean color 1 in HSV: H=1073422272, S=-1488921996, V,1078842381
+mean color 2 in HSV: H=1073447400, S=-1488921996, V,1078842381
+mean color 1 in HSV: H=1073422272, S=-2012498962, V,1078822221
+mean color 2 in HSV: H=1073447400, S=-2012498962, V,1078822221
+mean color 1 in HSV: H=1073422272, S=425406285, V,1078806524
+mean color 2 in HSV: H=1073447400, S=425406285, V,1078806524
+mean color 1 in HSV: H=1073422272, S=2045222522, V,1078777758
+mean color 2 in HSV: H=1073447400, S=2045222522, V,1078777758
+mean color 1 in HSV: H=1073422272, S=-24542670, V,1078892110
+mean color 2 in HSV: H=1073447400, S=-24542670, V,1078892110
+mean color 1 in HSV: H=1073422272, S=1505283776, V,1078880872
+mean color 2 in HSV: H=1073447400, S=1505283776, V,1078880872
+mean color 1 in HSV: H=1073422272, S=-2028860742, V,1078863575
+mean color 2 in HSV: H=1073447400, S=-2028860742, V,1078863575
+mean color 1 in HSV: H=1073422272, S=-1423474875, V,1078857189
+mean color 2 in HSV: H=1073447400, S=-1423474875, V,1078857189
+mean color 1 in HSV: H=1073422272, S=-1922509171, V,1078786262
+mean color 2 in HSV: H=1073447400, S=-1922509171, V,1078786262
+mean color 1 in HSV: H=1073422272, S=-196341362, V,1078872695
+mean color 2 in HSV: H=1073447400, S=-196341362, V,1078872695
+mean color 1 in HSV: H=1073422272, S=916259690, V,1078831568
+mean color 2 in HSV: H=1073447400, S=916259690, V,1078831568
+mean color 1 in HSV: H=1073422272, S=-1374389535, V,1078810951
+mean color 2 in HSV: H=1073447400, S=-1374389535, V,1078810951
+mean color 1 in HSV: H=1073422272, S=1889785610, V,1078807101
+mean color 2 in HSV: H=1073447400, S=1889785610, V,1078807101
+mean color 1 in HSV: H=1073422272, S=1570730897, V,1078879296
+mean color 2 in HSV: H=1073447400, S=1570730897, V,1078879296
+mean color 1 in HSV: H=1073422272, S=2061584302, V,1078892052
+mean color 2 in HSV: H=1073447400, S=2061584302, V,1078892052
+mean color 1 in HSV: H=1073422272, S=-1268037964, V,1078776646
+mean color 2 in HSV: H=1073447400, S=-1268037964, V,1078776646
+mean color 1 in HSV: H=1073422272, S=-1562550007, V,1078877946
+mean color 2 in HSV: H=1073447400, S=-1562550007, V,1078877946
+mean color 1 in HSV: H=1073422272, S=-1603454457, V,1078816467
+mean color 2 in HSV: H=1073447400, S=-1603454457, V,1078816467
+mean color 1 in HSV: H=1073422272, S=891717020, V,1078886431
+mean color 2 in HSV: H=1073447400, S=891717020, V,1078886431
+mean color 1 in HSV: H=1073422272, S=-1865242940, V,1078849395
+mean color 2 in HSV: H=1073447400, S=-1865242940, V,1078849395
+mean color 1 in HSV: H=1073422272, S=-2069765192, V,1078877872
+mean color 2 in HSV: H=1073447400, S=-2069765192, V,1078877872
+mean color 1 in HSV: H=1073422272, S=1955232731, V,1078850581
+mean color 2 in HSV: H=1073447400, S=1955232731, V,1078850581
+mean color 1 in HSV: H=1073422272, S=253607593, V,1078817829
+mean color 2 in HSV: H=1073447400, S=253607593, V,1078817829
+mean color 1 in HSV: H=1073422272, S=1603454457, V,1078882604
+mean color 2 in HSV: H=1073447400, S=1603454457, V,1078882604
+mean color 1 in HSV: H=1073422272, S=1243495293, V,1078901512
+mean color 2 in HSV: H=1073447400, S=1243495293, V,1078901512
+mean color 1 in HSV: H=1073422272, S=-188160472, V,1078824370
+mean color 2 in HSV: H=1073447400, S=-188160472, V,1078824370
+mean color 1 in HSV: H=1073422272, S=-286331153, V,1078853358
+mean color 2 in HSV: H=1073447400, S=-286331153, V,1078853358
+mean color 1 in HSV: H=1073422272, S=-1243495293, V,1078867191
+mean color 2 in HSV: H=1073447400, S=-1243495293, V,1078867191
+mean color 1 in HSV: H=1073422272, S=179979582, V,1078845202
+mean color 2 in HSV: H=1073447400, S=179979582, V,1078845202
+mean color 1 in HSV: H=1073422272, S=-1529826446, V,1078860774
+mean color 2 in HSV: H=1073447400, S=-1529826446, V,1078860774
+mean color 1 in HSV: H=1073422272, S=1366208645, V,1078791037
+mean color 2 in HSV: H=1073447400, S=1366208645, V,1078791037
+mean color 1 in HSV: H=1073422272, S=-1529826446, V,1078828006
+mean color 2 in HSV: H=1073447400, S=-1529826446, V,1078828006
+mean color 1 in HSV: H=1073422272, S=-1546188227, V,1078926704
+mean color 2 in HSV: H=1073447400, S=-1546188227, V,1078926704
+mean color 1 in HSV: H=1073422272, S=302692933, V,1078871943
+mean color 2 in HSV: H=1073447400, S=302692933, V,1078871943
+mean color 1 in HSV: H=1073422272, S=1415293985, V,1078789855
+mean color 2 in HSV: H=1073447400, S=1415293985, V,1078789855
+mean color 1 in HSV: H=1073422272, S=-1726167808, V,1078840926
+mean color 2 in HSV: H=1073447400, S=-1726167808, V,1078840926
+mean color 1 in HSV: H=1073422272, S=760822778, V,1078844527
+mean color 2 in HSV: H=1073447400, S=760822778, V,1078844527
+mean color 1 in HSV: H=1073422272, S=-1014430371, V,1078796139
+mean color 2 in HSV: H=1073447400, S=-1014430371, V,1078796139
+mean color 1 in HSV: H=1073422272, S=1104420162, V,1078852637
+mean color 2 in HSV: H=1073447400, S=1104420162, V,1078852637
+mean color 1 in HSV: H=1073422272, S=-147256022, V,1078781401
+mean color 2 in HSV: H=1073447400, S=-147256022, V,1078781401
+mean color 1 in HSV: H=1073422272, S=-1071696601, V,1078907086
+mean color 2 in HSV: H=1073447400, S=-1071696601, V,1078907086
+mean color 1 in HSV: H=1073422272, S=32723560, V,1078881516
+mean color 2 in HSV: H=1073447400, S=32723560, V,1078881516
+mean color 1 in HSV: H=1073422272, S=490853405, V,1078757844
+mean color 2 in HSV: H=1073447400, S=490853405, V,1078757844
+mean color 1 in HSV: H=1073422272, S=-1358027755, V,1078810557
+mean color 2 in HSV: H=1073447400, S=-1358027755, V,1078810557
+mean color 1 in HSV: H=1073422272, S=1448017546, V,1078834123
+mean color 2 in HSV: H=1073447400, S=1448017546, V,1078834123
+mean color 1 in HSV: H=1073422272, S=-2028860742, V,1078775511
+mean color 2 in HSV: H=1073447400, S=-2028860742, V,1078775511
+mean color 1 in HSV: H=1073422272, S=1047153931, V,1078836608
+mean color 2 in HSV: H=1073447400, S=1047153931, V,1078836608
+mean color 1 in HSV: H=1073422272, S=1047153931, V,1078822272
+mean color 2 in HSV: H=1073447400, S=1047153931, V,1078822272
+mean color 1 in HSV: H=1073422272, S=499034295, V,1078883599
+mean color 2 in HSV: H=1073447400, S=499034295, V,1078883599
+mean color 1 in HSV: H=1073422272, S=-1857062050, V,1078876846
+mean color 2 in HSV: H=1073447400, S=-1857062050, V,1078876846
+mean color 1 in HSV: H=1073422272, S=1178048173, V,1078839600
+mean color 2 in HSV: H=1073447400, S=1178048173, V,1078839600
+mean color 1 in HSV: H=1073422272, S=-2143393203, V,1078860189
+mean color 2 in HSV: H=1073447400, S=-2143393203, V,1078860189
+mean color 1 in HSV: H=1073422272, S=-1153505502, V,1078831232
+mean color 2 in HSV: H=1073447400, S=-1153505502, V,1078831232
+mean color 1 in HSV: H=1073422272, S=229064922, V,1078858356
+mean color 2 in HSV: H=1073447400, S=229064922, V,1078858356
+mean color 1 in HSV: H=1073422272, S=2102488753, V,1078820411
+mean color 2 in HSV: H=1073447400, S=2102488753, V,1078820411
+mean color 1 in HSV: H=1073422272, S=114532461, V,1078736186
+mean color 2 in HSV: H=1073447400, S=114532461, V,1078736186
+mean color 1 in HSV: H=1073422272, S=-1488921996, V,1078805517
+mean color 2 in HSV: H=1073447400, S=-1488921996, V,1078805517
+mean color 1 in HSV: H=1073422272, S=-1390751315, V,1078835921
+mean color 2 in HSV: H=1073447400, S=-1390751315, V,1078835921
+mean color 1 in HSV: H=1073422272, S=-1407113095, V,1078895707
+mean color 2 in HSV: H=1073447400, S=-1407113095, V,1078895707
+mean color 1 in HSV: H=1073422272, S=1055334821, V,1078929595
+mean color 2 in HSV: H=1073447400, S=1055334821, V,1078929595
+mean color 1 in HSV: H=1073422272, S=1038973041, V,1078805061
+mean color 2 in HSV: H=1073447400, S=1038973041, V,1078805061
+mean color 1 in HSV: H=1073422272, S=842631679, V,1078877373
+mean color 2 in HSV: H=1073447400, S=842631679, V,1078877373
+mean color 1 in HSV: H=1073422272, S=-2061584302, V,1078886891
+mean color 2 in HSV: H=1073447400, S=-2061584302, V,1078886891
+mean color 1 in HSV: H=1073422272, S=-425406285, V,1078853635
+mean color 2 in HSV: H=1073447400, S=-425406285, V,1078853635
+mean color 1 in HSV: H=1073422272, S=-1897966500, V,1078884999
+mean color 2 in HSV: H=1073447400, S=-1897966500, V,1078884999
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=-335416494, V,1078748044
+mean color 2 in HSV: H=1073447400, S=-335416494, V,1078748044
+mean color 1 in HSV: H=1073422272, S=-1587092677, V,1078791497
+mean color 2 in HSV: H=1073447400, S=-1587092677, V,1078791497
+mean color 1 in HSV: H=1073422272, S=-507215185, V,1078802357
+mean color 2 in HSV: H=1073447400, S=-507215185, V,1078802357
+mean color 1 in HSV: H=1073422272, S=908078800, V,1078845077
+mean color 2 in HSV: H=1073447400, S=908078800, V,1078845077
+mean color 1 in HSV: H=1073422272, S=-638109427, V,1078799365
+mean color 2 in HSV: H=1073447400, S=-638109427, V,1078799365
+mean color 1 in HSV: H=1073422272, S=638109427, V,1078811642
+mean color 2 in HSV: H=1073447400, S=638109427, V,1078811642
+mean color 1 in HSV: H=1073422272, S=-1832519380, V,1078893663
+mean color 2 in HSV: H=1073447400, S=-1832519380, V,1078893663
+mean color 1 in HSV: H=1073422272, S=703556548, V,1078914514
+mean color 2 in HSV: H=1073447400, S=703556548, V,1078914514
+mean color 1 in HSV: H=1073422272, S=875355239, V,1078804905
+mean color 2 in HSV: H=1073447400, S=875355239, V,1078804905
+mean color 1 in HSV: H=1073422272, S=-818089009, V,1078842611
+mean color 2 in HSV: H=1073447400, S=-818089009, V,1078842611
+mean color 1 in HSV: H=1073422272, S=728099218, V,1078855555
+mean color 2 in HSV: H=1073447400, S=728099218, V,1078855555
+mean color 1 in HSV: H=1073422272, S=1857062050, V,1078828369
+mean color 2 in HSV: H=1073447400, S=1857062050, V,1078828369
+mean color 1 in HSV: H=1073422272, S=1448017546, V,1078897611
+mean color 2 in HSV: H=1073447400, S=1448017546, V,1078897611
+mean color 1 in HSV: H=1073422272, S=687194767, V,1078845276
+mean color 2 in HSV: H=1073447400, S=687194767, V,1078845276
+mean color 1 in HSV: H=1073422272, S=-777184558, V,1078830362
+mean color 2 in HSV: H=1073447400, S=-777184558, V,1078830362
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=1073422272, S=-1848881160, V,1078812137
+mean color 2 in HSV: H=1073447400, S=-1848881160, V,1078812137
+mean color 1 in HSV: H=1073422272, S=-1529826446, V,1078823910
+mean color 2 in HSV: H=1073447400, S=-1529826446, V,1078823910
+mean color 1 in HSV: H=1073422272, S=-1169867283, V,1078854154
+mean color 2 in HSV: H=1073447400, S=-1169867283, V,1078854154
+mean color 1 in HSV: H=1073422272, S=1358027755, V,1078794306
+mean color 2 in HSV: H=1073447400, S=1358027755, V,1078794306
+mean color 1 in HSV: H=1073422272, S=1137143722, V,1078864137
+mean color 2 in HSV: H=1073447400, S=1137143722, V,1078864137
+mean color 1 in HSV: H=1073422272, S=1562550007, V,1078843653
+mean color 2 in HSV: H=1073447400, S=1562550007, V,1078843653
+mean color 1 in HSV: H=1073422272, S=-8180890, V,1078881476
+mean color 2 in HSV: H=1073447400, S=-8180890, V,1078881476
+mean color 1 in HSV: H=1073422272, S=1071696601, V,1078843185
+mean color 2 in HSV: H=1073447400, S=1071696601, V,1078843185
+mean color 1 in HSV: H=1073422272, S=-654471207, V,1078838671
+mean color 2 in HSV: H=1073447400, S=-654471207, V,1078838671
+mean color 1 in HSV: H=1073422272, S=572662306, V,1078837794
+mean color 2 in HSV: H=1073447400, S=572662306, V,1078837794
+mean color 1 in HSV: H=1073422272, S=-556300526, V,1078856787
+mean color 2 in HSV: H=1073447400, S=-556300526, V,1078856787
+mean color 1 in HSV: H=1073422272, S=-163617802, V,1078851427
+mean color 2 in HSV: H=1073447400, S=-163617802, V,1078851427
+mean color 1 in HSV: H=1073422272, S=858993459, V,1078797107
+mean color 2 in HSV: H=1073447400, S=858993459, V,1078797107
+mean color 1 in HSV: H=1073422272, S=703556548, V,1078848978
+mean color 2 in HSV: H=1073447400, S=703556548, V,1078848978
+mean color 1 in HSV: H=1073422272, S=1767072259, V,1078843848
+mean color 2 in HSV: H=1073447400, S=1767072259, V,1078843848
+mean color 1 in HSV: H=1073422272, S=-16361780, V,1078849929
+mean color 2 in HSV: H=1073447400, S=-16361780, V,1078849929
+mean color 1 in HSV: H=1073422272, S=621747647, V,1078809988
+mean color 2 in HSV: H=1073447400, S=621747647, V,1078809988
+mean color 1 in HSV: H=1073422272, S=-1448017546, V,1078832180
+mean color 2 in HSV: H=1073447400, S=-1448017546, V,1078832180
+mean color 1 in HSV: H=1073422272, S=1464379326, V,1078803009
+mean color 2 in HSV: H=1073447400, S=1464379326, V,1078803009
+mean color 1 in HSV: H=1073422272, S=-1685263358, V,1078730373
+mean color 2 in HSV: H=1073447400, S=-1685263358, V,1078730373
+mean color 1 in HSV: H=1073422272, S=-1259857074, V,1078816385
+mean color 2 in HSV: H=1073447400, S=-1259857074, V,1078816385
+mean color 1 in HSV: H=1073422272, S=1169867283, V,1078789621
+mean color 2 in HSV: H=1073447400, S=1169867283, V,1078789621
+mean color 1 in HSV: H=1073422272, S=-1202590843, V,1078887710
+mean color 2 in HSV: H=1073447400, S=-1202590843, V,1078887710
+mean color 1 in HSV: H=1073422272, S=-376320944, V,1078842213
+mean color 2 in HSV: H=1073447400, S=-376320944, V,1078842213
+mean color 1 in HSV: H=1073422272, S=-638109427, V,1078825989
+mean color 2 in HSV: H=1073447400, S=-638109427, V,1078825989
+mean color 1 in HSV: H=1073422272, S=1652539798, V,1078822030
+mean color 2 in HSV: H=1073447400, S=1652539798, V,1078822030
+mean color 1 in HSV: H=1073422272, S=-1726167808, V,1078832734
+mean color 2 in HSV: H=1073447400, S=-1726167808, V,1078832734
+mean color 1 in HSV: H=1073422272, S=-2020679852, V,1078899218
+mean color 2 in HSV: H=1073447400, S=-2020679852, V,1078899218
+mean color 1 in HSV: H=1073422272, S=-1407113095, V,1078885467
+mean color 2 in HSV: H=1073447400, S=-1407113095, V,1078885467
+mean color 1 in HSV: H=1073422272, S=801727229, V,1078807702
+mean color 2 in HSV: H=1073447400, S=801727229, V,1078807702
+mean color 1 in HSV: H=1073422272, S=40904450, V,1078751271
+mean color 2 in HSV: H=1073447400, S=40904450, V,1078751271
+mean color 1 in HSV: H=1073422272, S=-2118850533, V,1078844238
+mean color 2 in HSV: H=1073447400, S=-2118850533, V,1078844238
+mean color 1 in HSV: H=1073422272, S=-1014430371, V,1078789995
+mean color 2 in HSV: H=1073447400, S=-1014430371, V,1078789995
+mean color 1 in HSV: H=1073422272, S=-1276218854, V,1078890507
+mean color 2 in HSV: H=1073447400, S=-1276218854, V,1078890507
+mean color 1 in HSV: H=1073422272, S=-989887701, V,1078821148
+mean color 2 in HSV: H=1073447400, S=-989887701, V,1078821148
+mean color 1 in HSV: H=1073422272, S=-24542670, V,1078822478
+mean color 2 in HSV: H=1073447400, S=-24542670, V,1078822478
+mean color 1 in HSV: H=1073422272, S=-842631679, V,1078829890
+mean color 2 in HSV: H=1073447400, S=-842631679, V,1078829890
+mean color 1 in HSV: H=1073422272, S=932621470, V,1078841414
+mean color 2 in HSV: H=1073447400, S=932621470, V,1078841414
+mean color 1 in HSV: H=1073422272, S=1153505502, V,1078810495
+mean color 2 in HSV: H=1073447400, S=1153505502, V,1078810495
+mean color 1 in HSV: H=1073422272, S=2077946082, V,1078895754
+mean color 2 in HSV: H=1073447400, S=2077946082, V,1078895754
+input detected
+
+color detection stopped!
+input detected
+
+color detection stopped!
+resizer1
+X_scale1 is=100, Y_scale1 is=60, X_length1 is=120, Y_length1 is=70 
+please insert the x_scale1
+please insert the y_scale1
+please insert the x_length1
+please insert the y_length1
+its done
+X_scale1 is=1, Y_scale1 is=2, X_length1 is=3, Y_length1 is=4 
+input detected
+
+color detection stopped!
+resizer2
+X_scale2 is=100, Y_scale2 is=60, X_length2 is=120, Y_length2 is=70 
+please insert the x_scale2
+please insert the y_scale2
+please insert the x_length2
+please insert the y_length2
+its done
+X_scale2 is=5, Y_scale2 is=6, X_length2 is=7, Y_length2 is=8 
+input detected
+
+color detection stopped!
+resizer1
+X_scale1 is=1, Y_scale1 is=2, X_length1 is=3, Y_length1 is=4 
+please insert the x_scale1
+please insert the y_scale1
+please insert the x_length1
+please insert the y_length1
+its done
+X_scale1 is=0, Y_scale1 is=22, X_length1 is=22, Y_length1 is=2 
+input detected
+
+input detected
+
+color detection stopped!
+resizer2
+X_scale2 is=5, Y_scale2 is=6, X_length2 is=7, Y_length2 is=8 
+please insert the x_scale2
+please insert the y_scale2
+please insert the x_length2
+please insert the y_length2
+its done
+X_scale2 is=5, Y_scale2 is=6, X_length2 is=7, Y_length2 is=8 
+input detected
+1
+color detection stopped!
+resizer1
+X_scale1 is=0, Y_scale1 is=22, X_length1 is=22, Y_length1 is=2 
+please insert the x_scale1
+please insert the y_scale1
+please insert the x_length1
+please insert the y_length1
+its done
+X_scale1 is=2, Y_scale1 is=3, X_length1 is=4, Y_length1 is=4 

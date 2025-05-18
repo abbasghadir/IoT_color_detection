@@ -1,0 +1,37 @@
+
+E (235) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+Guru Meditation Error: Core  1 panic'ed (Interrupt wdt timeout on CPU1). 
+
+Core  1 register dump:
+PC      : 0x4008ec64  PS      : 0x00060735  A0      : 0x8008d896  A1      : 0x3ffc2b2c  
+A2      : 0x3ffb8314  A3      : 0x3ffb81a4  A4      : 0x00000004  A5      : 0x00060723  
+A6      : 0x00060723  A7      : 0x00000001  A8      : 0x3ffb81a4  A9      : 0x00000018  
+A10     : 0x3ffb81a4  A11     : 0x00000018  A12     : 0x3ffca1bc  A13     : 0x00060723  
+A14     : 0x007c2cd8  A15     : 0x003fffff  SAR     : 0x0000000a  EXCCAUSE: 0x00000006  
+EXCVADDR: 0x00000000  LBEG    : 0x40089301  LEND    : 0x40089311  LCOUNT  : 0xfffffff3  
+Core  1 was running in ISR context:
+EPC1    : 0x40171547  EPC2    : 0x00000000  EPC3    : 0x00000000  EPC4    : 0x00000000
+
+
+Backtrace: 0x4008ec61:0x3ffc2b2c |<-CORRUPTED
+
+
+Core  0 register dump:
+PC      : 0x4008edfd  PS      : 0x00060035  A0      : 0x8008d4bf  A1      : 0x3ffc23fc  
+A2      : 0x3ffc2cd8  A3      : 0xb33fffff  A4      : 0x0000abab  A5      : 0x00060023  
+A6      : 0x00060021  A7      : 0x0000cdcd  A8      : 0x0000abab  A9      : 0xffffffff  
+A10     : 0x00000000  A11     : 0x00000000  A12     : 0x3ffc957c  A13     : 0x00000007  
+A14     : 0x007c2cd8  A15     : 0x003fffff  SAR     : 0x0000001d  EXCCAUSE: 0x00000006  
+EXCVADDR: 0x00000000  LBEG    : 0x00000000  LEND    : 0x00000000  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x4008edfa:0x3ffc23fc |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 9b8a68a7009e25a8
+
+Rebooting...
+
+E (235) gpio: gpio_install_isr_service(450): GPIO isr service already installed

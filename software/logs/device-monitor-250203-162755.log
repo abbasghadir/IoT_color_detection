@@ -1,0 +1,1575 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,le�ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (1579) wifi:Set status to INIT
+E (1598) wifi:Set status to INIT
+E (1620) wifi:Set status to INIT
+E (1643) wifi:Set status to INIT
+cam_hal: EV-VSYNC-OVF
+E (1664) wifi:Set status to INIT
+..E (2697) wifi:Set status to INIT
+E (2714) wifi:Set status to INIT
+E (2731) wifi:Set status to INIT
+E (2749) wifi:Set status to INIT
+E (2769) wifi:Set status to INIT
+E (2787) wifi:Set status to INIT
+E (2805) wifi:Set status to INIT
+E (2825) wifi:Set status to INIT
+E (2843) wifi:Set status to INIT
+E (2860) wifi:Set status to INIT
+E (2877) wifi:Set status to INIT
+E (2895) wifi:Set status to INIT
+E (2912) wifi:Set status to INIT
+E (2930) wifi:Set status to INIT
+E (2947) wifi:Set status to INIT
+E (2968) wifi:Set status to INIT
+E (2986) wifi:Set status to INIT
+E (3017) wifi:Set status to INIT
+E (3034) wifi:Set status to INIT
+E (3052) wifi:Set status to INIT
+.E (3073) wifi:Set status to INIT
+E (3091) wifi:Set status to INIT
+E (3108) wifi:Set status to INIT
+E (3125) wifi:Set status to INIT
+E (3143) wifi:Set status to INIT
+E (3161) wifi:Set status to INIT
+E (3181) wifi:Set status to INIT
+E (3198) wifi:Set status to INIT
+E (3217) wifi:Set status to INIT
+E (3236) wifi:Set status to INIT
+E (3253) wifi:Set status to INIT
+E (3271) wifi:Set status to INIT
+E (3288) wifi:Set status to INIT
+E (3305) wifi:Set status to INIT
+E (3322) wifi:Set status to INIT
+E (3342) wifi:Set status to INIT
+E (3359) wifi:Set status to INIT
+E (3379) wifi:Set status to INIT
+E (3396) wifi:Set status to INIT
+E (3414) wifi:Set status to INIT
+E (3432) wifi:Set status to INIT
+E (3450) wifi:Set status to INIT
+E (3468) wifi:Set status to INIT
+E (3487) wifi:Set status to INIT
+E (3510) wifi:Set status to INIT
+E (3529) wifi:Set status to INIT
+E (3547) wifi:Set status to INIT
+E (3564) wifi:Set status to INIT
+.E (3584) wifi:Set status to INIT
+E (3601) wifi:Set status to INIT
+E (3618) wifi:Set status to INIT
+E (3636) wifi:Set status to INIT
+E (3653) wifi:Set status to INIT
+E (3671) wifi:Set status to INIT
+E (3690) wifi:Set status to INIT
+E (3708) wifi:Set status to INIT
+E (3725) wifi:Set status to INIT
+E (3742) wifi:Set status to INIT
+E (3760) wifi:Set status to INIT
+E (3777) wifi:Set status to INIT
+E (3795) wifi:Set status to INIT
+E (3812) wifi:Set status to INIT
+E (3830) wifi:Set status to INIT
+E (3848) wifi:Set status to INIT
+E (3866) wifi:Set status to INIT
+E (3883) wifi:Set status to INIT
+E (3900) wifi:Set status to INIT
+E (3920) wifi:Set status to INIT
+E (3937) wifi:Set status to INIT
+E (3955) wifi:Set status to INIT
+E (3973) wifi:Set status to INIT
+E (3992) wifi:Set status to INIT
+E (4010) wifi:Set status to INIT
+E (4027) wifi:Set status to INIT
+E (4044) wifi:Set status to INIT
+E (4062) wifi:Set status to INIT
+.E (4079) wifi:Set status to INIT
+E (4096) wifi:Set status to INIT
+E (4114) wifi:Set status to INIT
+E (4132) wifi:Set status to INIT
+E (4243) wifi:Set status to INIT
+E (4261) wifi:Set status to INIT
+E (4280) wifi:Set status to INIT
+E (4299) wifi:Set status to INIT
+E (4317) wifi:Set status to INIT
+E (4334) wifi:Set status to INIT
+E (4351) wifi:Set status to INIT
+E (4369) wifi:Set status to INIT
+E (4388) wifi:Set status to INIT
+E (4407) wifi:Set status to INIT
+E (4424) wifi:Set status to INIT
+E (4442) wifi:Set status to INIT
+E (4459) wifi:Set status to INIT
+E (4477) wifi:Set status to INIT
+E (4494) wifi:Set status to INIT
+E (4512) wifi:Set status to INIT
+E (4531) wifi:Set status to INIT
+E (4548) wifi:Set status to INIT
+E (4565) wifi:Set status to INIT
+.E (4583) wifi:Set status to INIT
+E (4600) wifi:Set status to INIT
+E (4619) wifi:Set status to INIT
+E (4637) wifi:Set status to INIT
+E (4654) wifi:Set status to INIT
+E (4675) wifi:Set status to INIT
+E (4694) wifi:Set status to INIT
+E (4716) wifi:Set status to INIT
+E (4734) wifi:Set status to INIT
+E (4752) wifi:Set status to INIT
+E (4769) wifi:Set status to INIT
+E (4787) wifi:Set status to INIT
+E (4805) wifi:Set status to INIT
+E (4822) wifi:Set status to INIT
+E (4839) wifi:Set status to INIT
+E (4857) wifi:Set status to INIT
+E (4879) wifi:Set status to INIT
+E (4896) wifi:Set status to INIT
+E (4916) wifi:Set status to INIT
+E (4933) wifi:Set status to INIT
+E (4951) wifi:Set status to INIT
+E (4968) wifi:Set status to INIT
+E (4988) wifi:Set status to INIT
+E (5005) wifi:Set status to INIT
+E (5030) wifi:Set status to INIT
+E (5047) wifi:Set status to INIT
+E (5063) wifi:Set status to INIT
+.E (5081) wifi:Set status to INIT
+E (5102) wifi:Set status to INIT
+E (5121) wifi:Set status to INIT
+E (5138) wifi:Set status to INIT
+E (5158) wifi:Set status to INIT
+E (5267) wifi:Set status to INIT
+E (5284) wifi:Set status to INIT
+E (5302) wifi:Set status to INIT
+E (5323) wifi:Set status to INIT
+E (5342) wifi:Set status to INIT
+E (5359) wifi:Set status to INIT
+E (5471) wifi:Set status to INIT
+E (5489) wifi:Set status to INIT
+E (5506) wifi:Set status to INIT
+E (5524) wifi:Set status to INIT
+E (5541) wifi:Set status to INIT
+E (5558) wifi:Set status to INIT
+.E (5574) wifi:Set status to INIT
+E (5592) wifi:Set status to INIT
+E (5609) wifi:Set status to INIT
+E (5627) wifi:Set status to INIT
+E (5645) wifi:Set status to INIT
+E (5662) wifi:Set status to INIT
+E (5682) wifi:Set status to INIT
+E (5699) wifi:Set status to INIT
+E (5717) wifi:Set status to INIT
+E (5738) wifi:Set status to INIT
+E (5756) wifi:Set status to INIT
+E (5773) wifi:Set status to INIT
+E (5792) wifi:Set status to INIT
+E (5810) wifi:Set status to INIT
+E (5827) wifi:Set status to INIT
+E (5845) wifi:Set status to INIT
+E (5862) wifi:Set status to INIT
+E (5879) wifi:Set status to INIT
+E (5897) wifi:Set status to INIT
+E (5915) wifi:Set status to INIT
+E (5932) wifi:Set status to INIT
+E (5953) wifi:Set status to INIT
+E (5970) wifi:Set status to INIT
+E (5987) wifi:Set status to INIT
+E (6005) wifi:Set status to INIT
+E (6022) wifi:Set status to INIT
+E (6040) wifi:Set status to INIT
+E (6058) wifi:Set status to INIT
+.E (6086) wifi:Set status to INIT
+E (6105) wifi:Set status to INIT
+E (6123) wifi:Set status to INIT
+E (6143) wifi:Set status to INIT
+E (6160) wifi:Set status to INIT
+E (6179) wifi:Set status to INIT
+E (6290) wifi:Set status to INIT
+E (6308) wifi:Set status to INIT
+E (6325) wifi:Set status to INIT
+E (6342) wifi:Set status to INIT
+E (6359) wifi:Set status to INIT
+E (6377) wifi:Set status to INIT
+E (6393) wifi:Set status to INIT
+E (6410) wifi:Set status to INIT
+E (6428) wifi:Set status to INIT
+E (6445) wifi:Set status to INIT
+E (6463) wifi:Set status to INIT
+E (6481) wifi:Set status to INIT
+E (6498) wifi:Set status to INIT
+E (6515) wifi:Set status to INIT
+E (6533) wifi:Set status to INIT
+E (6552) wifi:Set status to INIT
+.E (6570) wifi:Set status to INIT
+E (6587) wifi:Set status to INIT
+E (6604) wifi:Set status to INIT
+E (6622) wifi:Set status to INIT
+E (6639) wifi:Set status to INIT
+E (6657) wifi:Set status to INIT
+E (6675) wifi:Set status to INIT
+E (6692) wifi:Set status to INIT
+E (6709) wifi:Set status to INIT
+E (6726) wifi:Set status to INIT
+E (6744) wifi:Set status to INIT
+E (6763) wifi:Set status to INIT
+E (6781) wifi:Set status to INIT
+E (6799) wifi:Set status to INIT
+E (6817) wifi:Set status to INIT
+E (6834) wifi:Set status to INIT
+E (6852) wifi:Set status to INIT
+E (6872) wifi:Set status to INIT
+E (6889) wifi:Set status to INIT
+E (6905) wifi:Set status to INIT
+E (6923) wifi:Set status to INIT
+E (6941) wifi:Set status to INIT
+E (6959) wifi:Set status to INIT
+E (6982) wifi:Set status to INIT
+E (7000) wifi:Set status to INIT
+E (7017) wifi:Set status to INIT
+E (7035) wifi:Set status to INIT
+E (7052) wifi:Set status to INIT
+.E (7071) wifi:Set status to INIT
+E (7088) wifi:Set status to INIT
+E (7106) wifi:Set status to INIT
+E (7124) wifi:Set status to INIT
+E (7144) wifi:Set status to INIT
+E (7161) wifi:Set status to INIT
+E (7179) wifi:Set status to INIT
+E (7197) wifi:Set status to INIT
+E (7217) wifi:Set status to INIT
+E (7239) wifi:Set status to INIT
+E (7257) wifi:Set status to INIT
+E (7276) wifi:Set status to INIT
+E (7293) wifi:Set status to INIT
+E (7311) wifi:Set status to INIT
+E (7328) wifi:Set status to INIT
+E (7346) wifi:Set status to INIT
+E (7363) wifi:Set status to INIT
+E (7416) wifi:Set status to INIT
+E (7434) wifi:Set status to INIT
+E (7451) wifi:Set status to INIT
+E (7469) wifi:Set status to INIT
+E (7486) wifi:Set status to INIT
+E (7504) wifi:Set status to INIT
+E (7521) wifi:Set status to INIT
+E (7539) wifi:Set status to INIT
+E (7556) wifi:Set status to INIT
+.E (7574) wifi:Set status to INIT
+E (7592) wifi:Set status to INIT
+E (7609) wifi:Set status to INIT
+E (7627) wifi:Set status to INIT
+E (7644) wifi:Set status to INIT
+E (7661) wifi:Set status to INIT
+E (7681) wifi:Set status to INIT
+E (7699) wifi:Set status to INIT
+E (7717) wifi:Set status to INIT
+E (7735) wifi:Set status to INIT
+E (7752) wifi:Set status to INIT
+E (7769) wifi:Set status to INIT
+E (7788) wifi:Set status to INIT
+E (7805) wifi:Set status to INIT
+E (7823) wifi:Set status to INIT
+E (7840) wifi:Set status to INIT
+E (7857) wifi:Set status to INIT
+E (7876) wifi:Set status to INIT
+E (7894) wifi:Set status to INIT
+E (7911) wifi:Set status to INIT
+E (7928) wifi:Set status to INIT
+E (7946) wifi:Set status to INIT
+E (7963) wifi:Set status to INIT
+E (7981) wifi:Set status to INIT
+E (7999) wifi:Set status to INIT
+E (8016) wifi:Set status to INIT
+E (8034) wifi:Set status to INIT
+E (8056) wifi:Set status to INIT
+.E (8073) wifi:Set status to INIT
+E (8090) wifi:Set status to INIT
+E (8108) wifi:Set status to INIT
+E (8126) wifi:Set status to INIT
+E (8144) wifi:Set status to INIT
+E (8162) wifi:Set status to INIT
+E (8179) wifi:Set status to INIT
+E (8198) wifi:Set status to INIT
+E (8215) wifi:Set status to INIT
+E (8232) wifi:Set status to INIT
+E (8260) wifi:Set status to INIT
+E (8277) wifi:Set status to INIT
+E (8295) wifi:Set status to INIT
+E (8312) wifi:Set status to INIT
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (1571) wifi:Set status to INIT
+E (1590) wifi:Set status to INIT
+E (1613) wifi:Set status to INIT
+E (1636) wifi:Set status to INIT
+cam_hal: EV-VSYNC-OVF
+E (1657) wifi:Set status to INIT
+E (1674) wifi:Set status to INIT
+E (1692) wifi:Set status to INIT
+E (1709) wifi:Set status to INIT
+E (1728) wifi:Set status to INIT
+E (1746) wifi:Set status to INIT
+E (1768) wifi:Set status to INIT
+E (1871) wifi:Set status to INIT
+E (1888) wifi:Set status to INIT
+E (1907) wifi:Set status to INIT
+E (1927) wifi:Set status to INIT
+E (1945) wifi:Set status to INIT
+E (1963) wifi:Set status to INIT
+E (1981) wifi:Set status to INIT
+E (1999) wifi:Set status to INIT
+E (2016) wifi:Set status to INIT
+E (2034) wifi:Set status to INIT
+E (2051) wifi:Set status to INIT
+.E (2075) wifi:Set status to INIT
+E (2092) wifi:Set status to INIT
+E (2110) wifi:Set status to INIT
+E (2127) wifi:Set status to INIT
+E (2144) wifi:Set status to INIT
+E (2162) wifi:Set status to INIT
+E (2177) wifi:Set status to INIT
+E (2195) wifi:Set status to INIT
+E (2213) wifi:Set status to INIT
+E (2230) wifi:Set status to INIT
+E (2248) wifi:Set status to INIT
+E (2265) wifi:Set status to INIT
+E (2284) wifi:Set status to INIT
+E (2301) wifi:Set status to INIT
+E (2318) wifi:Set status to INIT
+E (2336) wifi:Set status to INIT
+E (2353) wifi:Set status to INIT
+E (2371) wifi:Set status to INIT
+E (2389) wifi:Set status to INIT
+E (2407) wifi:Set status to INIT
+E (2424) wifi:Set status to INIT
+E (2443) wifi:Set status to INIT
+E (2461) wifi:Set status to INIT
+E (2480) wifi:Set status to INIT
+E (2498) wifi:Set status to INIT
+E (2516) wifi:Set status to INIT
+E (2533) wifi:Set status to INIT
+E (2551) wifi:Set status to INIT
+.E (2568) wifi:Set status to INIT
+E (2586) wifi:Set status to INIT
+E (2604) wifi:Set status to INIT
+E (2622) wifi:Set status to INIT
+E (2640) wifi:Set status to INIT
+E (2658) wifi:Set status to INIT
+E (2675) wifi:Set status to INIT
+E (2692) wifi:Set status to INIT
+E (2710) wifi:Set status to INIT
+E (2727) wifi:Set status to INIT
+E (2747) wifi:Set status to INIT
+E (2764) wifi:Set status to INIT
+E (2781) wifi:Set status to INIT
+E (2799) wifi:Set status to INIT
+E (2818) wifi:Set status to INIT
+E (2835) wifi:Set status to INIT
+E (2853) wifi:Set status to INIT
+E (2871) wifi:Set status to INIT
+E (2889) wifi:Set status to INIT
+E (2906) wifi:Set status to INIT
+E (2996) wifi:Set status to INIT
+E (3013) wifi:Set status to INIT
+E (3031) wifi:Set status to INIT
+E (3049) wifi:Set status to INIT
+.E (3066) wifi:Set status to INIT
+E (3084) wifi:Set status to INIT
+E (3103) wifi:Set status to INIT
+E (3120) wifi:Set status to INIT
+E (3138) wifi:Set status to INIT
+E (3158) wifi:Set status to INIT
+E (3176) wifi:Set status to INIT
+E (3193) wifi:Set status to INIT
+E (3212) wifi:Set status to INIT
+E (3230) wifi:Set status to INIT
+E (3249) wifi:Set status to INIT
+E (3267) wifi:Set status to INIT
+E (3285) wifi:Set status to INIT
+E (3302) wifi:Set status to INIT
+E (3320) wifi:Set status to INIT
+E (3342) wifi:Set status to INIT
+E (3360) wifi:Set status to INIT
+E (3379) wifi:Set status to INIT
+E (3396) wifi:Set status to INIT
+E (3415) wifi:Set status to INIT
+E (3432) wifi:Set status to INIT
+E (3450) wifi:Set status to INIT
+E (3468) wifi:Set status to INIT
+E (3485) wifi:Set status to INIT
+E (3503) wifi:Set status to INIT
+E (3522) wifi:Set status to INIT
+E (3540) wifi:Set status to INIT
+E (3557) wifi:Set status to INIT
+.E (3575) wifi:Set status to INIT
+E (3595) wifi:Set status to INIT
+E (3610) wifi:Set status to INIT
+E (3628) wifi:Set status to INIT
+E (3645) wifi:Set status to INIT
+E (3662) wifi:Set status to INIT
+E (3680) wifi:Set status to INIT
+E (3697) wifi:Set status to INIT
+E (3713) wifi:Set status to INIT
+E (3730) wifi:Set status to INIT
+E (3748) wifi:Set status to INIT
+E (3765) wifi:Set status to INIT
+E (3783) wifi:Set status to INIT
+E (3800) wifi:Set status to INIT
+.....E (6271) wifi:Set status to INIT
+E (6289) wifi:Set status to INIT
+E (6306) wifi:Set status to INIT
+E (6324) wifi:Set status to INIT
+E (6341) wifi:Set status to INIT
+E (6358) wifi:Set status to INIT
+.....E (8792) wifi:Set status to INIT
+E (8810) wifi:Set status to INIT
+E (8829) wifi:Set status to INIT
+E (8846) wifi:Set status to INIT
+E (8863) wifi:Set status to INIT
+E (8881) wifi:Set status to INIT
+E (8899) wifi:Set status to INIT
+E (8917) wifi:Set status to INIT
+E (8932) wifi:Set status to INIT
+E (8950) wifi:Set status to INIT
+E (8967) wifi:Set status to INIT
+E (8985) wifi:Set status to INIT
+E (9002) wifi:Set status to INIT
+E (9019) wifi:Set status to INIT
+E (9037) wifi:Set status to INIT
+E (9055) wifi:Set status to INIT
+.E (9072) wifi:Set status to INIT
+E (9089) wifi:Set status to INIT
+E (9109) wifi:Set status to INIT
+E (9127) wifi:Set status to INIT
+E (9146) wifi:Set status to INIT
+E (9163) wifi:Set status to INIT
+E (9181) wifi:Set status to INIT
+E (9200) wifi:Set status to INIT
+E (9217) wifi:Set status to INIT
+E (9235) wifi:Set status to INIT
+E (9254) wifi:Set status to INIT
+E (9273) wifi:Set status to INIT
+E (9291) wifi:Set status to INIT
+E (9309) wifi:Set status to INIT
+E (9326) wifi:Set status to INIT
+E (9344) wifi:Set status to INIT
+E (9361) wifi:Set status to INIT
+E (9379) wifi:Set status to INIT
+E (9396) wifi:Set status to INIT
+E (9415) wifi:Set status to INIT
+E (9433) wifi:Set status to INIT
+E (9451) wifi:Set status to INIT
+E (9468) wifi:Set status to INIT
+E (9485) wifi:Set status to INIT
+E (9505) wifi:Set status to INIT
+E (9527) wifi:Set status to INIT
+E (9545) wifi:Set status to INIT
+.E (9652) wifi:Set status to INIT
+E (9669) wifi:Set status to INIT
+E (9686) wifi:Set status to INIT
+E (9704) wifi:Set status to INIT
+E (9723) wifi:Set status to INIT
+E (9740) wifi:Set status to INIT
+E (9757) wifi:Set status to INIT
+E (9775) wifi:Set status to INIT
+E (9793) wifi:Set status to INIT
+E (9812) wifi:Set status to INIT
+E (9831) wifi:Set status to INIT
+E (9849) wifi:Set status to INIT
+E (9867) wifi:Set status to INIT
+E (9955) wifi:Set status to INIT
+E (9973) wifi:Set status to INIT
+E (9990) wifi:Set status to INIT
+E (10007) wifi:Set status to INIT
+E (10026) wifi:Set status to INIT
+E (10043) wifi:Set status to INIT
+.E (10061) wifi:Set status to INIT
+E (10078) wifi:Set status to INIT
+E (10095) wifi:Set status to INIT
+E (10113) wifi:Set status to INIT
+E (10130) wifi:Set status to INIT
+E (10148) wifi:Set status to INIT
+E (10165) wifi:Set status to INIT
+E (10182) wifi:Set status to INIT
+E (10200) wifi:Set status to INIT
+E (10217) wifi:Set status to INIT
+E (10234) wifi:Set status to INIT
+E (10252) wifi:Set status to INIT
+E (10272) wifi:Set status to INIT
+E (10290) wifi:Set status to INIT
+E (10364) wifi:Set status to INIT
+E (10382) wifi:Set status to INIT
+E (10403) wifi:Set status to INIT
+E (10421) wifi:Set status to INIT
+E (10438) wifi:Set status to INIT
+E (10456) wifi:Set status to INIT
+E (10474) wifi:Set status to INIT
+E (10492) wifi:Set status to INIT
+E (10510) wifi:Set status to INIT
+E (10527) wifi:Set status to INIT
+E (10545) wifi:Set status to INIT
+.E (10563) wifi:Set status to INIT
+E (10582) wifi:Set status to INIT
+E (10600) wifi:Set status to INIT
+E (10620) wifi:Set status to INIT
+E (10638) wifi:Set status to INIT
+E (10655) wifi:Set status to INIT
+E (10672) wifi:Set status to INIT
+E (10689) wifi:Set status to INIT
+E (10707) wifi:Set status to INIT
+E (10724) wifi:Set status to INIT
+E (10743) wifi:Set status to INIT
+E (10760) wifi:Set status to INIT
+E (10777) wifi:Set status to INIT
+E (10795) wifi:Set status to INIT
+E (10813) wifi:Set status to INIT
+E (10830) wifi:Set status to INIT
+E (10848) wifi:Set status to INIT
+E (10865) wifi:Set status to INIT
+E (10883) wifi:Set status to INIT
+E (10901) wifi:Set status to INIT
+E (10921) wifi:Set status to INIT
+E (10941) wifi:Set status to INIT
+E (10958) wifi:Set status to INIT
+E (10976) wifi:Set status to INIT
+E (10993) wifi:Set status to INIT
+E (11010) wifi:Set status to INIT
+E (11028) wifi:Set status to INIT
+E (11045) wifi:Set status to INIT
+.E (11063) wifi:Set status to INIT
+E (11083) wifi:Set status to INIT
+E (11102) wifi:Set status to INIT
+E (11119) wifi:Set status to INIT
+E (11136) wifi:Set status to INIT
+E (11184) wifi:Set status to INIT
+E (11201) wifi:Set status to INIT
+E (11219) wifi:Set status to INIT
+E (11236) wifi:Set status to INIT
+E (11255) wifi:Set status to INIT
+E (11272) wifi:Set status to INIT
+E (11290) wifi:Set status to INIT
+E (11307) wifi:Set status to INIT
+E (11325) wifi:Set status to INIT
+E (11343) wifi:Set status to INIT
+E (11360) wifi:Set status to INIT
+E (11377) wifi:Set status to INIT
+E (11395) wifi:Set status to INIT
+E (11412) wifi:Set status to INIT
+E (11429) wifi:Set status to INIT
+E (11448) wifi:Set status to INIT
+E (11466) wifi:Set status to INIT
+E (11484) wifi:Set status to INIT
+E (11505) wifi:Set status to INIT
+E (11525) wifi:Set status to INIT
+E (11542) wifi:Set status to INIT
+E (11560) wifi:Set status to INIT
+.E (11577) wifi:Set status to INIT
+E (11593) wifi:Set status to INIT
+E (11616) wifi:Set status to INIT
+E (11634) wifi:Set status to INIT
+E (11652) wifi:Set status to INIT
+E (11670) wifi:Set status to INIT
+E (11687) wifi:Set status to INIT
+E (11705) wifi:Set status to INIT
+E (11723) wifi:Set status to INIT
+E (11740) wifi:Set status to INIT
+E (11761) wifi:Set status to INIT
+E (11783) wifi:Set status to INIT
+E (11801) wifi:Set status to INIT
+E (11900) wifi:Set status to INIT
+E (11917) wifi:Set status to INIT
+E (11935) wifi:Set status to INIT
+E (11953) wifi:Set status to INIT
+E (11974) wifi:Set status to INIT
+E (11992) wifi:Set status to INIT
+E (12009) wifi:Set status to INIT
+E (12031) wifi:Set status to INIT
+E (12049) wifi:Set status to INIT
+.E (12068) wifi:Set status to INIT
+E (12085) wifi:Set status to INIT
+E (12103) wifi:Set status to INIT
+E (12123) wifi:Set status to INIT
+E (12142) wifi:Set status to INIT
+E (12160) wifi:Set status to INIT
+E (12177) wifi:Set status to INIT
+E (12195) wifi:Set status to INIT
+E (12212) wifi:Set status to INIT
+E (12231) wifi:Set status to INIT
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets �ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x12 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x12 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (1575) wifi:Set status to INIT
+E (1595) wifi:Set status to INIT
+E (1617) wifi:Set status to INIT
+E (1640) wifi:Set status to INIT
+E (1661) wifi:Set status to INIT
+E (1681) wifi:Set status to INIT
+E (1698) wifi:Set status to INIT
+E (1718) wifi:Set status to INIT
+E (1735) wifi:Set status to INIT
+E (1753) wifi:Set status to INIT
+E (1770) wifi:Set status to INIT
+E (1787) wifi:Set status to INIT
+E (1805) wifi:Set status to INIT
+E (1823) wifi:Set status to INIT
+E (1840) wifi:Set status to INIT
+E (1857) wifi:Set status to INIT
+E (1877) wifi:Set status to INIT
+E (1900) wifi:Set status to INIT
+E (1917) wifi:Set status to INIT
+E (1934) wifi:Set status to INIT
+E (1952) wifi:Set status to INIT
+E (1972) wifi:Set status to INIT
+E (1989) wifi:Set status to INIT
+E (2007) wifi:Set status to INIT
+E (2024) wifi:Set status to INIT
+E (2042) wifi:Set status to INIT
+E (2059) wifi:Set status to INIT
+.E (2077) wifi:Set status to INIT
+E (2094) wifi:Set status to INIT
+E (2113) wifi:Set status to INIT
+E (2130) wifi:Set status to INIT
+E (2148) wifi:Set status to INIT
+E (2165) wifi:Set status to INIT
+E (2183) wifi:Set status to INIT
+E (2201) wifi:Set status to INIT
+E (2219) wifi:Set status to INIT
+E (2237) wifi:Set status to INIT
+E (2254) wifi:Set status to INIT
+E (2272) wifi:Set status to INIT
+E (2300) wifi:Set status to INIT
+E (2318) wifi:Set status to INIT
+E (2340) wifi:Set status to INIT
+E (2358) wifi:Set status to INIT
+E (2375) wifi:Set status to INIT
+E (2393) wifi:Set status to INIT
+E (2414) wifi:Set status to INIT
+E (2432) wifi:Set status to INIT
+E (2449) wifi:Set status to INIT
+E (2469) wifi:Set status to INIT
+E (2487) wifi:Set status to INIT
+E (2504) wifi:Set status to INIT
+E (2522) wifi:Set status to INIT
+E (2539) wifi:Set status to INIT
+E (2556) wifi:Set status to INIT
+.E (2574) wifi:Set status to INIT
+E (2591) wifi:Set status to INIT
+E (2623) wifi:Set status to INIT
+E (2641) wifi:Set status to INIT
+E (2661) wifi:Set status to INIT
+E (2679) wifi:Set status to INIT
+E (2700) wifi:Set status to INIT
+E (2718) wifi:Set status to INIT
+E (2821) wifi:Set status to INIT
+E (2839) wifi:Set status to INIT
+E (2856) wifi:Set status to INIT
+E (2874) wifi:Set status to INIT
+E (2924) wifi:Set status to INIT
+E (2941) wifi:Set status to INIT
+E (2958) wifi:Set status to INIT
+E (2976) wifi:Set status to INIT
+E (2993) wifi:Set status to INIT
+E (3012) wifi:Set status to INIT
+E (3029) wifi:Set status to INIT
+E (3046) wifi:Set status to INIT
+.E (3065) wifi:Set status to INIT
+E (3082) wifi:Set status to INIT
+E (3100) wifi:Set status to INIT
+E (3117) wifi:Set status to INIT
+E (3136) wifi:Set status to INIT
+E (3153) wifi:Set status to INIT
+E (3170) wifi:Set status to INIT
+E (3188) wifi:Set status to INIT
+E (3205) wifi:Set status to INIT
+E (3223) wifi:Set status to INIT
+E (3241) wifi:Set status to INIT
+E (3258) wifi:Set status to INIT
+E (3275) wifi:Set status to INIT
+E (3294) wifi:Set status to INIT
+E (3313) wifi:Set status to INIT
+E (3330) wifi:Set status to INIT
+E (3348) wifi:Set status to INIT
+E (3365) wifi:Set status to INIT
+E (3382) wifi:Set status to INIT
+E (3400) wifi:Set status to INIT
+E (3417) wifi:Set status to INIT
+E (3434) wifi:Set status to INIT
+E (3452) wifi:Set status to INIT
+E (3470) wifi:Set status to INIT
+E (3488) wifi:Set status to INIT
+E (3505) wifi:Set status to INIT
+E (3525) wifi:Set status to INIT
+E (3543) wifi:Set status to INIT
+E (3560) wifi:Set status to INIT
+.E (3580) wifi:Set status to INIT
+E (3597) wifi:Set status to INIT
+E (3616) wifi:Set status to INIT
+E (3634) wifi:Set status to INIT
+E (3651) wifi:Set status to INIT
+E (3669) wifi:Set status to INIT
+E (3686) wifi:Set status to INIT
+E (3703) wifi:Set status to INIT
+E (3722) wifi:Set status to INIT
+E (3740) wifi:Set status to INIT
+E (3757) wifi:Set status to INIT
+E (3774) wifi:Set status to INIT
+E (3792) wifi:Set status to INIT
+E (3812) wifi:Set status to INIT
+E (3832) wifi:Set status to INIT
+E (3849) wifi:Set status to INIT
+E (3867) wifi:Set status to INIT
+E (3884) wifi:Set status to INIT
+E (3902) wifi:Set status to INIT
+E (3919) wifi:Set status to INIT
+E (3936) wifi:Set status to INIT
+E (3955) wifi:Set status to INIT
+E (3972) wifi:Set status to INIT
+E (3990) wifi:Set status to INIT
+E (4007) wifi:Set status to INIT
+E (4025) wifi:Set status to INIT
+E (4043) wifi:Set status to INIT
+E (4061) wifi:Set status to INIT
+.E (4083) wifi:Set status to INIT
+E (4105) wifi:Set status to INIT
+E (4123) wifi:Set status to INIT
+E (4140) wifi:Set status to INIT
+E (4159) wifi:Set status to INIT
+E (4176) wifi:Set status to INIT
+E (4194) wifi:Set status to INIT
+E (4211) wifi:Set status to INIT
+E (4229) wifi:Set status to INIT
+E (4247) wifi:Set status to INIT
+E (4265) wifi:Set status to INIT
+E (4282) wifi:Set status to INIT
+E (4299) wifi:Set status to INIT
+E (4317) wifi:Set status to INIT
+E (4337) wifi:Set status to INIT
+E (4354) wifi:Set status to INIT
+E (4375) wifi:Set status to INIT
+E (4393) wifi:Set status to INIT
+E (4410) wifi:Set status to INIT
+E (4430) wifi:Set status to INIT
+E (4447) wifi:Set status to INIT
+E (4465) wifi:Set status to INIT
+E (4483) wifi:Set status to INIT
+E (4504) wifi:Set status to INIT
+.....E (6938) wifi:Set status to INIT
+E (6956) wifi:Set status to INIT
+E (6974) wifi:Set status to INIT
+E (7017) wifi:Set status to INIT
+E (7035) wifi:Set status to INIT
+E (7052) wifi:Set status to INIT
+.E (7069) wifi:Set status to INIT
+E (7087) wifi:Set status to INIT
+E (7107) wifi:Set status to INIT
+....E (9541) wifi:Set status to INIT
+E (9560) wifi:Set status to INIT
+.E (9577) wifi:Set status to INIT
+E (9595) wifi:Set status to INIT
+E (9613) wifi:Set status to INIT
+E (9631) wifi:Set status to INIT
+E (9648) wifi:Set status to INIT
+E (9681) wifi:Set status to INIT
+E (9698) wifi:Set status to INIT
+E (9715) wifi:Set status to INIT
+E (9733) wifi:Set status to INIT
+E (9751) wifi:Set status to INIT
+E (9769) wifi:Set status to INIT
+E (9787) wifi:Set status to INIT
+E (9805) wifi:Set status to INIT
+E (9822) wifi:Set status to INIT
+E (9840) wifi:Set status to INIT
+E (9858) wifi:Set status to INIT
+E (9879) wifi:Set status to INIT
+E (9897) wifi:Set status to INIT
+E (9916) wifi:Set status to INIT
+E (9934) wifi:Set status to INIT
+E (9951) wifi:Set status to INIT
+E (9971) wifi:Set status to INIT
+E (9988) wifi:Set status to INIT
+E (10005) wifi:Set status to INIT
+E (10023) wifi:Set status to INIT
+E (10040) wifi:Set status to INIT
+E (10060) wifi:Set status to INIT
+.E (10078) wifi:Set status to INIT
+E (10097) wifi:Set status to INIT
+E (10114) wifi:Set status to INIT
+E (10132) wifi:Set status to INIT
+E (10152) wifi:Set status to INIT
+E (10172) wifi:Set status to INIT
+E (10189) wifi:Set status to INIT
+E (10210) wifi:Set status to INIT
+E (10229) wifi:Set status to INIT
+E (10247) wifi:Set status to INIT
+E (10266) wifi:Set status to INIT
+E (10284) wifi:Set status to INIT
+E (10302) wifi:Set status to INIT
+E (10320) wifi:Set status to INIT
+E (10337) wifi:Set status to INIT
+E (10355) wifi:Set status to INIT
+E (10372) wifi:Set status to INIT
+E (10391) wifi:Set status to INIT
+E (10408) wifi:Set status to INIT
+E (10425) wifi:Set status to INIT
+E (10443) wifi:Set status to INIT
+E (10460) wifi:Set status to INIT
+E (10481) wifi:Set status to INIT
+E (10500) wifi:Set status to INIT
+E (10517) wifi:Set status to INIT
+E (10535) wifi:Set status to INIT
+E (10552) wifi:Set status to INIT
+.E (10569) wifi:Set status to INIT
+E (10588) wifi:Set status to INIT
+E (10606) wifi:Set status to INIT
+E (10623) wifi:Set status to INIT
+E (10640) wifi:Set status to INIT
+E (10659) wifi:Set status to INIT
+E (10676) wifi:Set status to INIT
+E (10693) wifi:Set status to INIT
+E (10711) wifi:Set status to INIT
+E (10728) wifi:Set status to INIT
+E (10746) wifi:Set status to INIT
+E (10763) wifi:Set status to INIT
+E (10781) wifi:Set status to INIT
+E (10798) wifi:Set status to INIT
+E (10816) wifi:Set status to INIT
+E (10834) wifi:Set status to INIT
+E (10908) wifi:Set status to INIT
+E (10926) wifi:Set status to INIT
+E (10944) wifi:Set status to INIT
+E (10961) wifi:Set status to INIT
+E (10979) wifi:Set status to INIT
+E (10998) wifi:Set status to INIT
+E (11017) wifi:Set status to INIT
+E (11036) wifi:Set status to INIT
+E (11053) wifi:Set status to INIT
+.E (11074) wifi:Set status to INIT
+E (11092) wifi:Set status to INIT
+E (11110) wifi:Set status to INIT
+E (11127) wifi:Set status to INIT
+E (11145) wifi:Set status to INIT
+E (11165) wifi:Set status to INIT
+E (11182) wifi:Set status to INIT
+E (11199) wifi:Set status to INIT
+E (11217) wifi:Set status to INIT
+E (11237) wifi:Set status to INIT
+E (11255) wifi:Set status to INIT
+E (11274) wifi:Set status to INIT
+E (11291) wifi:Set status to INIT
+E (11309) wifi:Set status to INIT
+E (11327) wifi:Set status to INIT
+E (11423) wifi:Set status to INIT
+E (11440) wifi:Set status to INIT
+E (11458) wifi:Set status to INIT
+E (11475) wifi:Set status to INIT
+E (11494) wifi:Set status to INIT
+E (11512) wifi:Set status to INIT
+E (11529) wifi:Set status to INIT
+E (11546) wifi:Set status to INIT
+.E (11564) wifi:Set status to INIT
+E (11581) wifi:Set status to INIT
+E (11599) wifi:Set status to INIT
+E (11616) wifi:Set status to INIT
+E (11634) wifi:Set status to INIT
+E (11652) wifi:Set status to INIT
+E (11669) wifi:Set status to INIT
+E (11686) wifi:Set status to INIT
+E (11704) wifi:Set status to INIT
+E (11724) wifi:Set status to INIT
+E (11827) wifi:Set status to INIT
+E (11845) wifi:Set status to INIT
+E (11863) wifi:Set status to INIT
+E (11881) wifi:Set status to INIT
+E (11898) wifi:Set status to INIT
+E (11917) wifi:Set status to INIT
+E (11935) wifi:Set status to INIT
+E (11953) wifi:Set status to INIT
+E (11970) wifi:Set status to INIT
+E (11987) wifi:Set status to INIT
+E (12008) wifi:Set status to INIT
+E (12026) wifi:Set status to INIT
+E (12043) wifi:Set status to INIT
+E (12062) wifi:Set status to INIT
+.E (12079) wifi:Set status to INIT
+E (12097) wifi:Set status to INIT
+E (12115) wifi:Set status to INIT
+E (12132) wifi:Set status to INIT
+E (12151) wifi:Set status to INIT
+E (12168) wifi:Set status to INIT
+E (12185) wifi:Set status to INIT
+E (12203) wifi:Set status to INIT
+E (12223) wifi:Set status to INIT
+E (12241) wifi:Set status to INIT
+E (12258) wifi:Set status to INIT
+E (12276) wifi:Set status to INIT
+E (12297) wifi:Set status to INIT
+E (12315) wifi:Set status to INIT
+E (12333) wifi:Set status to INIT
+E (12350) wifi:Set status to INIT
+E (12369) wifi:Set status to INIT
+E (12387) wifi:Set status to INIT
+E (12405) wifi:Set status to INIT
+E (12425) wifi:Set status to INIT
+E (12442) wifi:Set status to INIT
+E (12460) wifi:Set status to INIT
+E (12478) wifi:Set status to INIT
+E (12496) wifi:Set status to INIT
+E (12513) wifi:Set status to INIT
+E (12531) wifi:Set status to INIT
+E (12554) wifi:Set status to INIT
+.E (12571) wifi:Set status to INIT
+E (12589) wifi:Set status to INIT
+E (12606) wifi:Set status to INIT
+E (12623) wifi:Set status to INIT
+E (12641) wifi:Set status to INIT
+E (12659) wifi:Set status to INIT
+E (12677) wifi:Set status to INIT
+E (12694) wifi:Set status to INIT
+E (12712) wifi:Set status to INIT
+E (12729) wifi:Set status to INIT
+E (12746) wifi:Set status to INIT
+E (12764) wifi:Set status to INIT
+E (12781) wifi:Set status to INIT
+E (12799) wifi:Set status to INIT
+E (12817) wifi:Set status to INIT
+E (12836) wifi:Set status to INIT
+E (12852) wifi:Set status to INIT
+E (12870) wifi:Set status to INIT
+E (12887) wifi:Set status to INIT
+E (12905) wifi:Set status to INIT
+E (12922) wifi:Set status to INIT
+E (12954) wifi:Set status to INIT
+E (13056) wifi:Set status to INIT
+.E (13073) wifi:Set status to INIT
+E (13091) wifi:Set status to INIT
+E (13108) wifi:Set status to INIT
+E (13126) wifi:Set status to INIT
+E (13145) wifi:Set status to INIT
+E (13163) wifi:Set status to INIT
+E (13182) wifi:Set status to INIT
+E (13199) wifi:Set status to INIT
+E (13219) wifi:Set status to INIT
+E (13237) wifi:Set status to INIT
+E (13255) wifi:Set status to INIT
+E (13273) wifi:Set status to INIT
+E (13290) wifi:Set status to INIT
+E (13308) wifi:Set status to INIT
+E (13325) wifi:Set status to INIT
+E (13342) wifi:Set status to INIT
+E (13361) wifi:Set status to INIT
+E (13378) wifi:Set status to INIT
+E (13396) wifi:Set status to INIT
+E (13414) wifi:Set status to INIT
+E (13432) wifi:Set status to INIT
+E (13452) wifi:Set status to INIT
+E (13470) wifi:Set status to INIT
+E (13490) wifi:Set status to INIT
+E (13509) wifi:Set status to INIT
+E (13526) wifi:Set status to INIT
+E (13543) wifi:Set status to INIT
+E (13561) wifi:Set status to INIT
+.E (13578) wifi:Set status to INIT
+E (13596) wifi:Set status to INIT
+E (13613) wifi:Set status to INIT
+E (13633) wifi:Set status to INIT
+E (13651) wifi:Set status to INIT
+E (13670) wifi:Set status to INIT
+E (13688) wifi:Set status to INIT
+E (13705) wifi:Set status to INIT
+E (13722) wifi:Set status to INIT
+E (13740) wifi:Set status to INIT
+E (13759) wifi:Set status to INIT
+E (13776) wifi:Set status to INIT
+E (13796) wifi:Set status to INIT
+E (13814) wifi:Set status to INIT
+E (13831) wifi:Set status to INIT
+E (13848) wifi:Set status to INIT
+E (13875) wifi:Set status to INIT
+E (13892) wifi:Set status to INIT
+E (13909) wifi:Set status to INIT
+E (13927) wifi:Set status to INIT
+E (13944) wifi:Set status to INIT
+E (13963) wifi:Set status to INIT
+E (13983) wifi:Set status to INIT
+E (14006) wifi:Set status to INIT
+E (14023) wifi:Set status to INIT
+E (14040) wifi:Set status to INIT
+E (14058) wifi:Set status to INIT
+.E (14076) wifi:Set status to INIT
+E (14093) wifi:Set status to INIT
+E (14110) wifi:Set status to INIT
+E (14128) wifi:Set status to INIT
+E (14149) wifi:Set status to INIT
+E (14168) wifi:Set status to INIT
+E (14186) wifi:Set status to INIT
+E (14204) wifi:Set status to INIT
+E (14224) wifi:Set status to INIT
+E (14241) wifi:Set status to INIT
+E (14259) wifi:Set status to INIT
+E (14277) wifi:Set status to INIT
+E (14295) wifi:Set status to INIT
+E (14312) wifi:Set status to INIT
+E (14330) wifi:Set status to INIT
+E (14349) wifi:Set status to INIT
+E (14366) wifi:Set status to INIT
+E (14384) wifi:Set status to INIT
+E (14402) wifi:Set status to INIT
+E (14421) wifi:Set status to INIT
+E (14439) wifi:Set status to INIT
+E (14456) wifi:Set status to INIT
+E (14474) wifi:Set status to INIT
+E (14492) wifi:Set status to INIT
+E (14511) wifi:Set status to INIT
+E (14529) wifi:Set status to INIT
+E (14546) wifi:Set status to INIT
+.E (14564) wifi:Set status to INIT
+E (14584) wifi:Set status to INIT
+E (14602) wifi:Set status to INIT
+E (14620) wifi:Set status to INIT
+E (14638) wifi:Set status to INIT
+E (14655) wifi:Set status to INIT
+E (14672) wifi:Set status to INIT
+E (14692) wifi:Set status to INIT
+E (14709) wifi:Set status to INIT
+E (14727) wifi:Set status to INIT
+E (14747) wifi:Set status to INIT
+E (14764) wifi:Set status to INIT
+E (14783) wifi:Set status to INIT
+E (14801) wifi:Set status to INIT
+E (14818) wifi:Set status to INIT
+E (14836) wifi:Set status to INIT
+E (14854) wifi:Set status to INIT
+E (14871) wifi:Set status to INIT
+E (14891) wifi:Set status to INIT
+E (14909) wifi:Set status to INIT
+E (14926) wifi:Set status to INIT
+E (14944) wifi:Set status to INIT
+E (14961) wifi:Set status to INIT
+E (14979) wifi:Set status to INIT
+E (14997) wifi:Set status to INIT
+E (15017) wifi:Set status to INIT
+E (15034) wifi:Set status to INIT
+E (15052) wifi:Set status to INIT
+.E (15069) wifi:Set status to INIT
+E (15089) wifi:Set status to INIT
+E (15106) wifi:Set status to INIT
+E (15124) wifi:Set status to INIT
+E (15142) wifi:Set status to INIT
+E (15160) wifi:Set status to INIT
+E (15177) wifi:Set status to INIT
+E (15197) wifi:Set status to INIT
+E (15215) wifi:Set status to INIT
+E (15233) wifi:Set status to INIT
+E (15250) wifi:Set status to INIT
+E (15268) wifi:Set status to INIT
+E (15285) wifi:Set status to INIT
+E (15304) wifi:Set status to INIT
+E (15321) wifi:Set status to INIT
+E (15338) wifi:Set status to INIT
+E (15356) wifi:Set status to INIT
+E (15373) wifi:Set status to INIT
+E (15390) wifi:Set status to INIT
+E (15408) wifi:Set status to INIT
+E (15425) wifi:Set status to INIT
+E (15443) wifi:Set status to INIT
+E (15460) wifi:Set status to INIT
+E (15478) wifi:Set status to INIT
+E (15495) wifi:Set status to INIT
+E (15513) wifi:Set status to INIT
+E (15530) wifi:Set status to INIT
+E (15549) wifi:Set status to INIT
+.E (15566) wifi:Set status to INIT
+E (15583) wifi:Set status to INIT
+E (15603) wifi:Set status to INIT
+E (15620) wifi:Set status to INIT
+E (15638) wifi:Set status to INIT
+E (15655) wifi:Set status to INIT
+E (15673) wifi:Set status to INIT
+E (15690) wifi:Set status to INIT
+E (15708) wifi:Set status to INIT
+E (15725) wifi:Set status to INIT
+E (15742) wifi:Set status to INIT
+E (15761) wifi:Set status to INIT
+E (15778) wifi:Set status to INIT
+E (15795) wifi:Set status to INIT
+E (15813) wifi:Set status to INIT
+E (15830) wifi:Set status to INIT
+E (15848) wifi:Set status to INIT
+E (15865) wifi:Set status to INIT
+E (15882) wifi:Set status to INIT
+E (15900) wifi:Set status to INIT
+E (15918) wifi:Set status to INIT
+E (15939) wifi:Set status to INIT
+E (15957) wifi:Set status to INIT
+E (15975) wifi:Set status to INIT
+E (15992) wifi:Set status to INIT
+E (16011) wifi:Set status to INIT
+E (16029) wifi:Set status to INIT
+E (16046) wifi:Set status to INIT
+.E (16064) wifi:Set status to INIT
+E (16081) wifi:Set status to INIT
+E (16102) wifi:Set status to INIT
+E (16120) wifi:Set status to INIT
+E (16137) wifi:Set status to INIT
+E (16155) wifi:Set status to INIT
+E (16172) wifi:Set status to INIT
+E (16190) wifi:Set status to INIT
+E (16208) wifi:Set status to INIT
+E (16225) wifi:Set status to INIT
+E (16243) wifi:Set status to INIT
+E (16260) wifi:Set status to INIT
+E (16278) wifi:Set status to INIT
+E (16295) wifi:Set status to INIT
+E (16312) wifi:Set status to INIT
+E (16334) wifi:Set status to INIT
+E (16354) wifi:Set status to INIT
+E (16372) wifi:Set status to INIT
+E (16390) wifi:Set status to INIT
+E (16407) wifi:Set status to INIT
+E (16427) wifi:Set status to INIT
+E (16444) wifi:Set status to INIT
+E (16462) wifi:Set status to INIT
+E (16479) wifi:Set status to INIT
+E (16497) wifi:Set status to INIT
+E (16514) wifi:Set status to INIT
+E (16532) wifi:Set status to INIT
+E (16549) wifi:Set status to INIT
+.E (16567) wifi:Set status to INIT
+E (16585) wifi:Set status to INIT
+E (16605) wifi:Set status to INIT
+E (16622) wifi:Set status to INIT
+E (16638) wifi:Set status to INIT
+E (16656) wifi:Set status to INIT
+E (16673) wifi:Set status to INIT
+E (16690) wifi:Set status to INIT
+E (16708) wifi:Set status to INIT
+E (16727) wifi:Set status to INIT
+E (16745) wifi:Set status to INIT
+E (16762) wifi:Set status to INIT
+E (16779) wifi:Set status to INIT
+E (16797) wifi:Set status to INIT
+E (16814) wifi:Set status to INIT
+E (16832) wifi:Set status to INIT
+E (16850) wifi:Set status to INIT
+E (16867) wifi:Set status to INIT
+E (16891) wifi:Set status to INIT
+E (16910) wifi:Set status to INIT
+E (16931) wifi:Set status to INIT
+E (17051) wifi:Set status to INIT
+.E (17068) wifi:Set status to INIT
+E (17086) wifi:Set status to INIT
+E (17104) wifi:Set status to INIT
+E (17122) wifi:Set status to INIT
+E (17139) wifi:Set status to INIT
+E (17157) wifi:Set status to INIT
+E (17176) wifi:Set status to INIT
+E (17193) wifi:Set status to INIT
+E (17211) wifi:Set status to INIT
+E (17229) wifi:Set status to INIT
+E (17246) wifi:Set status to INIT
+E (17267) wifi:Set status to INIT
+E (17286) wifi:Set status to INIT
+E (17303) wifi:Set status to INIT
+E (17320) wifi:Set status to INIT
+E (17340) wifi:Set status to INIT
+E (17357) wifi:Set status to INIT
+E (17375) wifi:Set status to INIT
+E (17392) wifi:Set status to INIT
+E (17410) wifi:Set status to INIT
+E (17427) wifi:Set status to INIT
+.......E (20873) wifi:Set status to INIT
+E (20890) wifi:Set status to INIT
+E (20908) wifi:Set status to INIT
+E (20926) wifi:Set status to INIT
+E (20943) wifi:Set status to INIT
+E (20960) wifi:Set status to INIT
+E (20978) wifi:Set status to INIT
+E (20995) wifi:Set status to INIT
+E (21012) wifi:Set status to INIT
+E (21030) wifi:Set status to INIT
+E (21048) wifi:Set status to INIT
+.E (21065) wifi:Set status to INIT
+E (21082) wifi:Set status to INIT
+E (21100) wifi:Set status to INIT
+E (21117) wifi:Set status to INIT
+E (21135) wifi:Set status to INIT
+E (21152) wifi:Set status to INIT
+E (21169) wifi:Set status to INIT
+E (21187) wifi:Set status to INIT
+E (21204) wifi:Set status to INIT
+E (21223) wifi:Set status to INIT
+E (21240) wifi:Set status to INIT
+E (21258) wifi:Set status to INIT
+E (21275) wifi:Set status to INIT
+E (21292) wifi:Set status to INIT
+E (21310) wifi:Set status to INIT
+E (21327) wifi:Set status to INIT
+E (21346) wifi:Set status to INIT
+E (21363) wifi:Set status to INIT
+E (21380) wifi:Set status to INIT
+E (21398) wifi:Set status to INIT
+E (21415) wifi:Set status to INIT
+E (21432) wifi:Set status to INIT
+E (21448) wifi:Set status to INIT
+E (21466) wifi:Set status to INIT
+E (21483) wifi:Set status to INIT
+E (21505) wifi:Set status to INIT
+E (21522) wifi:Set status to INIT
+E (21540) wifi:Set status to INIT
+E (21558) wifi:Set status to INIT
+.E (21575) wifi:Set status to INIT
+E (21592) wifi:Set status to INIT
+E (21610) wifi:Set status to INIT
+E (21627) wifi:Set status to INIT
+E (21646) wifi:Set status to INIT
+E (21667) wifi:Set status to INIT
+E (21686) wifi:Set status to INIT
+E (21703) wifi:Set status to INIT
+E (21723) wifi:Set status to INIT
+E (21745) wifi:Set status to INIT
+E (21762) wifi:Set status to INIT
+E (21780) wifi:Set status to INIT
+E (21797) wifi:Set status to INIT
+E (21814) wifi:Set status to INIT
+E (21832) wifi:Set status to INIT
+E (21850) wifi:Set status to INIT
+E (21867) wifi:Set status to INIT
+E (21884) wifi:Set status to INIT
+E (21902) wifi:Set status to INIT
+E (21919) wifi:Set status to INIT
+E (21937) wifi:Set status to INIT
+E (21957) wifi:Set status to INIT
+E (21974) wifi:Set status to INIT
+E (21991) wifi:Set status to INIT
+E (22009) wifi:Set status to INIT
+E (22026) wifi:Set status to INIT
+E (22045) wifi:Set status to INIT
+E (22063) wifi:Set status to INIT
+.E (22080) wifi:Set status to INIT
+E (22097) wifi:Set status to INIT
+E (22114) wifi:Set status to INIT
+E (22134) wifi:Set status to INIT
+E (22151) wifi:Set status to INIT
+E (22169) wifi:Set status to INIT
+E (22186) wifi:Set status to INIT
+E (22204) wifi:Set status to INIT
+E (22221) wifi:Set status to INIT
+E (22238) wifi:Set status to INIT
+E (22260) wifi:Set status to INIT
+E (22277) wifi:Set status to INIT
+E (22295) wifi:Set status to INIT
+E (22313) wifi:Set status to INIT
+E (22330) wifi:Set status to INIT
+E (22347) wifi:Set status to INIT
+E (22366) wifi:Set status to INIT
+E (22384) wifi:Set status to INIT
+E (22401) wifi:Set status to INIT
+E (22418) wifi:Set status to INIT
+E (22436) wifi:Set status to INIT
+E (22453) wifi:Set status to INIT
+E (22472) wifi:Set status to INIT
+E (22489) wifi:Set status to INIT
+E (22506) wifi:Set status to INIT
+E (22523) wifi:Set status to INIT
+E (22541) wifi:Set status to INIT
+.....................................................................................................................................................................................................................................................................ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.12' to connect
+[  8919][E][WebServer.cpp:638] _handleRequest(): request handler not found
+ceckpoint
+ets Jul 29 2019 12:21:46
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.12' to connect
+ceckpoint
+ets Jul 29 2019 12:21:46
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.12' to connect
+ceckpoint
+ets Jul 29 2019 12:21:46
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+...
+WiFi connected
+Camera Ready! Use 'http://192.168.137.12' to connect
+ceckpoint
+ets Jul 29 2019 12:21:46
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.12' to connect
+ceckpoint
+ets Jul 29 2019 12:21:46
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.12' to connect
+ceckpoint
+ets Jul 29 2019 12:21:46
+
+rst:0x8 (TG1WDT_SYS_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.12' to connect

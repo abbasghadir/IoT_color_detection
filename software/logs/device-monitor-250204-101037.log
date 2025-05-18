@@ -1,0 +1,67 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERO�ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.61' to connect
+check2
+check2
+check2
+check2
+check2
+check2
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+CORRUPT HEAP: Bad head at 0x3ffb20ff. Expected 0xabba1234 got 0x17cf94ff
+
+assert failed: multi_heap_free multi_heap_poisoning.c:259 (head != NULL)
+
+
+Backtrace: 0x40083b6d:0x3ffb1f20 0x4008f539:0x3ffb1f40 0x40095401:0x3ffb1f60 0x40094ffd:0x3ffb2090 0x400840dd:0x3ffb20b0 0x40095431:0x3ffb20d0 0x400d2b9c:0x3ffb20f0 0x40212f6d:0x3ffb2130 0x401609d2:0x3ffb2150 0x40160add:0x3ffb2170 0x40160bc3:0x3ffb21b0 0x40160d6a:0x3ffb2220 0x400d2e79:0x3ffb2270 0x40166120:0x3ffb2290
+
+
+
+
+ELF file SHA256: ddbfadef9eb6130b
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.61' to connect

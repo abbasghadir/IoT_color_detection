@@ -1,0 +1,89 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+....
+WiFi connected
+Camera Ready! Use 'http://192.168.137.67' to connect
+input detected
+
+color detection has been runed!
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+abort() was called at PC 0x401f877a on core 1
+
+
+Backtrace: 0x40083b6d:0x3ffb1e30 0x4008f561:0x3ffb1e50 0x40095325:0x3ffb1e70 0x401f877a:0x3ffb1ef0 0x400d2efd:0x3ffb1f90 0x400d2fab:0x3ffb2220 0x400d371e:0x3ffb2240 0x40166be0:0x3ffb2290
+
+
+
+
+ELF file SHA256: e5d1dcd1cb36295b
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-VSYNC-OVF
+....
+WiFi connected
+Camera Ready! Use 'http://192.168.137.67' to connect
+input detected
+
+color detection has been runed!
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 29, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+CORRUPT HEAP: Bad head at 0x3ffe2464. Expected 0xabba1234 got 0x3ffe0454
+
+assert failed: multi_heap_free multi_heap_poisoning.c:259 (head != NULL)
+
+
+Backtrace: 0x40083b6d:0x3ffb1d60 0x4008f561:0x3ffb1d80 0x40095429:0x3ffb1da0 0x40095025:0x3ffb1ed0 0x400840dd:0x3ffb1ef0 0x40095459:0x3ffb1f10 0x401dd149:0x3ffb1f30 0x400d23d1:0x3ffb1f50 0x400d23e5:0x3ffb1f70 0x400d2ea5:0x3ffb1f90 0x400d2fab:0x3ffb2220 0x400d371e:0x3ffb2240 0x40166be0:0x3ffb2290
+
+
+
+
+ELF file SHA256: e5d1dcd1cb36295b
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+....
+WiFi connected
+Camera Ready! Use 'http://192.168.137.67' to connect

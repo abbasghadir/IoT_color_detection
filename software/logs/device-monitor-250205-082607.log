@@ -1,0 +1,4191 @@
+input detected
+
+color detection has been runed!
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 16, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 1, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 30, 5, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 1, 4, 1  
+Blue: X_scale is=112, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=112 
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 3, 2  
+Blue: X_scale is=72, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=13, Y_scale is=56
+yellow is=0, min is=13, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 5, 4, 1  
+Blue: X_scale is=71, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=13, Y_scale is=57
+yellow is=0, min is=13, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 7, 1  
+Blue: X_scale is=68, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=8, Y_scale is=51
+yellow is=0, min is=8, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 3, 1  
+Blue: X_scale is=68, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=68 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 5, 1  
+Blue: X_scale is=68, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=6, Y_scale is=49
+yellow is=0, min is=6, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 4, 3  
+Blue: X_scale is=68, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=8, Y_scale is=55
+yellow is=0, min is=8, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 2, 1  
+Blue: X_scale is=67, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=5, Y_scale is=51
+yellow is=0, min is=5, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 3, 1  
+Blue: X_scale is=70, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=70 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 5, 6, 2  
+Blue: X_scale is=68, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=10, Y_scale is=59
+yellow is=0, min is=10, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 5, 4, 1  
+Blue: X_scale is=68, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=9, Y_scale is=57
+yellow is=0, min is=9, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 5, 5, 2  
+Blue: X_scale is=68, Y_scale is=46
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=8, Y_scale is=56
+yellow is=0, min is=8, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 0, 1  
+Blue: X_scale is=68, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=11, Y_scale is=60
+yellow is=0, min is=11, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 0, 1  
+Blue: X_scale is=68, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=11, Y_scale is=59
+yellow is=0, min is=11, max is=68 
+Press command
+cam_hal: EV-EOF-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 8, 1  
+Blue: X_scale is=68, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=7, Y_scale is=51
+yellow is=0, min is=7, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 5, 2  
+Blue: X_scale is=68, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=6, Y_scale is=51
+yellow is=0, min is=6, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 7, 1  
+Blue: X_scale is=68, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=68 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 6, 1  
+Blue: X_scale is=68, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=6, Y_scale is=50
+yellow is=0, min is=6, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 5, 5, 1  
+Blue: X_scale is=68, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=7, Y_scale is=52
+yellow is=0, min is=7, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 6, 1  
+Blue: X_scale is=69, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=4, Y_scale is=45
+yellow is=0, min is=4, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 5, 3, 1  
+Blue: X_scale is=69, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=3, Y_scale is=43
+yellow is=0, min is=3, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 1, 1  
+Blue: X_scale is=67, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=7, Y_scale is=56
+yellow is=0, min is=7, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 6, 1  
+Blue: X_scale is=67, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=5, Y_scale is=50
+yellow is=0, min is=5, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 3, 3, 1  
+Blue: X_scale is=68, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=68 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 6, 1  
+Blue: X_scale is=67, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=6, Y_scale is=53
+yellow is=0, min is=6, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 3, 9, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 1, 3, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 4, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 4, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 3, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 3, 3, 6  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 4, 2  
+Blue: X_scale is=17, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=17 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 12, 2  
+Blue: X_scale is=3, Y_scale is=47
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=53
+yellow is=0, min is=3, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 11, 2  
+Blue: X_scale is=3, Y_scale is=48
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=57
+yellow is=0, min is=3, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 3, 1  
+Blue: X_scale is=3, Y_scale is=48
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=3 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 4, 2  
+Blue: X_scale is=2, Y_scale is=46
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=54
+yellow is=0, min is=2, max is=66 
+Press command
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 8, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 5, 5  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 6, 4  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=63, Y_scale is=56
+yellow is=0, min is=0, max is=63 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 6, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=63, Y_scale is=40
+yellow is=0, min is=0, max is=63 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 5, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=63, Y_scale is=20
+yellow is=0, min is=0, max is=63 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 4, 5  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=64, Y_scale is=53
+yellow is=0, min is=0, max is=64 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 10, 3  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 15, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=63, Y_scale is=21
+yellow is=0, min is=0, max is=63 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 2, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=30
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 6, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=45
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 6, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=19
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 9, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=46
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 7, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=26
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 7, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=34
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 8, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=37
+yellow is=0, min is=0, max is=60 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 12, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=19
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 6, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=52
+yellow is=0, min is=0, max is=60 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 7, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=37
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 6, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=37
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 7, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=34
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 8, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=31
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 7, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=40
+yellow is=0, min is=0, max is=60 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 8, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=45
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 7, 3  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=33
+yellow is=0, min is=0, max is=60 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 6, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 8, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=23
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 10, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 9, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=19
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 12, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=33
+yellow is=0, min is=0, max is=60 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 13, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=58, Y_scale is=55
+yellow is=0, min is=0, max is=58 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 6, 3  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=24
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 6, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 5, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 11, 3  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=26
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 8, 3  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=16
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 5, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 6, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=18
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 7, 3  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=59, Y_scale is=55
+yellow is=0, min is=0, max is=59 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 6, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=25
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 8, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=44
+yellow is=0, min is=0, max is=60 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 11, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=58, Y_scale is=50
+yellow is=0, min is=0, max is=58 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 7, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 10, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=57, Y_scale is=60
+yellow is=0, min is=0, max is=57 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 11, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=24
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 7, 3  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 7, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=35
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 7, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=34
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 24, 8, 1  
+Blue: X_scale is=11, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=11 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 6, 5  
+Blue: X_scale is=30, Y_scale is=51
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=30 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 6, 1  
+Blue: X_scale is=33, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=33 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 6, 1  
+Blue: X_scale is=33, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=33 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 10, 1  
+Blue: X_scale is=33, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=33 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 10, 6  
+Blue: X_scale is=32, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=32 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 10, 1  
+Blue: X_scale is=32, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=59
+yellow is=0, min is=32, max is=87 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 14, 2  
+Blue: X_scale is=32, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=88, Y_scale is=53
+yellow is=0, min is=32, max is=88 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 13, 2  
+Blue: X_scale is=30, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=30 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 14, 1  
+Blue: X_scale is=29, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=29 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 16, 1  
+Blue: X_scale is=29, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=50
+yellow is=0, min is=29, max is=86 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 13, 1  
+Blue: X_scale is=31, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=48
+yellow is=0, min is=31, max is=84 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 15, 1  
+Blue: X_scale is=28, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=40
+yellow is=0, min is=28, max is=86 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 12, 1  
+Blue: X_scale is=28, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=28 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 13, 1  
+Blue: X_scale is=28, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=91, Y_scale is=15
+yellow is=0, min is=28, max is=91 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 13, 2  
+Blue: X_scale is=22, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 13, 1  
+Blue: X_scale is=21, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 8, 1  
+Blue: X_scale is=21, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 7, 2  
+Blue: X_scale is=21, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+cam_hal: EV-EOF-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 9, 4  
+Blue: X_scale is=20, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=80, Y_scale is=29
+yellow is=0, min is=20, max is=80 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 13, 1  
+Blue: X_scale is=22, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 9, 1  
+Blue: X_scale is=21, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 6, 1  
+Blue: X_scale is=19, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 4, 3  
+Blue: X_scale is=22, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 7, 1  
+Blue: X_scale is=19, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 7, 1  
+Blue: X_scale is=19, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 9, 1  
+Blue: X_scale is=19, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 10, 1  
+Blue: X_scale is=20, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 12, 2  
+Blue: X_scale is=19, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 7, 1  
+Blue: X_scale is=20, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 7, 1  
+Blue: X_scale is=20, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 8, 1  
+Blue: X_scale is=20, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 9, 1  
+Blue: X_scale is=19, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 9, 1  
+Blue: X_scale is=19, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+cam_hal: EV-EOF-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 12, 2  
+Blue: X_scale is=19, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 4, 1  
+Blue: X_scale is=20, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 7, 1  
+Blue: X_scale is=21, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 6, 1  
+Blue: X_scale is=21, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 9, 1  
+Blue: X_scale is=21, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=53
+yellow is=0, min is=21, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 15, 1  
+Blue: X_scale is=21, Y_scale is=46
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 4, 1  
+Blue: X_scale is=18, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=53
+yellow is=0, min is=18, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 6, 1  
+Blue: X_scale is=20, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 12, 2  
+Blue: X_scale is=19, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=21
+yellow is=0, min is=19, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 5, 1  
+Blue: X_scale is=20, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 5, 1  
+Blue: X_scale is=19, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 11, 1  
+Blue: X_scale is=21, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 8, 1  
+Blue: X_scale is=22, Y_scale is=46
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 7, 1  
+Blue: X_scale is=19, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 9, 1  
+Blue: X_scale is=20, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 8, 1  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=18 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 5, 2  
+Blue: X_scale is=20, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=56
+yellow is=0, min is=20, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 9, 1  
+Blue: X_scale is=19, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 8, 3  
+Blue: X_scale is=18, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=18 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 8, 2  
+Blue: X_scale is=19, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 9, 2  
+Blue: X_scale is=19, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 11, 4  
+Blue: X_scale is=18, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=18 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 8, 1  
+Blue: X_scale is=17, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=17 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 10, 1  
+Blue: X_scale is=19, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 9, 2  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=18 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 12, 1  
+Blue: X_scale is=17, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=54
+yellow is=0, min is=17, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 8, 1  
+Blue: X_scale is=18, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=18 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 11, 3  
+Blue: X_scale is=19, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 9, 2  
+Blue: X_scale is=18, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=18 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 6, 3  
+Blue: X_scale is=16, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=16 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 5, 3  
+Blue: X_scale is=13, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=59
+yellow is=0, min is=13, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 5, 2  
+Blue: X_scale is=12, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=12 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 12, 1  
+Blue: X_scale is=7, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 4, 2  
+Blue: X_scale is=7, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=76, Y_scale is=29
+yellow is=0, min is=7, max is=76 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 7, 1  
+Blue: X_scale is=8, Y_scale is=46
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=8 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 4, 1  
+Blue: X_scale is=7, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 6, 2  
+Blue: X_scale is=7, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 9, 2  
+Blue: X_scale is=5, Y_scale is=48
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=52
+yellow is=0, min is=5, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 12, 1  
+Blue: X_scale is=4, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 3, 1  
+Blue: X_scale is=3, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=3 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 7, 1  
+Blue: X_scale is=4, Y_scale is=47
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=44
+yellow is=0, min is=4, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 6, 1  
+Blue: X_scale is=3, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=65, Y_scale is=57
+yellow is=0, min is=3, max is=65 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 5, 1  
+Blue: X_scale is=4, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=64, Y_scale is=60
+yellow is=0, min is=4, max is=64 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 5, 1  
+Blue: X_scale is=4, Y_scale is=46
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 3, 1  
+Blue: X_scale is=4, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 26, 10, 2  
+Blue: X_scale is=3, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=3 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 6, 1  
+Blue: X_scale is=4, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 2, 1  
+Blue: X_scale is=4, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 4, 4  
+Blue: X_scale is=4, Y_scale is=49
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=38
+yellow is=0, min is=4, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 8, 1  
+Blue: X_scale is=4, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 6, 2  
+Blue: X_scale is=4, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 6, 1  
+Blue: X_scale is=4, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=45
+yellow is=0, min is=4, max is=68 
+Press command
+cam_hal: EV-EOF-OVF
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 6, 1  
+Blue: X_scale is=6, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=6 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 1, 2  
+Blue: X_scale is=8, Y_scale is=46
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=45
+yellow is=0, min is=8, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 7, 2  
+Blue: X_scale is=8, Y_scale is=46
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=52
+yellow is=0, min is=8, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 10, 3  
+Blue: X_scale is=8, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=54
+yellow is=0, min is=8, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 4, 1  
+Blue: X_scale is=9, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=9 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 4, 1  
+Blue: X_scale is=8, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=47
+yellow is=0, min is=8, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 8, 2  
+Blue: X_scale is=7, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 5, 2  
+Blue: X_scale is=7, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 7, 3  
+Blue: X_scale is=7, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 10, 2  
+Blue: X_scale is=8, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=8 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 5, 1  
+Blue: X_scale is=9, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=44
+yellow is=0, min is=9, max is=71 
+Press command
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 8, 2  
+Blue: X_scale is=7, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 4, 3  
+Blue: X_scale is=8, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=49
+yellow is=0, min is=8, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 8, 2  
+Blue: X_scale is=8, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=8 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 4, 1  
+Blue: X_scale is=8, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=8 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 11, 1  
+Blue: X_scale is=7, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 10, 1  
+Blue: X_scale is=7, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+cam_hal: EV-EOF-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 7, 2  
+Blue: X_scale is=7, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 3, 1  
+Blue: X_scale is=9, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=9 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 4, 1  
+Blue: X_scale is=7, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 10, 2  
+Blue: X_scale is=8, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=57
+yellow is=0, min is=8, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 6, 1  
+Blue: X_scale is=7, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 7, 2  
+Blue: X_scale is=7, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 6, 1  
+Blue: X_scale is=6, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=6 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 7, 4  
+Blue: X_scale is=8, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=46
+yellow is=0, min is=8, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 4, 2  
+Blue: X_scale is=6, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=6 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 6, 2  
+Blue: X_scale is=7, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 10, 3  
+Blue: X_scale is=8, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=46
+yellow is=0, min is=8, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 13, 1  
+Blue: X_scale is=6, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=54
+yellow is=0, min is=6, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 7, 2  
+Blue: X_scale is=7, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 23, 5, 1  
+Blue: X_scale is=8, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=8 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 5, 2  
+Blue: X_scale is=7, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 4, 2  
+Blue: X_scale is=6, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=53
+yellow is=0, min is=6, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 7, 1  
+Blue: X_scale is=8, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=58
+yellow is=0, min is=8, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 6, 2  
+Blue: X_scale is=7, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=53
+yellow is=0, min is=7, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 5, 1  
+Blue: X_scale is=8, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=8 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 7, 2  
+Blue: X_scale is=7, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=47
+yellow is=0, min is=7, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 10, 1  
+Blue: X_scale is=7, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=58
+yellow is=0, min is=7, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 7, 2  
+Blue: X_scale is=7, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 6, 3  
+Blue: X_scale is=7, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 25, 2, 1  
+Blue: X_scale is=7, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 6, 3  
+Blue: X_scale is=6, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=57
+yellow is=0, min is=6, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 5, 5  
+Blue: X_scale is=8, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=8 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 5, 2  
+Blue: X_scale is=7, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 7, 2  
+Blue: X_scale is=7, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 5, 2  
+Blue: X_scale is=8, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=8 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 8, 1  
+Blue: X_scale is=7, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=35
+yellow is=0, min is=7, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 8, 1  
+Blue: X_scale is=8, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=48
+yellow is=0, min is=8, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 7, 3  
+Blue: X_scale is=6, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=52
+yellow is=0, min is=6, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 3, 1  
+Blue: X_scale is=8, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=8 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 3, 1  
+Blue: X_scale is=7, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=7 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 8, 1  
+Blue: X_scale is=8, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=37
+yellow is=0, min is=8, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 11, 6  
+Blue: X_scale is=7, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=50
+yellow is=0, min is=7, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 5, 1  
+Blue: X_scale is=10, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=10 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 10, 1  
+Blue: X_scale is=12, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=12 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 8, 1  
+Blue: X_scale is=11, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=11 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 10, 1  
+Blue: X_scale is=12, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=55
+yellow is=0, min is=12, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 9, 1  
+Blue: X_scale is=11, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=11 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 5, 1  
+Blue: X_scale is=12, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=52
+yellow is=0, min is=12, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 10, 1  
+Blue: X_scale is=13, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=41
+yellow is=0, min is=13, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 8, 1  
+Blue: X_scale is=10, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=10 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 4, 2  
+Blue: X_scale is=13, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=13 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 7, 2  
+Blue: X_scale is=13, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=13 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 24, 7  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 4, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 8, 1  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 5, 35  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 12, 3  
+Blue: X_scale is=4, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 4, 4  
+Blue: X_scale is=10, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=10 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 5, 2  
+Blue: X_scale is=11, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=58
+yellow is=0, min is=11, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 16, 2  
+Blue: X_scale is=8, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=79, Y_scale is=25
+yellow is=0, min is=8, max is=79 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 17, 1  
+Blue: X_scale is=6, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=53
+yellow is=0, min is=6, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 6, 1  
+Blue: X_scale is=6, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=55
+yellow is=0, min is=6, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 8, 1  
+Blue: X_scale is=16, Y_scale is=28
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=16 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 6, 2  
+Blue: X_scale is=16, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=60
+yellow is=0, min is=16, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 15, 2  
+Blue: X_scale is=17, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=14
+yellow is=0, min is=17, max is=87 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 8, 2  
+Blue: X_scale is=15, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=59
+yellow is=0, min is=15, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 8, 2  
+Blue: X_scale is=17, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=79, Y_scale is=51
+yellow is=0, min is=17, max is=79 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 7, 2  
+Blue: X_scale is=18, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=77, Y_scale is=57
+yellow is=0, min is=18, max is=77 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 3, 1  
+Blue: X_scale is=20, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=89, Y_scale is=24
+yellow is=0, min is=20, max is=89 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 5, 6  
+Blue: X_scale is=24, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=89, Y_scale is=41
+yellow is=0, min is=24, max is=89 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 5, 1  
+Blue: X_scale is=26, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=96, Y_scale is=17
+yellow is=0, min is=26, max is=96 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 8, 2  
+Blue: X_scale is=27, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=90, Y_scale is=41
+yellow is=0, min is=27, max is=90 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 10, 1  
+Blue: X_scale is=27, Y_scale is=30
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=56
+yellow is=0, min is=27, max is=87 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 8, 1  
+Blue: X_scale is=27, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=89, Y_scale is=49
+yellow is=0, min is=27, max is=89 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 7, 1  
+Blue: X_scale is=27, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=27 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 8, 2  
+Blue: X_scale is=27, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=90, Y_scale is=46
+yellow is=0, min is=27, max is=90 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 7, 1  
+Blue: X_scale is=27, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=95, Y_scale is=24
+yellow is=0, min is=27, max is=95 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 6, 1  
+Blue: X_scale is=26, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=26 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 11, 1  
+Blue: X_scale is=27, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=95, Y_scale is=24
+yellow is=0, min is=27, max is=95 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 9, 1  
+Blue: X_scale is=25, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=83, Y_scale is=59
+yellow is=0, min is=25, max is=83 
+Press command
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 11, 1  
+Blue: X_scale is=25, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=25 
+cam_hal: EV-EOF-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 5, 3  
+Blue: X_scale is=25, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=25 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 8, 1  
+Blue: X_scale is=25, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=55
+yellow is=0, min is=25, max is=84 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 12, 2  
+Blue: X_scale is=23, Y_scale is=29
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=42
+yellow is=0, min is=23, max is=87 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 17, 1  
+Blue: X_scale is=24, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=79, Y_scale is=61
+yellow is=0, min is=24, max is=79 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 23, 9, 3  
+Blue: X_scale is=24, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=61
+yellow is=0, min is=24, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 10, 4  
+Blue: X_scale is=23, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=52
+yellow is=0, min is=23, max is=84 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 12, 6  
+Blue: X_scale is=22, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 10, 1  
+Blue: X_scale is=23, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=88, Y_scale is=40
+yellow is=0, min is=23, max is=88 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 12, 3  
+Blue: X_scale is=23, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=90, Y_scale is=36
+yellow is=0, min is=23, max is=90 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 8, 2  
+Blue: X_scale is=23, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 8, 1  
+Blue: X_scale is=23, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 12, 5  
+Blue: X_scale is=23, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=85, Y_scale is=52
+yellow is=0, min is=23, max is=85 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 11, 1  
+Blue: X_scale is=23, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=82, Y_scale is=59
+yellow is=0, min is=23, max is=82 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 12, 1  
+Blue: X_scale is=23, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 24, 15, 5  
+Blue: X_scale is=22, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 7, 4  
+Blue: X_scale is=23, Y_scale is=31
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=44
+yellow is=0, min is=23, max is=86 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 6, 5  
+Blue: X_scale is=23, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=60
+yellow is=0, min is=23, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 5, 1  
+Blue: X_scale is=24, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=24 
+cam_hal: EV-EOF-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 8, 2  
+Blue: X_scale is=23, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=44
+yellow is=0, min is=23, max is=87 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 8, 1  
+Blue: X_scale is=23, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=80, Y_scale is=61
+yellow is=0, min is=23, max is=80 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 11, 4  
+Blue: X_scale is=22, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=92, Y_scale is=20
+yellow is=0, min is=22, max is=92 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 12, 2  
+Blue: X_scale is=22, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=43
+yellow is=0, min is=22, max is=86 
+Press command
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 9, 2  
+Blue: X_scale is=20, Y_scale is=29
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=85, Y_scale is=45
+yellow is=0, min is=20, max is=85 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 11, 1  
+Blue: X_scale is=22, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=88, Y_scale is=38
+yellow is=0, min is=22, max is=88 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 10, 2  
+Blue: X_scale is=22, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 9, 1  
+Blue: X_scale is=23, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 12, 2  
+Blue: X_scale is=22, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 11, 3  
+Blue: X_scale is=22, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+cam_hal: EV-EOF-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 6, 2  
+Blue: X_scale is=23, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 8, 2  
+Blue: X_scale is=23, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=42
+yellow is=0, min is=23, max is=86 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 15, 1  
+Blue: X_scale is=22, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 6, 3  
+Blue: X_scale is=22, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 9, 2  
+Blue: X_scale is=22, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 24, 9, 5  
+Blue: X_scale is=22, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=88, Y_scale is=37
+yellow is=0, min is=22, max is=88 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 8, 1  
+Blue: X_scale is=23, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 5, 1  
+Blue: X_scale is=22, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=93, Y_scale is=18
+yellow is=0, min is=22, max is=93 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 7, 4  
+Blue: X_scale is=22, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=52
+yellow is=0, min is=22, max is=84 
+Press command
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 11, 1  
+Blue: X_scale is=22, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 8, 2  
+Blue: X_scale is=21, Y_scale is=30
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 5, 4  
+Blue: X_scale is=22, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=78, Y_scale is=61
+yellow is=0, min is=22, max is=78 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 9, 1  
+Blue: X_scale is=23, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=85, Y_scale is=45
+yellow is=0, min is=23, max is=85 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 8, 2  
+Blue: X_scale is=22, Y_scale is=31
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 10, 5  
+Blue: X_scale is=22, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 23, 11, 3  
+Blue: X_scale is=23, Y_scale is=47
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 7, 2  
+Blue: X_scale is=22, Y_scale is=29
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=38
+yellow is=0, min is=22, max is=87 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 26, 11, 2  
+Blue: X_scale is=23, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=89, Y_scale is=34
+yellow is=0, min is=23, max is=89 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 14, 2  
+Blue: X_scale is=22, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 10, 2  
+Blue: X_scale is=22, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 8, 1  
+Blue: X_scale is=21, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 13, 3  
+Blue: X_scale is=22, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 10, 1  
+Blue: X_scale is=22, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 6, 4  
+Blue: X_scale is=22, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=88, Y_scale is=34
+yellow is=0, min is=22, max is=88 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 7, 2  
+Blue: X_scale is=21, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=55
+yellow is=0, min is=21, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 7, 1  
+Blue: X_scale is=22, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 4, 2  
+Blue: X_scale is=21, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=83, Y_scale is=49
+yellow is=0, min is=21, max is=83 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 5, 4  
+Blue: X_scale is=21, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 8, 6  
+Blue: X_scale is=23, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=35
+yellow is=0, min is=23, max is=86 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 8, 1  
+Blue: X_scale is=23, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=46
+yellow is=0, min is=23, max is=84 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 8, 1  
+Blue: X_scale is=22, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=36
+yellow is=0, min is=22, max is=86 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 6, 1  
+Blue: X_scale is=22, Y_scale is=31
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=88, Y_scale is=36
+yellow is=0, min is=22, max is=88 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 10, 2  
+Blue: X_scale is=22, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=90, Y_scale is=24
+yellow is=0, min is=22, max is=90 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 7, 1  
+Blue: X_scale is=22, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=88, Y_scale is=34
+yellow is=0, min is=22, max is=88 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 10, 3  
+Blue: X_scale is=22, Y_scale is=31
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=90, Y_scale is=27
+yellow is=0, min is=22, max is=90 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 8, 2  
+Blue: X_scale is=22, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=92, Y_scale is=15
+yellow is=0, min is=22, max is=92 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 9, 1  
+Blue: X_scale is=21, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 8, 2  
+Blue: X_scale is=21, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 12, 2  
+Blue: X_scale is=22, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=54
+yellow is=0, min is=22, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 8, 4  
+Blue: X_scale is=21, Y_scale is=31
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=83, Y_scale is=49
+yellow is=0, min is=21, max is=83 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 9, 3  
+Blue: X_scale is=22, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=92, Y_scale is=12
+yellow is=0, min is=22, max is=92 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 8, 2  
+Blue: X_scale is=21, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=83, Y_scale is=50
+yellow is=0, min is=21, max is=83 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 10, 6  
+Blue: X_scale is=22, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 6, 3  
+Blue: X_scale is=22, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 10, 2  
+Blue: X_scale is=21, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 6, 1  
+Blue: X_scale is=22, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=35
+yellow is=0, min is=22, max is=87 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 18, 1  
+Blue: X_scale is=22, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 7, 1  
+Blue: X_scale is=23, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 9, 1  
+Blue: X_scale is=23, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 12, 1  
+Blue: X_scale is=23, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=23 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 8, 1  
+Blue: X_scale is=22, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=82, Y_scale is=51
+yellow is=0, min is=22, max is=82 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 14, 1  
+Blue: X_scale is=22, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 9, 2  
+Blue: X_scale is=22, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=44
+yellow is=0, min is=22, max is=84 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 11, 1  
+Blue: X_scale is=22, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 14, 3  
+Blue: X_scale is=21, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=51
+yellow is=0, min is=21, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 15, 2  
+Blue: X_scale is=22, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=80, Y_scale is=52
+yellow is=0, min is=22, max is=80 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 11, 2  
+Blue: X_scale is=22, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=22 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 10, 1  
+Blue: X_scale is=22, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=44
+yellow is=0, min is=22, max is=84 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 12, 3  
+Blue: X_scale is=20, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=85, Y_scale is=45
+yellow is=0, min is=20, max is=85 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 9, 3  
+Blue: X_scale is=22, Y_scale is=47
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=80, Y_scale is=53
+yellow is=0, min is=22, max is=80 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 9, 1  
+Blue: X_scale is=21, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 9, 1  
+Blue: X_scale is=21, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=82, Y_scale is=50
+yellow is=0, min is=21, max is=82 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 10, 1  
+Blue: X_scale is=21, Y_scale is=30
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 9, 1  
+Blue: X_scale is=21, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=41
+yellow is=0, min is=21, max is=86 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 8, 1  
+Blue: X_scale is=21, Y_scale is=31
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 5, 1  
+Blue: X_scale is=21, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=78, Y_scale is=60
+yellow is=0, min is=21, max is=78 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 7, 1  
+Blue: X_scale is=21, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 11, 3  
+Blue: X_scale is=21, Y_scale is=27
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=42
+yellow is=0, min is=21, max is=84 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 15, 2  
+Blue: X_scale is=21, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=82, Y_scale is=51
+yellow is=0, min is=21, max is=82 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 8, 1  
+Blue: X_scale is=21, Y_scale is=31
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=85, Y_scale is=32
+yellow is=0, min is=21, max is=85 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 12, 3  
+Blue: X_scale is=21, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=51
+yellow is=0, min is=21, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 22, 9, 4  
+Blue: X_scale is=21, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=21 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 8, 3  
+Blue: X_scale is=21, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=84, Y_scale is=46
+yellow is=0, min is=21, max is=84 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 9, 1  
+Blue: X_scale is=20, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=77, Y_scale is=58
+yellow is=0, min is=20, max is=77 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 16, 4  
+Blue: X_scale is=21, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=79, Y_scale is=57
+yellow is=0, min is=21, max is=79 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 8, 1  
+Blue: X_scale is=21, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=79, Y_scale is=55
+yellow is=0, min is=21, max is=79 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 15, 3  
+Blue: X_scale is=20, Y_scale is=30
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=80, Y_scale is=51
+yellow is=0, min is=20, max is=80 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 8, 4  
+Blue: X_scale is=20, Y_scale is=31
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=27
+yellow is=0, min is=20, max is=87 
+Press command
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 8, 2  
+Blue: X_scale is=21, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=79, Y_scale is=53
+yellow is=0, min is=21, max is=79 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 7, 4  
+Blue: X_scale is=20, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 8, 2  
+Blue: X_scale is=20, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 8, 2  
+Blue: X_scale is=20, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=51
+yellow is=0, min is=20, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 7, 2  
+Blue: X_scale is=20, Y_scale is=27
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 16, 2  
+Blue: X_scale is=20, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=20 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 11, 2  
+Blue: X_scale is=21, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=58
+yellow is=0, min is=21, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 12, 3  
+Blue: X_scale is=19, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=79, Y_scale is=49
+yellow is=0, min is=19, max is=79 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 28, 3  
+Blue: X_scale is=17, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=17 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 18, 2  
+Blue: X_scale is=9, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=9 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 20, 1  
+Blue: X_scale is=10, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=10 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 23, 1  
+Blue: X_scale is=4, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=42
+yellow is=0, min is=4, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 11, 1  
+Blue: X_scale is=3, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=3 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 3, 2  
+Blue: X_scale is=4, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=65, Y_scale is=46
+yellow is=0, min is=4, max is=65 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 13, 1  
+Blue: X_scale is=3, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=38
+yellow is=0, min is=3, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 13, 1  
+Blue: X_scale is=4, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=36
+yellow is=0, min is=4, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 13, 2  
+Blue: X_scale is=4, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=21
+yellow is=0, min is=4, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 12, 1  
+Blue: X_scale is=3, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=35
+yellow is=0, min is=3, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 12, 1  
+Blue: X_scale is=4, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=64, Y_scale is=45
+yellow is=0, min is=4, max is=64 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 10, 1  
+Blue: X_scale is=4, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=32
+yellow is=0, min is=4, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 9, 1  
+Blue: X_scale is=4, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=51
+yellow is=0, min is=4, max is=62 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 7, 1  
+Blue: X_scale is=4, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=52
+yellow is=0, min is=4, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 12, 1  
+Blue: X_scale is=4, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=36
+yellow is=0, min is=4, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 10, 1  
+Blue: X_scale is=6, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=44
+yellow is=0, min is=6, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 9, 2  
+Blue: X_scale is=9, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=65, Y_scale is=59
+yellow is=0, min is=9, max is=65 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 12, 1  
+Blue: X_scale is=12, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=12 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 6, 1  
+Blue: X_scale is=13, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=46
+yellow is=0, min is=13, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 18, 3  
+Blue: X_scale is=12, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=37
+yellow is=0, min is=12, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 13, 2  
+Blue: X_scale is=12, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=42
+yellow is=0, min is=12, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 11, 2  
+Blue: X_scale is=11, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=59
+yellow is=0, min is=11, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 12, 3  
+Blue: X_scale is=11, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=38
+yellow is=0, min is=11, max is=73 
+Press command
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 15, 3  
+Blue: X_scale is=12, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=38
+yellow is=0, min is=12, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 16, 1  
+Blue: X_scale is=12, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=37
+yellow is=0, min is=12, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 12, 1  
+Blue: X_scale is=11, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=35
+yellow is=0, min is=11, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 14, 2  
+Blue: X_scale is=11, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=32
+yellow is=0, min is=11, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 8, 1  
+Blue: X_scale is=12, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=35
+yellow is=0, min is=12, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 19, 2  
+Blue: X_scale is=11, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=35
+yellow is=0, min is=11, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 13, 1  
+Blue: X_scale is=12, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=42
+yellow is=0, min is=12, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 8, 1  
+Blue: X_scale is=12, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=35
+yellow is=0, min is=12, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 12, 1  
+Blue: X_scale is=10, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=45
+yellow is=0, min is=10, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 16, 2  
+Blue: X_scale is=11, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=56
+yellow is=0, min is=11, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 12, 3  
+Blue: X_scale is=12, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=52
+yellow is=0, min is=12, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 12, 1  
+Blue: X_scale is=12, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=56
+yellow is=0, min is=12, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 9, 2  
+Blue: X_scale is=13, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=36
+yellow is=0, min is=13, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 11, 1  
+Blue: X_scale is=14, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=37
+yellow is=0, min is=14, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 12, 2  
+Blue: X_scale is=14, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=37
+yellow is=0, min is=14, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 13, 1  
+Blue: X_scale is=15, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=40
+yellow is=0, min is=15, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 13, 2  
+Blue: X_scale is=14, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=43
+yellow is=0, min is=14, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 13, 1  
+Blue: X_scale is=15, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=38
+yellow is=0, min is=15, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 11, 2  
+Blue: X_scale is=14, Y_scale is=29
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=35
+yellow is=0, min is=14, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 11, 1  
+Blue: X_scale is=17, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=45
+yellow is=0, min is=17, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 9, 1  
+Blue: X_scale is=18, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=30
+yellow is=0, min is=18, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 10, 1  
+Blue: X_scale is=18, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=77, Y_scale is=39
+yellow is=0, min is=18, max is=77 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 12, 2  
+Blue: X_scale is=17, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=43
+yellow is=0, min is=17, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 13, 1  
+Blue: X_scale is=17, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=58
+yellow is=0, min is=17, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 9, 1  
+Blue: X_scale is=18, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=57
+yellow is=0, min is=18, max is=71 
+Press command
+cam_hal: EV-EOF-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 9, 2  
+Blue: X_scale is=18, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=18 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 12, 2  
+Blue: X_scale is=18, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=58
+yellow is=0, min is=18, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 7, 1  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=57
+yellow is=0, min is=18, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 14, 1  
+Blue: X_scale is=19, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=76, Y_scale is=40
+yellow is=0, min is=19, max is=76 
+Press command
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 12, 2  
+Blue: X_scale is=18, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=58
+yellow is=0, min is=18, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 11, 1  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=30
+yellow is=0, min is=18, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 12, 2  
+Blue: X_scale is=17, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=46
+yellow is=0, min is=17, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 13, 1  
+Blue: X_scale is=17, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=77, Y_scale is=35
+yellow is=0, min is=17, max is=77 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 14, 1  
+Blue: X_scale is=18, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=43
+yellow is=0, min is=18, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 9, 1  
+Blue: X_scale is=18, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=58
+yellow is=0, min is=18, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 9, 2  
+Blue: X_scale is=18, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=56
+yellow is=0, min is=18, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 13, 1  
+Blue: X_scale is=18, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=79, Y_scale is=33
+yellow is=0, min is=18, max is=79 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 12, 1  
+Blue: X_scale is=18, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=59
+yellow is=0, min is=18, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 13, 1  
+Blue: X_scale is=18, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=50
+yellow is=0, min is=18, max is=73 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 12, 1  
+Blue: X_scale is=19, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=56
+yellow is=0, min is=19, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 13, 2  
+Blue: X_scale is=18, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=78, Y_scale is=32
+yellow is=0, min is=18, max is=78 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 10, 2  
+Blue: X_scale is=18, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=46
+yellow is=0, min is=18, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 14, 2  
+Blue: X_scale is=18, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=56
+yellow is=0, min is=18, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 12, 1  
+Blue: X_scale is=19, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=57
+yellow is=0, min is=19, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 12, 1  
+Blue: X_scale is=18, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=42
+yellow is=0, min is=18, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 21, 2  
+Blue: X_scale is=19, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=59
+yellow is=0, min is=19, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 11, 1  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=55
+yellow is=0, min is=18, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 11, 2  
+Blue: X_scale is=19, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 19, 1  
+Blue: X_scale is=19, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=58
+yellow is=0, min is=19, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 9, 1  
+Blue: X_scale is=19, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=19 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 21, 14, 1  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=18 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 17, 3  
+Blue: X_scale is=17, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=57
+yellow is=0, min is=17, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 13, 1  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=57
+yellow is=0, min is=18, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 14, 1  
+Blue: X_scale is=18, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=57
+yellow is=0, min is=18, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 14, 1  
+Blue: X_scale is=18, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=83, Y_scale is=15
+yellow is=0, min is=18, max is=83 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 12, 1  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=77, Y_scale is=34
+yellow is=0, min is=18, max is=77 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 14, 1  
+Blue: X_scale is=17, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=59
+yellow is=0, min is=17, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 16, 2  
+Blue: X_scale is=18, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=41
+yellow is=0, min is=18, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 12, 1  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=57
+yellow is=0, min is=18, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 14, 3  
+Blue: X_scale is=19, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=57
+yellow is=0, min is=19, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 16, 3  
+Blue: X_scale is=18, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=58
+yellow is=0, min is=18, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 9, 4  
+Blue: X_scale is=17, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=17 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 15, 2  
+Blue: X_scale is=18, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=21
+yellow is=0, min is=18, max is=81 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 7, 1  
+Blue: X_scale is=17, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=43
+yellow is=0, min is=17, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 14, 1  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=54
+yellow is=0, min is=18, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 15, 1  
+Blue: X_scale is=18, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=57
+yellow is=0, min is=18, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 26, 12, 1  
+Blue: X_scale is=18, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=58
+yellow is=0, min is=18, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 15, 1  
+Blue: X_scale is=19, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=56
+yellow is=0, min is=19, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 15, 4  
+Blue: X_scale is=18, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=75, Y_scale is=42
+yellow is=0, min is=18, max is=75 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 17, 1  
+Blue: X_scale is=20, Y_scale is=36
+Yellow: X_scale is=55, Y_scale is=62
+Green: X_scale is=73, Y_scale is=34
+yellow is=55, min is=20, max is=73 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 15, 3  
+Blue: X_scale is=18, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=32
+yellow is=0, min is=18, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 18, 1  
+Blue: X_scale is=17, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=46
+yellow is=0, min is=17, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 19, 2  
+Blue: X_scale is=16, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=16 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 5, 15, 2  
+Blue: X_scale is=14, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=31
+yellow is=0, min is=14, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 15, 2  
+Blue: X_scale is=14, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=64, Y_scale is=50
+yellow is=0, min is=14, max is=64 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 10, 2  
+Blue: X_scale is=17, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=35
+yellow is=0, min is=17, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 12, 3  
+Blue: X_scale is=15, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=74, Y_scale is=31
+yellow is=0, min is=15, max is=74 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 21, 4  
+Blue: X_scale is=16, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=38
+yellow is=0, min is=16, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 13, 1  
+Blue: X_scale is=16, Y_scale is=32
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=37
+yellow is=0, min is=16, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 22, 3  
+Blue: X_scale is=15, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=54
+yellow is=0, min is=15, max is=62 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 19, 1  
+Blue: X_scale is=14, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=39
+yellow is=0, min is=14, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 15, 2  
+Blue: X_scale is=15, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=43
+yellow is=0, min is=15, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 15, 2  
+Blue: X_scale is=16, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=38
+yellow is=0, min is=16, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 14, 3  
+Blue: X_scale is=17, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=50
+yellow is=0, min is=17, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 17, 1  
+Blue: X_scale is=15, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=43
+yellow is=0, min is=15, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 13, 2  
+Blue: X_scale is=16, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=45
+yellow is=0, min is=16, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 18, 1  
+Blue: X_scale is=16, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=72, Y_scale is=33
+yellow is=0, min is=16, max is=72 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 12, 2  
+Blue: X_scale is=15, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=35
+yellow is=0, min is=15, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 14, 1  
+Blue: X_scale is=16, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=44
+yellow is=0, min is=16, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 13, 2  
+Blue: X_scale is=17, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=76, Y_scale is=24
+yellow is=0, min is=17, max is=76 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 10, 5  
+Blue: X_scale is=15, Y_scale is=31
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=66, Y_scale is=50
+yellow is=0, min is=15, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 23, 12, 2  
+Blue: X_scale is=15, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=15 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 15, 2  
+Blue: X_scale is=15, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=71, Y_scale is=35
+yellow is=0, min is=15, max is=71 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 23, 14, 1  
+Blue: X_scale is=16, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=47
+yellow is=0, min is=16, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 14, 1  
+Blue: X_scale is=16, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=64, Y_scale is=52
+yellow is=0, min is=16, max is=64 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 19, 13, 1  
+Blue: X_scale is=15, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=68, Y_scale is=45
+yellow is=0, min is=15, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 12, 1  
+Blue: X_scale is=18, Y_scale is=44
+Yellow: X_scale is=55, Y_scale is=64
+Green: X_scale is=69, Y_scale is=42
+yellow is=55, min is=18, max is=69 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 5, 8  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 2, 7, 6  
+Blue: X_scale is=98, Y_scale is=33
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=98 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 3, 4  
+Blue: X_scale is=82, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=82 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 3  
+Blue: X_scale is=64, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=64 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 1, 2  
+Blue: X_scale is=87, Y_scale is=53
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=87 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 3, 10, 2  
+Blue: X_scale is=71, Y_scale is=48
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=71 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 1, 0, 4  
+Blue: X_scale is=58, Y_scale is=48
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=58 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 1, 1  
+Blue: X_scale is=51, Y_scale is=50
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=51 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 1  
+Blue: X_scale is=37, Y_scale is=47
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=37 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 1  
+Blue: X_scale is=53, Y_scale is=51
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=53 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 7, 7  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 3, 5  
+Blue: X_scale is=93, Y_scale is=58
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=93 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 20, 9, 3  
+Blue: X_scale is=72, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=72 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 10, 1  
+Blue: X_scale is=64, Y_scale is=37
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=64 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 4, 1  
+Blue: X_scale is=65, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=16, Y_scale is=51
+yellow is=0, min is=16, max is=65 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 7, 1  
+Blue: X_scale is=66, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=11, Y_scale is=48
+yellow is=0, min is=11, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 26, 7, 3  
+Blue: X_scale is=70, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=70 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 10, 1  
+Blue: X_scale is=70, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=25, Y_scale is=55
+yellow is=0, min is=25, max is=70 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 7, 1  
+Blue: X_scale is=68, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=17, Y_scale is=47
+yellow is=0, min is=17, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 8, 1  
+Blue: X_scale is=69, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=25, Y_scale is=57
+yellow is=0, min is=25, max is=69 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 9, 1  
+Blue: X_scale is=68, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=14, Y_scale is=45
+yellow is=0, min is=14, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 10, 1  
+Blue: X_scale is=67, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=15, Y_scale is=47
+yellow is=0, min is=15, max is=67 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 8, 3  
+Blue: X_scale is=68, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=18, Y_scale is=52
+yellow is=0, min is=18, max is=68 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 2, 5, 1  
+Blue: X_scale is=66, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=13, Y_scale is=46
+yellow is=0, min is=13, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 3, 3  
+Blue: X_scale is=66, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=15, Y_scale is=48
+yellow is=0, min is=15, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 6, 1  
+Blue: X_scale is=66, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=20, Y_scale is=55
+yellow is=0, min is=20, max is=66 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 7, 1  
+Blue: X_scale is=65, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=18, Y_scale is=54
+yellow is=0, min is=18, max is=65 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 9, 1  
+Blue: X_scale is=65, Y_scale is=34
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=19, Y_scale is=56
+yellow is=0, min is=19, max is=65 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 10, 2  
+Blue: X_scale is=64, Y_scale is=35
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=14, Y_scale is=53
+yellow is=0, min is=14, max is=64 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 7, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 12, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 1, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 1, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 1, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 3, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 1, 5  
+Blue: X_scale is=2, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=54
+yellow is=0, min is=2, max is=60 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 11, 3  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=45
+yellow is=0, min is=0, max is=60 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 7, 3  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 7, 2  
+Blue: X_scale is=2, Y_scale is=43
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=53
+yellow is=0, min is=2, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 10, 2  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=65, Y_scale is=21
+yellow is=0, min is=0, max is=65 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 15, 9, 4  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 6, 4  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=64, Y_scale is=30
+yellow is=0, min is=0, max is=64 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 11, 7  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=39
+yellow is=0, min is=0, max is=62 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 9, 4  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=58, Y_scale is=57
+yellow is=0, min is=0, max is=58 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 12, 6  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=56, Y_scale is=59
+yellow is=0, min is=0, max is=56 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 8, 4  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=36
+yellow is=0, min is=0, max is=61 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 7, 2  
+Blue: X_scale is=3, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=39
+yellow is=0, min is=3, max is=62 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 8, 1  
+Blue: X_scale is=4, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=63, Y_scale is=35
+yellow is=0, min is=4, max is=63 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 6, 1  
+Blue: X_scale is=8, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=60
+yellow is=0, min is=8, max is=62 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 11, 3  
+Blue: X_scale is=4, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 11, 3  
+Blue: X_scale is=4, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 7, 4  
+Blue: X_scale is=5, Y_scale is=52
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=57, Y_scale is=55
+yellow is=0, min is=5, max is=57 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 10, 3  
+Blue: X_scale is=5, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=56, Y_scale is=56
+yellow is=0, min is=5, max is=56 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 12, 4  
+Blue: X_scale is=5, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=59, Y_scale is=51
+yellow is=0, min is=5, max is=59 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 9, 3  
+Blue: X_scale is=6, Y_scale is=53
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=64, Y_scale is=38
+yellow is=0, min is=6, max is=64 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 6, 1  
+Blue: X_scale is=4, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=37
+yellow is=0, min is=4, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 13, 4  
+Blue: X_scale is=6, Y_scale is=53
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=38
+yellow is=0, min is=6, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 13, 11, 2  
+Blue: X_scale is=4, Y_scale is=52
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=63, Y_scale is=35
+yellow is=0, min is=4, max is=63 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 11, 15, 2  
+Blue: X_scale is=5, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=41
+yellow is=0, min is=5, max is=60 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 17, 11, 2  
+Blue: X_scale is=4, Y_scale is=42
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=58, Y_scale is=50
+yellow is=0, min is=4, max is=58 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 13, 3  
+Blue: X_scale is=5, Y_scale is=53
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=65, Y_scale is=16
+yellow is=0, min is=5, max is=65 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 11, 2  
+Blue: X_scale is=5, Y_scale is=45
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=41
+yellow is=0, min is=5, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 11, 1  
+Blue: X_scale is=4, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=63, Y_scale is=34
+yellow is=0, min is=4, max is=63 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 14, 12, 6  
+Blue: X_scale is=5, Y_scale is=54
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=57, Y_scale is=54
+yellow is=0, min is=5, max is=57 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 9, 2  
+Blue: X_scale is=4, Y_scale is=46
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=64, Y_scale is=29
+yellow is=0, min is=4, max is=64 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 10, 5  
+Blue: X_scale is=6, Y_scale is=55
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=57, Y_scale is=54
+yellow is=0, min is=6, max is=57 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 7, 4  
+Blue: X_scale is=5, Y_scale is=48
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=57, Y_scale is=56
+yellow is=0, min is=5, max is=57 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 12, 17, 3  
+Blue: X_scale is=4, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=58, Y_scale is=54
+yellow is=0, min is=4, max is=58 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 8, 5  
+Blue: X_scale is=6, Y_scale is=55
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=43
+yellow is=0, min is=6, max is=60 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 9, 2  
+Blue: X_scale is=7, Y_scale is=53
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=42
+yellow is=0, min is=7, max is=62 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 10, 2  
+Blue: X_scale is=3, Y_scale is=36
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=37
+yellow is=0, min is=3, max is=62 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 8, 2  
+Blue: X_scale is=6, Y_scale is=53
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=60, Y_scale is=41
+yellow is=0, min is=6, max is=60 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 9, 9, 1  
+Blue: X_scale is=4, Y_scale is=41
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=37
+yellow is=0, min is=4, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 8, 11, 1  
+Blue: X_scale is=4, Y_scale is=40
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=59, Y_scale is=47
+yellow is=0, min is=4, max is=59 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 7, 4, 3  
+Blue: X_scale is=5, Y_scale is=47
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=43
+yellow is=0, min is=5, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 6, 10, 2  
+Blue: X_scale is=4, Y_scale is=50
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=37
+yellow is=0, min is=4, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 18, 10, 2  
+Blue: X_scale is=4, Y_scale is=44
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=4 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 16, 8, 2  
+Blue: X_scale is=6, Y_scale is=55
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=6 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 4, 14, 2  
+Blue: X_scale is=5, Y_scale is=48
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=61, Y_scale is=38
+yellow is=0, min is=5, max is=61 
+Press command
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 10, 8, 5  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 0, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+input detected
+
+color detection stopped!

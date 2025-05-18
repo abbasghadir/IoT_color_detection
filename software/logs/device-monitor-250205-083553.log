@@ -1,0 +1,534 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+....
+WiFi connected
+Camera Ready! Use 'http://192.168.137.67' to connect
+[ 25559][E][WebServer.cpp:638] _handleRequest(): request handler not found
+input detected
+
+color detection stopped!
+resizer1
+X_scale1 is=100, Y_scale1 is=60, X_length1 is=120, Y_length1 is=70 
+please insert the x_scale1
+please insert the y_scale1
+please insert the x_length1
+please insert the y_length1
+its done
+X_scale1 is=100, Y_scale1 is=60, X_length1 is=50, Y_length1 is=50 
+input detected
+
+color detection stopped!
+resizer1
+X_scale1 is=100, Y_scale1 is=60, X_length1 is=50, Y_length1 is=50 
+please insert the x_scale1
+please insert the y_scale1
+please insert the x_length1
+please insert the y_length1
+its done
+X_scale1 is=100, Y_scale1 is=70, X_length1 is=50, Y_length1 is=70 
+input detected
+
+color detection stopped!
+resizer2
+X_scale2 is=100, Y_scale2 is=60, X_length2 is=120, Y_length2 is=70 
+please insert the x_scale2
+please insert the y_scale2
+please insert the x_length2
+please insert the y_length2
+its done
+X_scale2 is=150, Y_scale2 is=70, X_length2 is=50, Y_length2 is=70 
+input detected
+
+color detection has been runed!
+mean color 1 in HSV: H=86.446571, S=38.429714, V,151.569429
+mean color 2 in HSV: H=65.227143, S=27.618857, V,141.886000
+mean color 1 in HSV: H=85.423429, S=38.333714, V,151.406286
+mean color 2 in HSV: H=64.613429, S=27.895143, V,141.858571
+mean color 1 in HSV: H=87.671429, S=37.826000, V,151.579429
+mean color 2 in HSV: H=62.219429, S=28.269429, V,142.145143
+mean color 1 in HSV: H=84.787143, S=38.036286, V,151.427714
+mean color 2 in HSV: H=65.807714, S=28.226000, V,142.097429
+mean color 1 in HSV: H=87.060286, S=38.172857, V,151.502286
+mean color 2 in HSV: H=62.664286, S=27.647714, V,141.853429
+mean color 1 in HSV: H=86.767429, S=37.458857, V,151.289143
+mean color 2 in HSV: H=64.079714, S=28.593143, V,142.116286
+mean color 1 in HSV: H=82.498286, S=38.118000, V,151.549714
+mean color 2 in HSV: H=64.409143, S=28.506286, V,142.340286
+mean color 1 in HSV: H=87.115143, S=38.260286, V,151.671143
+mean color 2 in HSV: H=66.640286, S=28.217429, V,142.080857
+mean color 1 in HSV: H=83.886857, S=37.369429, V,151.018571
+mean color 2 in HSV: H=65.712857, S=28.329714, V,142.380286
+mean color 1 in HSV: H=85.544286, S=38.073429, V,151.703429
+mean color 2 in HSV: H=62.721429, S=28.493714, V,142.311714
+mean color 1 in HSV: H=86.288857, S=37.516571, V,151.193429
+mean color 2 in HSV: H=64.686286, S=28.226857, V,142.156857
+mean color 1 in HSV: H=87.118571, S=37.617714, V,151.325429
+mean color 2 in HSV: H=66.904286, S=27.695429, V,141.790571
+mean color 1 in HSV: H=85.548571, S=37.950857, V,151.021429
+mean color 2 in HSV: H=63.307429, S=28.034286, V,141.640857
+mean color 1 in HSV: H=88.168857, S=37.965429, V,150.782857
+mean color 2 in HSV: H=68.084000, S=27.758286, V,141.503143
+mean color 1 in HSV: H=85.962000, S=37.955143, V,150.573714
+mean color 2 in HSV: H=62.657714, S=28.619143, V,141.387714
+mean color 1 in HSV: H=88.881429, S=38.016857, V,150.225714
+mean color 2 in HSV: H=65.012571, S=27.877429, V,141.273714
+mean color 1 in HSV: H=88.448571, S=37.450000, V,150.221714
+mean color 2 in HSV: H=64.849143, S=28.533714, V,140.974857
+mean color 1 in HSV: H=89.348857, S=37.505143, V,150.091143
+mean color 2 in HSV: H=66.822000, S=28.459714, V,141.059714
+mean color 1 in HSV: H=86.066571, S=38.353429, V,150.651714
+mean color 2 in HSV: H=64.515143, S=27.326571, V,140.771143
+mean color 1 in HSV: H=88.016000, S=38.366857, V,150.310857
+mean color 2 in HSV: H=69.461714, S=27.338000, V,140.770857
+mean color 1 in HSV: H=89.079429, S=37.532571, V,150.325429
+mean color 2 in HSV: H=65.539714, S=27.816857, V,141.180571
+mean color 1 in HSV: H=85.925429, S=38.281429, V,150.368000
+mean color 2 in HSV: H=66.771429, S=28.724000, V,141.332000
+mean color 1 in HSV: H=88.333429, S=38.512000, V,150.740000
+mean color 2 in HSV: H=60.220571, S=28.447429, V,141.128286
+mean color 1 in HSV: H=85.581143, S=38.367143, V,150.648000
+mean color 2 in HSV: H=68.735143, S=28.154857, V,141.323714
+mean color 1 in HSV: H=86.907143, S=38.056286, V,150.666286
+mean color 2 in HSV: H=61.297143, S=27.257714, V,141.012571
+mean color 1 in HSV: H=85.474000, S=38.327714, V,150.438857
+mean color 2 in HSV: H=63.683429, S=28.100000, V,141.110571
+mean color 1 in HSV: H=86.266571, S=38.017714, V,150.392857
+mean color 2 in HSV: H=62.398000, S=27.932286, V,141.137143
+mean color 1 in HSV: H=88.347714, S=38.061143, V,150.757429
+mean color 2 in HSV: H=62.965143, S=29.173429, V,141.507714
+mean color 1 in HSV: H=85.798857, S=38.144286, V,151.033714
+mean color 2 in HSV: H=64.421714, S=27.944857, V,141.538286
+mean color 1 in HSV: H=86.306857, S=38.563429, V,150.838571
+mean color 2 in HSV: H=60.746571, S=28.016571, V,141.523714
+mean color 1 in HSV: H=87.151714, S=37.938857, V,150.983143
+mean color 2 in HSV: H=60.151429, S=28.452857, V,141.436571
+mean color 1 in HSV: H=87.097714, S=38.688286, V,151.158857
+mean color 2 in HSV: H=59.216857, S=27.622000, V,141.580857
+mean color 1 in HSV: H=83.283143, S=37.800286, V,151.188000
+mean color 2 in HSV: H=63.235429, S=27.711714, V,141.633714
+mean color 1 in HSV: H=83.648857, S=37.241429, V,150.808571
+mean color 2 in HSV: H=61.279429, S=27.443429, V,141.565429
+mean color 1 in HSV: H=87.980857, S=38.043429, V,151.520000
+mean color 2 in HSV: H=64.456000, S=28.379429, V,141.883143
+mean color 1 in HSV: H=82.457714, S=37.696571, V,150.895143
+mean color 2 in HSV: H=61.397429, S=28.326571, V,141.914857
+mean color 1 in HSV: H=84.745714, S=38.737714, V,151.792286
+mean color 2 in HSV: H=63.077714, S=28.270000, V,142.116000
+mean color 1 in HSV: H=84.405714, S=38.104857, V,151.865714
+mean color 2 in HSV: H=65.765429, S=27.624000, V,142.197143
+mean color 1 in HSV: H=84.563429, S=37.554857, V,151.474000
+mean color 2 in HSV: H=63.720571, S=27.850286, V,142.218857
+input detected
+
+color detection stopped!
+input detected
+
+color detection has been runed!
+mean color 1 in HSV: H=93.560286, S=38.215429, V,150.690857
+mean color 2 in HSV: H=70.989714, S=26.771429, V,141.010000
+mean color 1 in HSV: H=92.803143, S=38.685429, V,150.724000
+mean color 2 in HSV: H=68.266000, S=26.595143, V,140.840286
+mean color 1 in HSV: H=93.461143, S=38.299714, V,150.916571
+mean color 2 in HSV: H=69.433143, S=26.730571, V,141.014000
+mean color 1 in HSV: H=89.189714, S=38.368286, V,150.812286
+mean color 2 in HSV: H=69.580857, S=27.258571, V,141.072571
+mean color 1 in HSV: H=95.186857, S=38.432571, V,151.025143
+mean color 2 in HSV: H=66.076857, S=26.292000, V,141.046571
+mean color 1 in HSV: H=91.839714, S=38.015143, V,150.293714
+mean color 2 in HSV: H=69.776571, S=26.964571, V,141.159143
+mean color 1 in HSV: H=89.037143, S=37.294000, V,150.370571
+mean color 2 in HSV: H=73.575143, S=27.807143, V,141.376286
+mean color 1 in HSV: H=90.918857, S=38.028857, V,150.691714
+mean color 2 in HSV: H=68.352286, S=27.638571, V,141.527143
+mean color 1 in HSV: H=91.830000, S=37.891714, V,150.609143
+mean color 2 in HSV: H=64.564000, S=27.804286, V,141.208857
+mean color 1 in HSV: H=94.004571, S=37.534571, V,150.533143
+mean color 2 in HSV: H=70.384857, S=28.340000, V,141.483429
+mean color 1 in HSV: H=90.006857, S=38.013429, V,150.572286
+mean color 2 in HSV: H=63.530571, S=27.203143, V,141.173429
+mean color 1 in HSV: H=94.003429, S=37.706000, V,150.527714
+mean color 2 in HSV: H=67.380857, S=27.065714, V,140.992857
+mean color 1 in HSV: H=92.832000, S=37.989143, V,150.682571
+mean color 2 in HSV: H=69.366286, S=27.146857, V,141.255714
+mean color 1 in HSV: H=89.490286, S=37.536571, V,150.636857
+mean color 2 in HSV: H=67.827143, S=26.544286, V,141.060571
+mean color 1 in HSV: H=90.918000, S=38.637714, V,150.805143
+mean color 2 in HSV: H=71.418000, S=27.000286, V,141.202286
+mean color 1 in HSV: H=91.024286, S=38.728000, V,151.218286
+mean color 2 in HSV: H=69.981714, S=26.763143, V,141.097143
+mean color 1 in HSV: H=91.191143, S=38.229714, V,150.605714
+mean color 2 in HSV: H=65.999714, S=27.409714, V,141.262857
+mean color 1 in HSV: H=89.420286, S=38.284286, V,150.813714
+mean color 2 in HSV: H=67.372857, S=26.541714, V,141.006286
+mean color 1 in HSV: H=90.364000, S=38.490571, V,150.901143
+mean color 2 in HSV: H=68.992857, S=26.772857, V,141.302000
+mean color 1 in HSV: H=92.218571, S=38.909143, V,151.325429
+mean color 2 in HSV: H=70.276000, S=27.602000, V,141.626571
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=89.246000, S=37.910000, V,151.132286
+mean color 2 in HSV: H=65.524286, S=27.932286, V,141.507714
+mean color 1 in HSV: H=89.458286, S=38.542571, V,151.440286
+mean color 2 in HSV: H=68.055143, S=27.141429, V,141.456571
+mean color 1 in HSV: H=90.035714, S=37.224857, V,150.882571
+mean color 2 in HSV: H=74.271143, S=27.919143, V,141.618000
+mean color 1 in HSV: H=92.944857, S=37.187714, V,150.849429
+mean color 2 in HSV: H=66.384857, S=27.754286, V,141.361143
+input detected
+
+color detection stopped!
+input detected
+
+color detection has been runed!
+mean color 1 in HSV: H=94.082000, S=37.652286, V,150.536000
+mean color 2 in HSV: H=67.117429, S=27.892857, V,141.249429
+mean color 1 in HSV: H=92.588286, S=37.382000, V,150.821429
+mean color 2 in HSV: H=65.482000, S=27.445714, V,141.574286
+mean color 1 in HSV: H=87.611429, S=38.901143, V,150.954571
+mean color 2 in HSV: H=66.554286, S=27.603429, V,141.472571
+mean color 1 in HSV: H=91.297143, S=38.423714, V,151.319714
+mean color 2 in HSV: H=63.706857, S=26.540286, V,141.178000
+mean color 1 in HSV: H=88.762286, S=38.334286, V,151.134857
+mean color 2 in HSV: H=68.515143, S=27.695429, V,141.776000
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=90.367429, S=38.397429, V,151.142286
+mean color 2 in HSV: H=69.420571, S=27.963714, V,141.604857
+mean color 1 in HSV: H=92.556000, S=38.984000, V,151.350857
+mean color 2 in HSV: H=69.716857, S=27.195714, V,141.285429
+mean color 1 in HSV: H=91.408286, S=38.102571, V,150.818857
+mean color 2 in HSV: H=67.623714, S=27.746571, V,141.504857
+mean color 1 in HSV: H=92.544571, S=38.217429, V,150.873714
+mean color 2 in HSV: H=70.830286, S=27.658571, V,141.678857
+mean color 1 in HSV: H=92.666571, S=37.909429, V,150.746000
+mean color 2 in HSV: H=69.739143, S=27.724857, V,141.418857
+mean color 1 in HSV: H=91.198286, S=37.807143, V,150.648857
+mean color 2 in HSV: H=66.200000, S=27.920000, V,141.424857
+mean color 1 in HSV: H=92.181714, S=38.908286, V,151.090571
+mean color 2 in HSV: H=69.621714, S=27.389429, V,141.440286
+mean color 1 in HSV: H=89.916571, S=38.121429, V,150.929429
+mean color 2 in HSV: H=68.308571, S=27.644000, V,141.426857
+mean color 1 in HSV: H=88.008571, S=38.451714, V,151.102000
+mean color 2 in HSV: H=69.444857, S=26.607714, V,141.300000
+mean color 1 in HSV: H=94.030286, S=37.669143, V,150.669429
+mean color 2 in HSV: H=70.306857, S=27.408286, V,141.369429
+mean color 1 in HSV: H=89.887429, S=38.388571, V,150.846000
+mean color 2 in HSV: H=63.965429, S=27.594857, V,141.273714
+mean color 1 in HSV: H=90.579429, S=38.365143, V,150.903429
+mean color 2 in HSV: H=72.876286, S=27.342571, V,141.404571
+mean color 1 in HSV: H=94.327143, S=37.957143, V,150.860857
+mean color 2 in HSV: H=65.542857, S=27.610286, V,141.512571
+mean color 1 in HSV: H=93.006286, S=38.280857, V,151.350857
+mean color 2 in HSV: H=67.439143, S=27.324286, V,141.312000
+mean color 1 in HSV: H=89.761429, S=38.050286, V,150.586571
+mean color 2 in HSV: H=62.761429, S=28.281429, V,141.375714
+mean color 1 in HSV: H=92.530857, S=38.037429, V,150.579714
+mean color 2 in HSV: H=68.257143, S=26.392857, V,141.090286
+mean color 1 in HSV: H=91.941143, S=37.508000, V,150.558857
+mean color 2 in HSV: H=69.025429, S=27.435143, V,141.074000
+mean color 1 in HSV: H=90.243143, S=37.565714, V,150.606857
+mean color 2 in HSV: H=65.228571, S=27.439143, V,141.228286
+mean color 1 in HSV: H=94.853429, S=37.633714, V,150.945143
+mean color 2 in HSV: H=66.646000, S=27.789714, V,141.297143
+mean color 1 in HSV: H=91.240286, S=38.072571, V,150.654286
+mean color 2 in HSV: H=68.230571, S=27.721143, V,141.148286
+mean color 1 in HSV: H=94.266286, S=37.955143, V,150.466571
+mean color 2 in HSV: H=67.808857, S=27.894857, V,141.180286
+mean color 1 in HSV: H=90.223714, S=38.384857, V,150.399429
+mean color 2 in HSV: H=65.132571, S=27.921714, V,140.868571
+mean color 1 in HSV: H=89.138857, S=38.412000, V,150.664571
+mean color 2 in HSV: H=71.005429, S=27.118857, V,140.969143
+mean color 1 in HSV: H=93.870000, S=37.848571, V,150.557714
+mean color 2 in HSV: H=69.422286, S=26.788857, V,140.823429
+input detected
+
+color detection stopped!
+input detected
+
+color detection has been runed!
+mean color 1 in HSV: H=91.843429, S=39.057714, V,150.706857
+mean color 2 in HSV: H=68.413714, S=27.660857, V,140.797714
+mean color 1 in HSV: H=91.416286, S=37.824571, V,150.912286
+mean color 2 in HSV: H=66.946000, S=27.728286, V,141.428571
+mean color 1 in HSV: H=85.101429, S=38.194000, V,151.464000
+mean color 2 in HSV: H=70.253429, S=27.365143, V,141.957143
+mean color 1 in HSV: H=87.509714, S=37.943429, V,151.581429
+mean color 2 in HSV: H=69.970571, S=27.628571, V,141.956571
+mean color 1 in HSV: H=89.718571, S=37.908857, V,151.565429
+mean color 2 in HSV: H=65.636000, S=27.457143, V,141.974000
+mean color 1 in HSV: H=87.418857, S=37.689714, V,151.361143
+mean color 2 in HSV: H=63.911429, S=28.206857, V,141.970000
+mean color 1 in HSV: H=90.157429, S=37.826571, V,151.224000
+mean color 2 in HSV: H=64.717429, S=26.616286, V,141.552857
+mean color 1 in HSV: H=87.579714, S=38.216286, V,151.013429
+mean color 2 in HSV: H=64.386571, S=27.788286, V,141.385143
+mean color 1 in HSV: H=92.406286, S=38.132286, V,149.466571
+mean color 2 in HSV: H=72.072000, S=26.379714, V,139.577429
+mean color 1 in HSV: H=95.206286, S=39.169429, V,148.717143
+mean color 2 in HSV: H=62.580286, S=27.869714, V,138.660000
+mean color 1 in HSV: H=93.614286, S=38.499143, V,148.582286
+mean color 2 in HSV: H=66.781714, S=28.288286, V,138.391714
+mean color 1 in HSV: H=92.250571, S=42.003714, V,147.842286
+mean color 2 in HSV: H=80.352000, S=23.784286, V,135.661429
+mean color 1 in HSV: H=71.996857, S=41.668286, V,148.151714
+mean color 2 in HSV: H=52.096857, S=29.655143, V,135.093143
+mean color 1 in HSV: H=65.072000, S=41.017714, V,147.643429
+mean color 2 in HSV: H=43.919429, S=33.465714, V,134.340000
+mean color 1 in HSV: H=64.469143, S=40.582000, V,145.256000
+mean color 2 in HSV: H=41.540571, S=37.806857, V,131.347429
+mean color 1 in HSV: H=73.524571, S=42.155714, V,140.212286
+mean color 2 in HSV: H=54.500571, S=32.426571, V,121.887714
+mean color 1 in HSV: H=72.717714, S=40.894000, V,134.540286
+mean color 2 in HSV: H=83.352286, S=38.697143, V,103.510571
+mean color 1 in HSV: H=112.409714, S=58.970571, V,100.590000
+mean color 2 in HSV: H=117.033714, S=61.123429, V,57.573714
+mean color 1 in HSV: H=114.274000, S=36.553143, V,108.095143
+mean color 2 in HSV: H=112.910000, S=42.631714, V,83.060857
+mean color 1 in HSV: H=100.721143, S=34.133714, V,81.385429
+mean color 2 in HSV: H=90.758286, S=37.296286, V,68.409429
+mean color 1 in HSV: H=70.052857, S=41.573429, V,68.401143
+mean color 2 in HSV: H=67.234571, S=45.111143, V,62.425714
+mean color 1 in HSV: H=65.736857, S=45.878857, V,64.629429
+mean color 2 in HSV: H=74.379714, S=45.998571, V,60.107714
+mean color 1 in HSV: H=65.162286, S=49.152000, V,62.481714
+mean color 2 in HSV: H=65.990571, S=47.908286, V,58.626000
+mean color 1 in HSV: H=67.359714, S=51.462571, V,60.474286
+mean color 2 in HSV: H=62.649714, S=51.866286, V,56.947714
+mean color 1 in HSV: H=62.882000, S=51.013143, V,58.315143
+mean color 2 in HSV: H=64.426857, S=52.613429, V,55.404571
+mean color 1 in HSV: H=64.287714, S=50.761143, V,56.966000
+mean color 2 in HSV: H=66.880000, S=50.799429, V,54.361429
+mean color 1 in HSV: H=63.172286, S=53.688571, V,55.786286
+mean color 2 in HSV: H=63.819429, S=55.860286, V,53.614000
+mean color 1 in HSV: H=65.625714, S=57.040571, V,54.714000
+mean color 2 in HSV: H=70.334286, S=52.270286, V,52.259143
+mean color 1 in HSV: H=73.318857, S=53.443714, V,54.106000
+mean color 2 in HSV: H=65.602571, S=58.532000, V,52.111714
+mean color 1 in HSV: H=68.301714, S=55.193429, V,53.170571
+mean color 2 in HSV: H=65.877429, S=57.934571, V,51.340286
+mean color 1 in HSV: H=65.699429, S=58.077429, V,53.171429
+mean color 2 in HSV: H=63.449143, S=57.297714, V,51.256000
+mean color 1 in HSV: H=66.992857, S=58.240857, V,53.753714
+mean color 2 in HSV: H=65.056857, S=57.711143, V,51.930857
+mean color 1 in HSV: H=68.306000, S=56.900857, V,54.146000
+mean color 2 in HSV: H=67.241143, S=56.671714, V,52.341429
+mean color 1 in HSV: H=67.583429, S=58.152571, V,53.276857
+mean color 2 in HSV: H=68.442286, S=55.026571, V,51.464000
+mean color 1 in HSV: H=66.278000, S=60.607429, V,52.701429
+mean color 2 in HSV: H=65.903429, S=58.939714, V,51.008571
+mean color 1 in HSV: H=65.197143, S=60.300286, V,51.970571
+mean color 2 in HSV: H=64.891143, S=56.489143, V,50.623714
+mean color 1 in HSV: H=65.731143, S=59.564571, V,51.758000
+mean color 2 in HSV: H=64.130286, S=60.016000, V,50.302000
+mean color 1 in HSV: H=66.328857, S=59.821429, V,51.134857
+mean color 2 in HSV: H=63.966286, S=59.939143, V,50.186857
+mean color 1 in HSV: H=68.062857, S=61.636857, V,50.615143
+mean color 2 in HSV: H=63.620286, S=61.537429, V,49.506857
+mean color 1 in HSV: H=66.253714, S=61.110286, V,50.260286
+mean color 2 in HSV: H=66.702000, S=60.462571, V,49.063143
+mean color 1 in HSV: H=64.132286, S=63.933714, V,50.682286
+mean color 2 in HSV: H=64.571714, S=57.772571, V,49.496857
+mean color 1 in HSV: H=63.358857, S=65.087429, V,50.646000
+mean color 2 in HSV: H=67.704000, S=57.991429, V,49.283143
+mean color 1 in HSV: H=61.984571, S=60.336857, V,49.403143
+mean color 2 in HSV: H=63.804286, S=63.940571, V,48.987143
+mean color 1 in HSV: H=68.306000, S=60.005143, V,49.583429
+mean color 2 in HSV: H=67.210000, S=60.662286, V,48.494286
+mean color 1 in HSV: H=67.059714, S=63.490000, V,50.065429
+mean color 2 in HSV: H=61.401143, S=62.397429, V,48.759429
+mean color 1 in HSV: H=60.930286, S=62.486857, V,49.915714
+mean color 2 in HSV: H=60.652000, S=64.848857, V,49.133429
+mean color 1 in HSV: H=64.631429, S=61.558571, V,49.911714
+mean color 2 in HSV: H=63.757143, S=65.194000, V,48.964000
+mean color 1 in HSV: H=65.123714, S=63.236286, V,49.115143
+mean color 2 in HSV: H=63.871714, S=59.887143, V,47.798286
+mean color 1 in HSV: H=64.719714, S=65.118571, V,48.462000
+mean color 2 in HSV: H=66.469143, S=60.580286, V,47.541143
+mean color 1 in HSV: H=64.850571, S=66.668857, V,48.459143
+mean color 2 in HSV: H=63.042857, S=63.804000, V,47.404286
+mean color 1 in HSV: H=69.070286, S=62.758000, V,47.979714
+mean color 2 in HSV: H=69.082286, S=58.365714, V,47.004857
+mean color 1 in HSV: H=65.322000, S=64.837143, V,48.425143
+mean color 2 in HSV: H=62.544286, S=66.514286, V,47.830286
+mean color 1 in HSV: H=62.897143, S=66.603429, V,48.401143
+mean color 2 in HSV: H=67.421429, S=61.637429, V,47.441429
+mean color 1 in HSV: H=63.998000, S=65.861429, V,48.892000
+mean color 2 in HSV: H=64.590571, S=63.459714, V,47.759429
+mean color 1 in HSV: H=66.961714, S=61.297429, V,49.013429
+mean color 2 in HSV: H=64.148571, S=63.537143, V,48.073429
+mean color 1 in HSV: H=62.202000, S=68.784857, V,49.701429
+mean color 2 in HSV: H=59.608571, S=64.983429, V,47.871714
+mean color 1 in HSV: H=66.230286, S=60.705143, V,49.049714
+mean color 2 in HSV: H=65.184857, S=63.157429, V,48.385714
+mean color 1 in HSV: H=60.479714, S=67.270286, V,48.852286
+mean color 2 in HSV: H=63.201143, S=63.626857, V,47.714000
+mean color 1 in HSV: H=63.103143, S=64.273714, V,48.555714
+mean color 2 in HSV: H=64.789429, S=60.697143, V,47.234857
+mean color 1 in HSV: H=61.662571, S=66.892857, V,49.469143
+mean color 2 in HSV: H=63.942857, S=62.355429, V,48.070857
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=63.310286, S=67.048286, V,50.095429
+mean color 2 in HSV: H=65.462286, S=63.650857, V,48.915143
+mean color 1 in HSV: H=64.452571, S=63.206571, V,50.352000
+mean color 2 in HSV: H=65.510857, S=60.716000, V,48.869429
+mean color 1 in HSV: H=66.414000, S=63.306000, V,49.541714
+mean color 2 in HSV: H=65.531714, S=61.088000, V,48.092286
+mean color 1 in HSV: H=65.457143, S=64.166286, V,48.272571
+mean color 2 in HSV: H=65.760571, S=62.078571, V,47.013143
+mean color 1 in HSV: H=65.804286, S=66.311429, V,47.137714
+mean color 2 in HSV: H=65.559714, S=62.855714, V,46.464000
+mean color 1 in HSV: H=63.316571, S=65.490286, V,48.066857
+mean color 2 in HSV: H=66.541429, S=61.506571, V,47.277429
+mean color 1 in HSV: H=64.358000, S=63.926286, V,48.275429
+mean color 2 in HSV: H=66.005429, S=64.563714, V,47.545429
+mean color 1 in HSV: H=65.588857, S=63.560857, V,48.791143
+mean color 2 in HSV: H=66.703143, S=62.642000, V,47.942857
+mean color 1 in HSV: H=65.436571, S=67.085714, V,49.220286
+mean color 2 in HSV: H=67.523429, S=60.138286, V,47.987429
+mean color 1 in HSV: H=68.322571, S=61.352000, V,48.718000
+mean color 2 in HSV: H=63.601714, S=64.768571, V,48.072571
+mean color 1 in HSV: H=69.743429, S=64.513714, V,47.924000
+mean color 2 in HSV: H=65.873143, S=65.640857, V,47.195143
+mean color 1 in HSV: H=67.173714, S=63.069143, V,47.547143
+mean color 2 in HSV: H=68.214286, S=62.502857, V,47.148286
+mean color 1 in HSV: H=71.823714, S=62.646571, V,47.682000
+mean color 2 in HSV: H=70.388571, S=63.218000, V,46.995429
+mean color 1 in HSV: H=67.440857, S=67.065714, V,47.184571
+mean color 2 in HSV: H=65.420000, S=64.885429, V,46.783429
+mean color 1 in HSV: H=68.757143, S=67.845714, V,46.988000
+mean color 2 in HSV: H=65.632571, S=65.955714, V,46.508286
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=69.154571, S=66.185714, V,45.300857
+mean color 2 in HSV: H=69.670857, S=65.282571, V,45.387143
+mean color 1 in HSV: H=70.055143, S=72.774857, V,43.089714
+mean color 2 in HSV: H=75.304571, S=66.100857, V,42.468571
+mean color 1 in HSV: H=71.249429, S=71.059143, V,43.396286
+mean color 2 in HSV: H=67.263429, S=68.205143, V,42.806286
+mean color 1 in HSV: H=62.610000, S=73.608857, V,42.204571
+mean color 2 in HSV: H=71.000000, S=68.367429, V,42.137429
+mean color 1 in HSV: H=68.759714, S=76.136286, V,40.529714
+mean color 2 in HSV: H=74.214286, S=71.144286, V,40.534000
+mean color 1 in HSV: H=74.076000, S=73.782857, V,39.337714
+mean color 2 in HSV: H=72.035143, S=70.841714, V,39.331429
+mean color 1 in HSV: H=73.582857, S=80.349143, V,36.226571
+mean color 2 in HSV: H=71.247714, S=77.066286, V,36.658286
+mean color 1 in HSV: H=67.246857, S=84.541429, V,33.452000
+mean color 2 in HSV: H=76.738571, S=75.781429, V,34.360286
+mean color 1 in HSV: H=65.487143, S=87.935429, V,31.384000
+mean color 2 in HSV: H=68.878000, S=80.715714, V,32.699714
+mean color 1 in HSV: H=63.052571, S=92.178571, V,30.892571
+mean color 2 in HSV: H=68.327143, S=83.362000, V,32.460857
+mean color 1 in HSV: H=62.756000, S=91.945143, V,30.350286
+mean color 2 in HSV: H=63.278857, S=85.761714, V,31.692000
+mean color 1 in HSV: H=61.003429, S=92.990857, V,29.728286
+mean color 2 in HSV: H=63.500000, S=84.268000, V,31.141714
+mean color 1 in HSV: H=56.001714, S=96.870571, V,29.276286
+mean color 2 in HSV: H=58.920000, S=85.692286, V,30.572286
+mean color 1 in HSV: H=61.967143, S=93.899714, V,29.210571
+mean color 2 in HSV: H=60.796571, S=83.529714, V,30.588000
+mean color 1 in HSV: H=58.942571, S=94.854857, V,28.617143
+mean color 2 in HSV: H=59.602857, S=86.885143, V,30.155714
+cam_hal: EV-VSYNC-OVF
+mean color 1 in HSV: H=66.521429, S=92.678571, V,28.436571
+mean color 2 in HSV: H=60.328571, S=86.006286, V,29.879143
+mean color 1 in HSV: H=59.782286, S=93.317143, V,27.756857
+mean color 2 in HSV: H=64.408286, S=84.990286, V,29.787714
+mean color 1 in HSV: H=61.227143, S=96.367714, V,28.122000
+mean color 2 in HSV: H=60.997429, S=84.474000, V,29.794571
+mean color 1 in HSV: H=64.433429, S=91.524000, V,27.648571
+mean color 2 in HSV: H=68.741429, S=84.228286, V,29.558857
+mean color 1 in HSV: H=60.816286, S=98.727143, V,27.459429
+mean color 2 in HSV: H=60.932000, S=84.378000, V,29.457143
+mean color 1 in HSV: H=59.156571, S=96.320857, V,27.630571
+mean color 2 in HSV: H=61.884857, S=83.132571, V,29.645714
+mean color 1 in HSV: H=64.305143, S=100.004857, V,27.875143
+mean color 2 in HSV: H=62.765429, S=88.351714, V,29.302571
+mean color 1 in HSV: H=65.732857, S=91.096857, V,27.303429
+mean color 2 in HSV: H=63.434000, S=80.551143, V,29.357429
+mean color 1 in HSV: H=61.241429, S=99.280571, V,27.251714
+mean color 2 in HSV: H=58.666286, S=91.950571, V,29.429143
+mean color 1 in HSV: H=61.894857, S=98.493714, V,27.099429
+mean color 2 in HSV: H=58.922286, S=86.844286, V,29.174000
+mean color 1 in HSV: H=63.441143, S=98.189143, V,27.466571
+mean color 2 in HSV: H=56.990571, S=88.297714, V,28.988857
+mean color 1 in HSV: H=63.624286, S=95.319429, V,27.157714
+mean color 2 in HSV: H=61.525714, S=86.088857, V,28.974571
+mean color 1 in HSV: H=62.134286, S=102.371143, V,27.175429
+mean color 2 in HSV: H=58.050286, S=86.619429, V,28.725714
+mean color 1 in HSV: H=65.110286, S=102.040571, V,27.464000
+mean color 2 in HSV: H=65.028000, S=84.408000, V,28.972286
+mean color 1 in HSV: H=63.874857, S=97.424000, V,26.781143
+mean color 2 in HSV: H=63.464857, S=91.825429, V,29.022000
+mean color 1 in HSV: H=63.708000, S=104.472857, V,26.710571
+mean color 2 in HSV: H=60.832571, S=90.882857, V,28.503714
+mean color 1 in HSV: H=62.414857, S=105.237429, V,26.766571
+mean color 2 in HSV: H=61.734000, S=91.182000, V,28.618000
+mean color 1 in HSV: H=63.452571, S=102.528000, V,26.894857
+mean color 2 in HSV: H=63.578857, S=90.325143, V,28.577429
+mean color 1 in HSV: H=64.970286, S=99.174571, V,26.621714
+mean color 2 in HSV: H=61.698000, S=88.138000, V,28.277714
+mean color 1 in HSV: H=60.688000, S=105.994000, V,26.793143
+mean color 2 in HSV: H=61.038857, S=87.860571, V,28.590857
+mean color 1 in HSV: H=61.728571, S=102.415143, V,26.660857
+mean color 2 in HSV: H=59.792857, S=85.090857, V,28.280571
+mean color 1 in HSV: H=68.294857, S=98.663714, V,26.806000
+mean color 2 in HSV: H=68.072857, S=88.623429, V,28.660571
+mean color 1 in HSV: H=68.218286, S=96.885143, V,27.117714
+mean color 2 in HSV: H=63.746000, S=89.659714, V,28.606571
+mean color 1 in HSV: H=64.306857, S=96.689143, V,26.471714
+mean color 2 in HSV: H=64.215429, S=86.150571, V,28.251429
+mean color 1 in HSV: H=62.762286, S=99.491143, V,26.290286
+mean color 2 in HSV: H=64.714286, S=91.040571, V,28.486286
+mean color 1 in HSV: H=63.663143, S=104.243143, V,26.738000
+mean color 2 in HSV: H=61.974000, S=93.967143, V,28.596857
+mean color 1 in HSV: H=63.632857, S=103.424000, V,26.514286
+mean color 2 in HSV: H=63.833714, S=89.938571, V,28.172571
+mean color 1 in HSV: H=65.913429, S=102.538571, V,26.361714
+mean color 2 in HSV: H=64.357714, S=91.520857, V,28.346000
+mean color 1 in HSV: H=61.651714, S=99.276857, V,26.184286
+mean color 2 in HSV: H=58.170571, S=89.611429, V,28.018571
+mean color 1 in HSV: H=65.781714, S=99.443143, V,26.520571
+mean color 2 in HSV: H=63.854857, S=83.777143, V,28.125429
+mean color 1 in HSV: H=67.312857, S=99.380857, V,26.342286
+mean color 2 in HSV: H=66.157714, S=86.051143, V,28.237429
+mean color 1 in HSV: H=59.995429, S=100.473714, V,26.126857
+mean color 2 in HSV: H=60.310000, S=89.924857, V,27.958000
+mean color 1 in HSV: H=60.634571, S=102.529429, V,26.409714
+mean color 2 in HSV: H=60.709714, S=87.191714, V,28.144286
+mean color 1 in HSV: H=64.114571, S=103.916000, V,26.126857
+mean color 2 in HSV: H=61.326571, S=90.544857, V,28.310286
+mean color 1 in HSV: H=61.664571, S=103.454857, V,26.352857
+mean color 2 in HSV: H=59.125143, S=88.570000, V,28.070000
+mean color 1 in HSV: H=67.312571, S=99.703143, V,26.223143
+mean color 2 in HSV: H=62.964000, S=89.167429, V,28.206857
+mean color 1 in HSV: H=67.151714, S=98.398857, V,26.580571
+mean color 2 in HSV: H=65.507143, S=87.941429, V,28.374000
+mean color 1 in HSV: H=59.715714, S=103.190857, V,26.146571
+mean color 2 in HSV: H=60.580286, S=83.158286, V,27.934571
+mean color 1 in HSV: H=65.252571, S=100.736000, V,26.464286
+mean color 2 in HSV: H=64.878000, S=86.173714, V,27.860000
+input detected
+
+color detection stopped!
+input detected
+
+color detection has been runed!
+mean color 1 in HSV: H=57.416571, S=39.767714, V,152.901429
+mean color 2 in HSV: H=32.122571, S=41.033143, V,146.236286
+mean color 1 in HSV: H=59.318286, S=39.668857, V,153.403429
+mean color 2 in HSV: H=31.769429, S=39.852286, V,146.495143
+mean color 1 in HSV: H=57.428286, S=39.619714, V,153.610857
+mean color 2 in HSV: H=31.981143, S=38.971429, V,146.453429
+mean color 1 in HSV: H=56.888857, S=39.364571, V,153.312571
+mean color 2 in HSV: H=34.939714, S=38.839143, V,146.471143
+input detected
+
+color detection stopped!

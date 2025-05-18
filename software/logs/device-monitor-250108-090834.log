@@ -1,0 +1,57 @@
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Yellow is NOT between Green and Blue
+Camera re-initialized with configCapture: 1
+�`	~��1����*
+���
+�
+E (490) ledc: ledc_get_duty(745): LEDC is not initialized
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.1.117' to connect
+[ 10565][E][app_httpd.cpp:1613] stream_handler(): Send frame failed
+��B0�D)!�	9��9����
+E (490) ledc: ledc_get_duty(745): LEDC is not initialized
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.1.117' to connect
+L��NB�)1!11���95!�1��	~L0ǧJ!!�LN)�!�!��
+E (490) ledc: ledc_get_duty(745): LEDC is not initialized
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.1.117' to connect
+8����~��!)u
+
+�}�)m1 1��
+E (490) ledc: ledc_get_duty(745): LEDC is not initialized
+....
+WiFi connected
+Camera Ready! Use 'http://192.168.1.117' to connect
+[314046][E][app_httpd.cpp:1613] stream_handler(): Send frame failed
+�����L0NJ!!!�N)�1�!��
+E (490) ledc: ledc_get_duty(745): LEDC is not initialized
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.1.117' to connect
+[191321][E][app_httpd.cpp:1613] stream_handler(): Send frame failed
+Camera re-initialized with configCapture: 2
+w: 103, h: 48 
+w: 104, h: 38 
+w: 104, h: 37 
+w: 112, h: 54 
+cam_hal: EV-EOF-OVF
+w: 111, h: 41 

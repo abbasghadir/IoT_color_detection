@@ -1,0 +1,471 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+cam_hal: EV-VSYNC-OVF
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=48, Y_scale is=139
+Green: X_scale is=0, Y_scale is=0
+checkpoint1
+Blue: X_scale is=29, Y_scale is=44
+Yellow: X_scale is=137, Y_scale is=104
+Green: X_scale is=42, Y_scale is=60
+checkpoint1
+Blue: X_scale is=22, Y_scale is=29
+Yellow: X_scale is=217, Y_scale is=124
+Green: X_scale is=119, Y_scale is=128
+checkpoint1
+Blue: X_scale is=28, Y_scale is=36
+Yellow: X_scale is=189, Y_scale is=170
+Green: X_scale is=107, Y_scale is=143
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+Blue: X_scale is=30, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=198, Y_scale is=181
+checkpoint1
+Blue: X_scale is=20, Y_scale is=52
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=157, Y_scale is=163
+checkpoint1
+Blue: X_scale is=22, Y_scale is=59
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=238, Y_scale is=172
+checkpoint1
+Blue: X_scale is=28, Y_scale is=58
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=179, Y_scale is=162
+checkpoint1
+Blue: X_scale is=23, Y_scale is=73
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=203, Y_scale is=191
+checkpoint1
+Blue: X_scale is=25, Y_scale is=52
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=178, Y_scale is=139
+checkpoint1
+Blue: X_scale is=25, Y_scale is=49
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=210, Y_scale is=166
+checkpoint1
+Blue: X_scale is=32, Y_scale is=47
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=246, Y_scale is=160
+checkpoint1
+Blue: X_scale is=34, Y_scale is=61
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=247, Y_scale is=189
+checkpoint1
+Blue: X_scale is=33, Y_scale is=62
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=275, Y_scale is=172
+checkpoint1
+Blue: X_scale is=32, Y_scale is=58
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=221, Y_scale is=187
+checkpoint1
+Blue: X_scale is=318, Y_scale is=1
+Yellow: X_scale is=209, Y_scale is=0
+Green: X_scale is=318, Y_scale is=23
+checkpoint1
+Blue: X_scale is=41, Y_scale is=185
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=221, Y_scale is=21
+checkpoint1
+Blue: X_scale is=9, Y_scale is=39
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+checkpoint1
+Blue: X_scale is=263, Y_scale is=29
+Yellow: X_scale is=99, Y_scale is=120
+Green: X_scale is=189, Y_scale is=187
+checkpoint1
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=123, Y_scale is=109
+Green: X_scale is=193, Y_scale is=197
+checkpoint1
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=112, Y_scale is=111
+Green: X_scale is=179, Y_scale is=185
+checkpoint1
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=201, Y_scale is=218
+Green: X_scale is=0, Y_scale is=0
+checkpoint1
+cam_hal: EV-EOF-OVF
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=153, Y_scale is=156
+Green: X_scale is=128, Y_scale is=215
+checkpoint1
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=86, Y_scale is=115
+Green: X_scale is=0, Y_scale is=0
+checkpoint1
+Blue: X_scale is=198, Y_scale is=92
+Yellow: X_scale is=190, Y_scale is=94
+Green: X_scale is=102, Y_scale is=67
+checkpoint1
+Blue: X_scale is=180, Y_scale is=65
+Yellow: X_scale is=184, Y_scale is=87
+Green: X_scale is=130, Y_scale is=42
+checkpoint1
+Blue: X_scale is=168, Y_scale is=35
+Yellow: X_scale is=207, Y_scale is=133
+Green: X_scale is=255, Y_scale is=118
+checkpoint1
+Blue: X_scale is=148, Y_scale is=60
+Yellow: X_scale is=210, Y_scale is=151
+Green: X_scale is=256, Y_scale is=139
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+Blue: X_scale is=119, Y_scale is=97
+Yellow: X_scale is=210, Y_scale is=137
+Green: X_scale is=250, Y_scale is=160
+checkpoint1
+Blue: X_scale is=76, Y_scale is=152
+Yellow: X_scale is=195, Y_scale is=137
+Green: X_scale is=259, Y_scale is=164
+checkpoint1
+Blue: X_scale is=54, Y_scale is=183
+Yellow: X_scale is=193, Y_scale is=142
+Green: X_scale is=255, Y_scale is=158
+checkpoint1
+Blue: X_scale is=81, Y_scale is=156
+Yellow: X_scale is=186, Y_scale is=142
+Green: X_scale is=256, Y_scale is=160
+checkpoint1
+Blue: X_scale is=70, Y_scale is=165
+Yellow: X_scale is=193, Y_scale is=135
+Green: X_scale is=256, Y_scale is=159
+checkpoint1
+cam_hal: EV-EOF-OVF
+Blue: X_scale is=46, Y_scale is=190
+Yellow: X_scale is=193, Y_scale is=124
+Green: X_scale is=257, Y_scale is=160
+checkpoint1
+Blue: X_scale is=36, Y_scale is=186
+Yellow: X_scale is=190, Y_scale is=130
+Green: X_scale is=257, Y_scale is=164
+checkpoint1
+Blue: X_scale is=72, Y_scale is=164
+Yellow: X_scale is=197, Y_scale is=128
+Green: X_scale is=265, Y_scale is=172
+checkpoint1
+cam_hal: EV-EOF-OVF
+Blue: X_scale is=64, Y_scale is=169
+Yellow: X_scale is=204, Y_scale is=138
+Green: X_scale is=272, Y_scale is=168
+checkpoint1
+Blue: X_scale is=56, Y_scale is=174
+Yellow: X_scale is=205, Y_scale is=138
+Green: X_scale is=270, Y_scale is=169
+checkpoint1
+Blue: X_scale is=68, Y_scale is=169
+Yellow: X_scale is=205, Y_scale is=137
+Green: X_scale is=272, Y_scale is=163
+checkpoint1
+Blue: X_scale is=70, Y_scale is=156
+Yellow: X_scale is=206, Y_scale is=136
+Green: X_scale is=274, Y_scale is=169
+checkpoint1
+Blue: X_scale is=52, Y_scale is=178
+Yellow: X_scale is=204, Y_scale is=136
+Green: X_scale is=273, Y_scale is=165
+checkpoint1
+Blue: X_scale is=82, Y_scale is=149
+Yellow: X_scale is=205, Y_scale is=140
+Green: X_scale is=271, Y_scale is=164
+checkpoint1
+Blue: X_scale is=72, Y_scale is=160
+Yellow: X_scale is=205, Y_scale is=136
+Green: X_scale is=271, Y_scale is=170
+checkpoint1
+Blue: X_scale is=45, Y_scale is=186
+Yellow: X_scale is=206, Y_scale is=141
+Green: X_scale is=270, Y_scale is=169
+checkpoint1
+Blue: X_scale is=52, Y_scale is=183
+Yellow: X_scale is=205, Y_scale is=137
+Green: X_scale is=270, Y_scale is=173
+checkpoint1
+Blue: X_scale is=54, Y_scale is=181
+Yellow: X_scale is=203, Y_scale is=137
+Green: X_scale is=271, Y_scale is=166
+checkpoint1
+Blue: X_scale is=87, Y_scale is=163
+Yellow: X_scale is=213, Y_scale is=133
+Green: X_scale is=269, Y_scale is=172
+checkpoint1
+Blue: X_scale is=101, Y_scale is=137
+Yellow: X_scale is=208, Y_scale is=138
+Green: X_scale is=270, Y_scale is=169
+checkpoint1
+Blue: X_scale is=77, Y_scale is=155
+Yellow: X_scale is=201, Y_scale is=137
+Green: X_scale is=259, Y_scale is=171
+checkpoint1
+Blue: X_scale is=273, Y_scale is=3
+Yellow: X_scale is=239, Y_scale is=171
+Green: X_scale is=277, Y_scale is=181
+checkpoint1
+Blue: X_scale is=275, Y_scale is=3
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=291, Y_scale is=165
+checkpoint1
+Blue: X_scale is=305, Y_scale is=2
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=300, Y_scale is=203
+checkpoint1
+Blue: X_scale is=242, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=225, Y_scale is=153
+checkpoint1
+Blue: X_scale is=135, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=204, Y_scale is=106
+checkpoint1
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=141, Y_scale is=116
+Green: X_scale is=146, Y_scale is=90
+checkpoint1
+Blue: X_scale is=43, Y_scale is=69
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=126, Y_scale is=116
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-VSYNC-OVF
+Blue: X_scale is=153, Y_scale is=154
+Yellow: X_scale is=73, Y_scale is=145
+Green: X_scale is=152, Y_scale is=176
+checkpoint1
+Blue: X_scale is=100, Y_scale is=92
+Yellow: X_scale is=62, Y_scale is=152
+Green: X_scale is=52, Y_scale is=118
+checkpoint1
+Blue: X_scale is=79, Y_scale is=102
+Yellow: X_scale is=71, Y_scale is=88
+Green: X_scale is=75, Y_scale is=103
+checkpoint1
+Blue: X_scale is=80, Y_scale is=110
+Yellow: X_scale is=48, Y_scale is=111
+Green: X_scale is=59, Y_scale is=93
+checkpoint1
+Blue: X_scale is=76, Y_scale is=96
+Yellow: X_scale is=63, Y_scale is=99
+Green: X_scale is=69, Y_scale is=85
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+Blue: X_scale is=54, Y_scale is=120
+Yellow: X_scale is=64, Y_scale is=43
+Green: X_scale is=61, Y_scale is=85
+checkpoint1
+Blue: X_scale is=154, Y_scale is=79
+Yellow: X_scale is=71, Y_scale is=87
+Green: X_scale is=73, Y_scale is=92
+checkpoint1
+Blue: X_scale is=70, Y_scale is=125
+Yellow: X_scale is=70, Y_scale is=44
+Green: X_scale is=79, Y_scale is=85
+checkpoint1
+cam_hal: EV-EOF-OVF
+Blue: X_scale is=144, Y_scale is=75
+Yellow: X_scale is=62, Y_scale is=100
+Green: X_scale is=90, Y_scale is=96
+checkpoint1
+Blue: X_scale is=136, Y_scale is=113
+Yellow: X_scale is=169, Y_scale is=95
+Green: X_scale is=84, Y_scale is=83
+checkpoint1
+Blue: X_scale is=96, Y_scale is=103
+Yellow: X_scale is=72, Y_scale is=66
+Green: X_scale is=91, Y_scale is=78
+checkpoint1
+Blue: X_scale is=110, Y_scale is=94
+Yellow: X_scale is=107, Y_scale is=76
+Green: X_scale is=90, Y_scale is=78
+checkpoint1
+Blue: X_scale is=109, Y_scale is=117
+Yellow: X_scale is=125, Y_scale is=111
+Green: X_scale is=108, Y_scale is=112
+checkpoint1
+Blue: X_scale is=132, Y_scale is=63
+Yellow: X_scale is=178, Y_scale is=181
+Green: X_scale is=105, Y_scale is=91
+checkpoint1
+Blue: X_scale is=255, Y_scale is=99
+Yellow: X_scale is=226, Y_scale is=187
+Green: X_scale is=157, Y_scale is=49
+checkpoint1
+Blue: X_scale is=235, Y_scale is=174
+Yellow: X_scale is=224, Y_scale is=190
+Green: X_scale is=151, Y_scale is=126
+checkpoint1
+Blue: X_scale is=73, Y_scale is=52
+Yellow: X_scale is=266, Y_scale is=152
+Green: X_scale is=186, Y_scale is=91
+checkpoint1
+Blue: X_scale is=98, Y_scale is=60
+Yellow: X_scale is=189, Y_scale is=224
+Green: X_scale is=141, Y_scale is=105
+checkpoint1
+Blue: X_scale is=74, Y_scale is=90
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=157, Y_scale is=175
+checkpoint1
+Blue: X_scale is=74, Y_scale is=79
+Yellow: X_scale is=226, Y_scale is=189
+Green: X_scale is=135, Y_scale is=99
+checkpoint1
+Blue: X_scale is=72, Y_scale is=81
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=46, Y_scale is=129
+checkpoint1
+Blue: X_scale is=76, Y_scale is=82
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=120, Y_scale is=105
+checkpoint1
+Blue: X_scale is=86, Y_scale is=76
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=125, Y_scale is=164
+checkpoint1
+Blue: X_scale is=57, Y_scale is=104
+Yellow: X_scale is=246, Y_scale is=168
+Green: X_scale is=76, Y_scale is=142
+checkpoint1
+Blue: X_scale is=59, Y_scale is=89
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=171, Y_scale is=171
+checkpoint1
+Blue: X_scale is=70, Y_scale is=78
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=97, Y_scale is=89
+checkpoint1
+Blue: X_scale is=69, Y_scale is=78
+Yellow: X_scale is=210, Y_scale is=191
+Green: X_scale is=145, Y_scale is=116
+checkpoint1
+Blue: X_scale is=64, Y_scale is=67
+Yellow: X_scale is=229, Y_scale is=172
+Green: X_scale is=137, Y_scale is=171
+checkpoint1
+Blue: X_scale is=57, Y_scale is=63
+Yellow: X_scale is=181, Y_scale is=192
+Green: X_scale is=96, Y_scale is=153
+checkpoint1
+Blue: X_scale is=31, Y_scale is=32
+Yellow: X_scale is=184, Y_scale is=120
+Green: X_scale is=131, Y_scale is=190
+checkpoint1
+Blue: X_scale is=28, Y_scale is=38
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+checkpoint1
+Blue: X_scale is=27, Y_scale is=31
+Yellow: X_scale is=107, Y_scale is=224
+Green: X_scale is=64, Y_scale is=193
+checkpoint1
+Blue: X_scale is=30, Y_scale is=35
+Yellow: X_scale is=141, Y_scale is=177
+Green: X_scale is=212, Y_scale is=199
+checkpoint1
+Blue: X_scale is=12, Y_scale is=42
+Yellow: X_scale is=159, Y_scale is=153
+Green: X_scale is=85, Y_scale is=160
+checkpoint1
+Blue: X_scale is=26, Y_scale is=29
+Yellow: X_scale is=166, Y_scale is=206
+Green: X_scale is=125, Y_scale is=183
+checkpoint1
+Blue: X_scale is=19, Y_scale is=41
+Yellow: X_scale is=149, Y_scale is=167
+Green: X_scale is=119, Y_scale is=181
+checkpoint1
+Blue: X_scale is=18, Y_scale is=42
+Yellow: X_scale is=119, Y_scale is=205
+Green: X_scale is=182, Y_scale is=188
+checkpoint1
+Blue: X_scale is=16, Y_scale is=51
+Yellow: X_scale is=133, Y_scale is=187
+Green: X_scale is=83, Y_scale is=189
+checkpoint1
+cam_hal: EV-EOF-OVF
+Blue: X_scale is=25, Y_scale is=42
+Yellow: X_scale is=136, Y_scale is=183
+Green: X_scale is=148, Y_scale is=166
+checkpoint1
+Blue: X_scale is=30, Y_scale is=42
+Yellow: X_scale is=107, Y_scale is=224
+Green: X_scale is=114, Y_scale is=211
+checkpoint1
+Blue: X_scale is=21, Y_scale is=45
+Yellow: X_scale is=190, Y_scale is=136
+Green: X_scale is=138, Y_scale is=153
+checkpoint1
+Blue: X_scale is=23, Y_scale is=38
+Yellow: X_scale is=123, Y_scale is=203
+Green: X_scale is=82, Y_scale is=150
+checkpoint1
+Blue: X_scale is=24, Y_scale is=29
+Yellow: X_scale is=137, Y_scale is=181
+Green: X_scale is=112, Y_scale is=167
+checkpoint1
+Blue: X_scale is=23, Y_scale is=40
+Yellow: X_scale is=119, Y_scale is=204
+Green: X_scale is=38, Y_scale is=185
+checkpoint1
+Blue: X_scale is=49, Y_scale is=48
+Yellow: X_scale is=120, Y_scale is=203
+Green: X_scale is=144, Y_scale is=144
+checkpoint1
+Blue: X_scale is=25, Y_scale is=29
+Yellow: X_scale is=147, Y_scale is=168
+Green: X_scale is=119, Y_scale is=186
+checkpoint1
+Blue: X_scale is=21, Y_scale is=46
+Yellow: X_scale is=181, Y_scale is=124
+Green: X_scale is=133, Y_scale is=172
+checkpoint1
+Blue: X_scale is=23, Y_scale is=44
+Yellow: X_scale is=130, Y_scale is=184
+Green: X_scale is=69, Y_scale is=164
+checkpoint1
+Blue: X_scale is=28, Y_scale is=45
+Yellow: X_scale is=109, Y_scale is=218
+Green: X_scale is=110, Y_scale is=171
+checkpoint1
+Blue: X_scale is=35, Y_scale is=53
+Yellow: X_scale is=145, Y_scale is=170
+Green: X_scale is=173, Y_scale is=226
+checkpoint1
+Blue: X_scale is=23, Y_scale is=42
+Yellow: X_scale is=168, Y_scale is=182
+Green: X_scale is=46, Y_scale is=165
+checkpoint1
+cam_hal: EV-EOF-OVF
+cam_hal: EV-VSYNC-OVF
+Blue: X_scale is=28, Y_scale is=32
+Yellow: X_scale is=156, Y_scale is=156
+Green: X_scale is=72, Y_scale is=163
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-EOF-OVF
+Blue: X_scale is=28, Y_scale is=28
+Yellow: X_scale is=179, Y_scale is=170
+Green: X_scale is=84, Y_scale is=179
+checkpoint1
+Blue: X_scale is=21, Y_scale is=26
+Yellow: X_scale is=239, Y_scale is=164
+Green: X_scale is=293, Y_scale is=185
+checkpoint1

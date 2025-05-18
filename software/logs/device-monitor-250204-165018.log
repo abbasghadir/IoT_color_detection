@@ -1,0 +1,163 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+....
+WiFi connected
+Camera Ready! Use 'http://192.168.137.31' to connect
+input detected
+
+input detected
+
+color detection stopped!
+resizer
+X_scale is=100, Y_scale is=60, X_length is=120, Y_length is=70 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=1, Y_scale is=1, X_length is=100, Y_length is=100 
+input detected
+
+color detection stopped!
+resizer2
+X_scale2 is=100, Y_scale2 is=60, X_length2 is=120, Y_length2 is=70 
+please insert the x_scale2
+please insert the y_scale2
+please insert the x_length2
+please insert the y_length2
+its done
+X_scale2 is=1, Y_scale2 is=1, X_length2 is=200, Y_length2 is=200 
+input detected
+
+color detection stopped!
+resizer1
+X_scale1 is=100, Y_scale1 is=60, X_length1 is=120, Y_length1 is=70 
+please insert the x_scale1
+please insert the y_scale1
+please insert the x_length1
+please insert the y_length1
+its done
+X_scale1 is=1, Y_scale1 is=1, X_length1 is=100, Y_length1 is=100 
+input detected
+1
+color detection stopped!
+resizer
+X_scale is=1, Y_scale is=1, X_length is=100, Y_length is=100 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=1, Y_scale is=50, X_length is=50, Y_length is=50 
+input detected
+
+color detection stopped!
+resizer
+X_scale is=1, Y_scale is=50, X_length is=50, Y_length is=50 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=1, Y_scale is=1, X_length is=50, Y_length is=50 
+input detected
+
+color detection has been runed!
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 27, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+cam_hal: EV-VSYNC-OVF
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 40, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 43, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 41, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 32, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 40, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 46, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 49, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 42, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 49, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 23, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 33, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 47, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+
+ green_contours.size(), yellow_contours.size(), blue_contours.size(): 37, 0, 0  
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+yellow is=0, min is=0, max is=0 
+input detected
+
+color detection stopped!

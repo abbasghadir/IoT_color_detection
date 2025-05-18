@@ -1,0 +1,37 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (245) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.31' to connect
+input detected
+
+color detection stopped!
+resizer
+X_scale is=100, Y_scale is=60, X_length is=120, Y_length is=70 
+please insert the x_scale
+please insert the y_scale
+please insert the x_length
+please insert the y_length
+its done
+X_scale is=0, Y_scale is=0, X_length is=200, Y_length is=150 
+input detected
+
+color detection stopped!
+resizer1
+X_scale1 is=100, Y_scale1 is=60, X_length1 is=120, Y_length1 is=70 
+please insert the x_scale1
+please insert the y_scale1
+please insert the x_length1
+please insert the y_length1
+its done
+X_scale1 is=1, Y_scale1 is=1, X_length1 is=100, Y_length1 is=100 

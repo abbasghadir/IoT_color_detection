@@ -1,0 +1,106 @@
+ceckpoint
+Guru Meditation Error: Core  1 panic'ed (StoreProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x401ea634  PS      : 0x00060930  A0      : 0x800d1799  A1      : 0x3ffb20d0  
+A2      : 0x3f800810  A3      : 0x00000140  A4      : 0x000000f0  A5      : 0x00000064  
+A6      : 0x000049c0  A7      : 0x00000078  A8      : 0x3f809c56  A9      : 0x00000000  
+A10     : 0x00000000  A11     : 0x00000046  A12     : 0x00000000  A13     : 0x00000000  
+A14     : 0x00000001  A15     : 0x000000ff  SAR     : 0x00000019  EXCCAUSE: 0x0000001d  
+EXCVADDR: 0x00000000  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x401ea631:0x3ffb20d0 0x400d1796:0x3ffb20f0 0x401ea5a1:0x3ffb2130 0x4013705a:0x3ffb2150 0x40137165:0x3ffb2170 0x4013724b:0x3ffb21b0 0x401373f2:0x3ffb2220 0x400d1ad6:0x3ffb2270 0x4013c795:0x3ffb2290
+
+
+
+
+ELF file SHA256: 5e32321a14bf2b23
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-VSYNC-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.244' to connect
+ceckpoint
+Guru Meditation Error: Core  1 panic'ed (StoreProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x401ea634  PS      : 0x00060930  A0      : 0x800d1799  A1      : 0x3ffb20d0  
+A2      : 0x3f800810  A3      : 0x00000140  A4      : 0x000000f0  A5      : 0x00000064  
+A6      : 0x000049c0  A7      : 0x00000078  A8      : 0x3f809c56  A9      : 0x00000000  
+A10     : 0x00000000  A11     : 0x00000046  A12     : 0x00000000  A13     : 0x00000000  
+A14     : 0x00000001  A15     : 0x000000ff  SAR     : 0x0000001c  EXCCAUSE: 0x0000001d  
+EXCVADDR: 0x00000000  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x401ea631:0x3ffb20d0 0x400d1796:0x3ffb20f0 0x401ea5a1:0x3ffb2130 0x4013705a:0x3ffb2150 0x40137165:0x3ffb2170 0x4013724b:0x3ffb21b0 0x401373f2:0x3ffb2220 0x400d1ad6:0x3ffb2270 0x4013c795:0x3ffb2290
+
+
+
+
+ELF file SHA256: 5e32321a14bf2b23
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-VSYNC-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.244' to connect
+ceckpoint
+Guru Meditation Error: Core  1 panic'ed (StoreProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x401ea634  PS      : 0x00060930  A0      : 0x800d1799  A1      : 0x3ffb20d0  
+A2      : 0x3f800810  A3      : 0x00000140  A4      : 0x000000f0  A5      : 0x00000064  
+A6      : 0x000049c0  A7      : 0x00000078  A8      : 0x3f809c56  A9      : 0x00000000  
+A10     : 0x00000000  A11     : 0x00000046  A12     : 0x00000000  A13     : 0x00000000  
+A14     : 0x00000001  A15     : 0x000000ff  SAR     : 0x00000020  EXCCAUSE: 0x0000001d  
+EXCVADDR: 0x00000000  LBEG    : 0x4008cc51  LEND    : 0x4008cc61  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x401ea631:0x3ffb20d0 0x400d1796:0x3ffb20f0 0x401ea5a1:0x3ffb2130 0x4013705a:0x3ffb2150 0x40137165:0x3ffb2170 0x4013724b:0x3ffb21b0 0x401373f2:0x3ffb2220 0x400d1ad6:0x3ffb2270 0x4013c795:0x3ffb2290
+
+
+
+
+ELF file SHA256: 5e32321a14bf2b23
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+E (280) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105

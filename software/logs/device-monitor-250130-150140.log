@@ -1,0 +1,145 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+192.168.137.107
+Camera Ready! Use 'http://192.168.137.107' to connect
+↓ D1 Falling Edge Interrupt has been occured.
+
+Guru Meditation Error: Core  1 panic'ed (Interrupt wdt timeout on CPU1). 
+
+Core  1 register dump:
+PC      : 0x4014d0fc  PS      : 0x00060035  A0      : 0x8014f541  A1      : 0x3ffc263c  
+A2      : 0x0000013b  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x00000006  
+A6      : 0x00000001  A7      : 0x3f85e682  A8      : 0x00000141  A9      : 0x00004f3e  
+A10     : 0x00000000  A11     : 0x00000000  A12     : 0x00000000  A13     : 0x00000000  
+A14     : 0x3ffc26bc  A15     : 0x3f86347e  SAR     : 0x0000001f  EXCCAUSE: 0x00000006  
+EXCVADDR: 0x00000000  LBEG    : 0x4008ba94  LEND    : 0x4008ba9f  LCOUNT  : 0x00000000  
+Core  1 was running in ISR context:
+EPC1    : 0x4017260b  EPC2    : 0x00000000  EPC3    : 0x00000000  EPC4    : 0x00000000
+
+
+Backtrace: 0x4014d0f9:0x3ffc263c |<-CORRUPTED
+
+
+Core  0 register dump:
+PC      : 0x40216d02  PS      : 0x00060135  A0      : 0x80171464  A1      : 0x3ffbcf20  
+A2      : 0x00000000  A3      : 0x4008b014  A4      : 0x80087562  A5      : 0x3ffc240c  
+A6      : 0x3ffc1350  A7      : 0x3ffcb19c  A8      : 0x80170ff2  A9      : 0x3ffbcef0  
+A10     : 0x00000000  A11     : 0x3ffc2cb4  A12     : 0x8008178d  A13     : 0x3ffc23ec  
+A14     : 0x3ffcc398  A15     : 0x3ffcc398  SAR     : 0x0000001a  EXCCAUSE: 0x00000006  
+EXCVADDR: 0x00000000  LBEG    : 0x00000000  LEND    : 0x00000000  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x40216cff:0x3ffbcf20 0x40171461:0x3ffbcf40 0x400909bc:0x3ffbcf60
+
+
+
+
+ELF file SHA256: f69eed4595521f89
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+↓ D1 Falling Edge Interrupt has been occured.
+
+
+abort() was called at PC 0x400863b3 on core 1
+
+
+Backtrace: 0x40083b15:0x3ffc265c |<-CORRUPTED
+
+
+
+
+ELF file SHA256: f69eed4595521f89
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+..
+WiFi connected
+192.168.137.107
+Camera Ready! Use 'http://192.168.137.107' to connect
+↓ D1 Falling Edge Interrupt has been occured.
+
+Guru Meditation Error: Core  1 panic'ed (Interrupt wdt timeout on CPU1). 
+
+Core  1 register dump:
+PC      : 0x4014d112  PS      : 0x00060035  A0      : 0x8014f541  A1      : 0x3ffc263c  
+A2      : 0x0000003a  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x00000108  
+A6      : 0x00000001  A7      : 0x3f85e682  A8      : 0x00000141  A9      : 0x000065e2  
+A10     : 0x00000000  A11     : 0x00000000  A12     : 0x00000000  A13     : 0x00000000  
+A14     : 0x3ffc26bc  A15     : 0x3f864b22  SAR     : 0x0000001f  EXCCAUSE: 0x00000006  
+EXCVADDR: 0x00000000  LBEG    : 0x4008ba94  LEND    : 0x4008ba9f  LCOUNT  : 0x00000000  
+Core  1 was running in ISR context:
+EPC1    : 0x4017260b  EPC2    : 0x00000000  EPC3    : 0x00000000  EPC4    : 0x00000000
+
+
+Backtrace: 0x4014d10f:0x3ffc263c |<-CORRUPTED
+
+
+Core  0 register dump:
+PC      : 0x40216d02  PS      : 0x00060f35  A0      : 0x80171464  A1      : 0x3ffbcf20  
+A2      : 0x00000000  A3      : 0x4008b014  A4      : 0x00060520  A5      : 0x3ffd4480  
+A6      : 0x007c2cb8  A7      : 0x003fffff  A8      : 0x80170ff2  A9      : 0x3ffbcef0  
+A10     : 0x00000000  A11     : 0x3ffc2cb4  A12     : 0x3ffc2cb4  A13     : 0x00000000  
+A14     : 0x00060520  A15     : 0x00000000  SAR     : 0x0000001a  EXCCAUSE: 0x00000006  
+EXCVADDR: 0x00000000  LBEG    : 0x00000000  LEND    : 0x00000000  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x40216cff:0x3ffbcf20 0x40171461:0x3ffbcf40 0x400909bc:0x3ffbcf60
+
+
+
+
+ELF file SHA256: f69eed4595521f89
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (246) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+192.168.137.107
+Camera Ready! Use 'http://192.168.137.107' to connect

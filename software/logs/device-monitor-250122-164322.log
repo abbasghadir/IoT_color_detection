@@ -1,0 +1,317 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400ef5a3  PS      : 0x00060f30  A0      : 0x801596d9  A1      : 0x3ffb1660  
+A2      : 0x3ffb1c88  A3      : 0x3ffb1f40  A4      : 0x00000000  A5      : 0x00000142  
+A6      : 0x00000001  A7      : 0x3f85e682  A8      : 0x00030000  A9      : 0x00030000  
+A10     : 0x8103000c  A11     : 0xfff50000  A12     : 0x00000001  A13     : 0x3ffb2038  
+A14     : 0x00000000  A15     : 0x3f871320  SAR     : 0x00000015  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000004  LBEG    : 0x4008ba94  LEND    : 0x4008ba9f  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x400ef5a0:0x3ffb1660 0x401596d6:0x3ffb16a0 0x400d1b4d:0x3ffb1da0 0x400d24ee:0x3ffb2020 0x400d2673:0x3ffb2270 0x40168dd0:0x3ffb2290
+
+
+
+
+ELF file SHA256: fb7f88d113cf512c
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400ef5a3  PS      : 0x00060f30  A0      : 0x801596d9  A1      : 0x3ffb1660  
+A2      : 0x3ffb1c88  A3      : 0x3ffb1db0  A4      : 0x00000000  A5      : 0x3e800000  
+A6      : 0x3ffb1d50  A7      : 0x3e800000  A8      : 0x00030000  A9      : 0x00030000  
+A10     : 0x8103000c  A11     : 0xfff50000  A12     : 0x00000001  A13     : 0x3ffe3ca4  
+A14     : 0x00000008  A15     : 0x3f871320  SAR     : 0x00000001  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000004  LBEG    : 0x4008ba94  LEND    : 0x4008ba9f  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x400ef5a0:0x3ffb1660 0x401596d6:0x3ffb16a0 0x400d1bad:0x3ffb1da0 0x400d24ee:0x3ffb2020 0x400d2673:0x3ffb2270 0x40168dd0:0x3ffb2290
+
+
+
+
+ELF file SHA256: fb7f88d113cf512c
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+cam_hal: EV-EOF-OVF
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400ef5a3  PS      : 0x00060130  A0      : 0x801596d9  A1      : 0x3ffb1660  
+A2      : 0x3ffb1c88  A3      : 0x3ffb1db0  A4      : 0x00000000  A5      : 0x3e800000  
+A6      : 0x3ffb1d50  A7      : 0x3e800000  A8      : 0x00030000  A9      : 0x00030000  
+A10     : 0x8103000c  A11     : 0xfff50000  A12     : 0x00000001  A13     : 0x3ffe3894  
+A14     : 0x00000008  A15     : 0x3ffc2c38  SAR     : 0x00000001  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000004  LBEG    : 0x4008ba94  LEND    : 0x4008ba9f  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x400ef5a0:0x3ffb1660 0x401596d6:0x3ffb16a0 0x400d1bad:0x3ffb1da0 0x400d24ee:0x3ffb2020 0x400d2673:0x3ffb2270 0x40168dd0:0x3ffb2290
+
+
+
+
+ELF file SHA256: fb7f88d113cf512c
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400ef5a3  PS      : 0x00060f30  A0      : 0x801596d9  A1      : 0x3ffb1660  
+A2      : 0x3ffb1c88  A3      : 0x3ffb1db0  A4      : 0x00000000  A5      : 0x3e800000  
+A6      : 0x3ffb1d50  A7      : 0x3e800000  A8      : 0x00030000  A9      : 0x00030000  
+A10     : 0x8103000c  A11     : 0xfff50000  A12     : 0x00000001  A13     : 0x3ffe266c  
+A14     : 0x00000008  A15     : 0x00060023  SAR     : 0x00000001  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000004  LBEG    : 0x4008ba94  LEND    : 0x4008ba9f  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x400ef5a0:0x3ffb1660 0x401596d6:0x3ffb16a0 0x400d1bad:0x3ffb1da0 0x400d24ee:0x3ffb2020 0x400d2673:0x3ffb2270 0x40168dd0:0x3ffb2290
+
+
+
+
+ELF file SHA256: fb7f88d113cf512c
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400ef5a3  PS      : 0x00060130  A0      : 0x801596d9  A1      : 0x3ffb1660  
+A2      : 0x3ffb1c88  A3      : 0x3ffb1db0  A4      : 0x00000000  A5      : 0x3e800000  
+A6      : 0x3ffb1d50  A7      : 0x3e800000  A8      : 0x00030000  A9      : 0x00030000  
+A10     : 0x8103000c  A11     : 0xfff50000  A12     : 0x00000001  A13     : 0x3ffe70f0  
+A14     : 0x00000008  A15     : 0x00060023  SAR     : 0x00000001  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000004  LBEG    : 0x4008ba94  LEND    : 0x4008ba9f  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x400ef5a0:0x3ffb1660 0x401596d6:0x3ffb16a0 0x400d1bad:0x3ffb1da0 0x400d24ee:0x3ffb2020 0x400d2673:0x3ffb2270 0x40168dd0:0x3ffb2290
+
+
+
+
+ELF file SHA256: fb7f88d113cf512c
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400ef5a3  PS      : 0x00060130  A0      : 0x801596d9  A1      : 0x3ffb1660  
+A2      : 0x3ffb1c88  A3      : 0x3ffb1db0  A4      : 0x00000000  A5      : 0x3e800000  
+A6      : 0x3ffb1d50  A7      : 0x3e800000  A8      : 0x00030000  A9      : 0x00030000  
+A10     : 0x8103000c  A11     : 0xfff50000  A12     : 0x00000001  A13     : 0x3ffe268c  
+A14     : 0x00000008  A15     : 0x00060023  SAR     : 0x00000001  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000004  LBEG    : 0x4008ba94  LEND    : 0x4008ba9f  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x400ef5a0:0x3ffb1660 0x401596d6:0x3ffb16a0 0x400d1bad:0x3ffb1da0 0x400d24ee:0x3ffb2020 0x400d2673:0x3ffb2270 0x40168dd0:0x3ffb2290
+
+
+
+
+ELF file SHA256: fb7f88d113cf512c
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400ef5a3  PS      : 0x00060f30  A0      : 0x801596d9  A1      : 0x3ffb1660  
+A2      : 0x3ffb1c88  A3      : 0x3ffb1f40  A4      : 0x00000000  A5      : 0x00000142  
+A6      : 0x00000001  A7      : 0x3f85e682  A8      : 0x00030000  A9      : 0x00030000  
+A10     : 0x8103000c  A11     : 0xfff50000  A12     : 0x00000001  A13     : 0x3ffb2038  
+A14     : 0x00000000  A15     : 0x3f871320  SAR     : 0x00000015  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000004  LBEG    : 0x4008ba94  LEND    : 0x4008ba9f  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x400ef5a0:0x3ffb1660 0x401596d6:0x3ffb16a0 0x400d1b4d:0x3ffb1da0 0x400d24ee:0x3ffb2020 0x400d2673:0x3ffb2270 0x40168dd0:0x3ffb2290
+
+
+
+
+ELF file SHA256: fb7f88d113cf512c
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+cam_hal: EV-VSYNC-OVF
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+No yellow region found!
+checkpoint1
+No yellow region found!
+checkpoint1
+cam_hal: EV-VSYNC-OVF
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400ef5a3  PS      : 0x00060f30  A0      : 0x801596d9  A1      : 0x3ffb1660  
+A2      : 0x3ffb1c88  A3      : 0x3ffb1f40  A4      : 0x00000000  A5      : 0x3e800000  
+A6      : 0x3ffb1d50  A7      : 0x3e800000  A8      : 0x00030000  A9      : 0x00030000  
+A10     : 0x8103000c  A11     : 0xfff50000  A12     : 0x00000001  A13     : 0x3ffe2514  
+A14     : 0x00000008  A15     : 0x00000001  SAR     : 0x00000001  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000004  LBEG    : 0x4008b92c  LEND    : 0x4008b942  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x400ef5a0:0x3ffb1660 0x401596d6:0x3ffb16a0 0x400d1b7b:0x3ffb1da0 0x400d24ee:0x3ffb2020 0x400d2673:0x3ffb2270 0x40168dd0:0x3ffb2290
+
+
+
+
+ELF file SHA256: fb7f88d113cf512c
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+.

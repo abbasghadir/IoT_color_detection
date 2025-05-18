@@ -1,0 +1,17 @@
+
+E (475) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+......
+WiFi connected
+Camera Ready! Use 'http://192.168.100.113' to connect
+[142215][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[147131][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[147746][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[152865][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[153685][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[154607][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[156552][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[157372][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[158099][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[158808][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[172940][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"
+[174374][E][WiFiClient.cpp:429] write(): fail on fd 49, errno: 104, "Connection reset by peer"

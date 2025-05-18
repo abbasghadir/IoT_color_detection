@@ -1,0 +1,85 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (1632) wifi:Set status to INIT
+E (1651) wifi:Set status to INIT
+E (1672) wifi:Set status to INIT
+E (1695) wifi:Set status to INIT
+cam_hal: EV-VSYNC-OVF
+E (1715) wifi:Set status to INIT
+E (1735) wifi:Set status to INIT
+E (1752) wifi:Set status to INIT
+E (1774) wifi:Set status to INIT
+E (1792) wifi:Set status to INIT
+E (1812) wifi:Set status to INIT
+E (1834) wifi:Set status to INIT
+E (1856) wifi:Set status to INIT
+cam_hal: EV-VSYNC-OVF
+E (1877) wifi:Set status to INIT
+cam_hal: EV-VSYNC-OVF
+..
+WiFi connected
+192.168.137.107
+Camera Ready! Use 'http://192.168.137.107' to connect
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=125, Y_scale is=186
+Blue: X_scale is=95, Y_scale is=98
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=92, Y_scale is=162
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=69, Y_scale is=143
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=67, Y_scale is=142
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=50, Y_scale is=162
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=62, Y_scale is=146
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=91, Y_scale is=131
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=73, Y_scale is=129
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=97, Y_scale is=171
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=100, Y_scale is=165
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=59, Y_scale is=160
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=86, Y_scale is=198
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=98, Y_scale is=201
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=102, Y_scale is=204
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=93, Y_scale is=171
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=87, Y_scale is=187
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=70, Y_scale is=121
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=81, Y_scale is=216

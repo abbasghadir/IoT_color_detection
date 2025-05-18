@@ -1,0 +1,42 @@
+check1
+check2
+check2
+check2
+check2
+check2
+check2
+Blue: X_scale is=0, Y_scale is=0
+Yellow: X_scale is=0, Y_scale is=0
+Green: X_scale is=0, Y_scale is=0
+check1
+check1
+check1
+CORRUPT HEAP: Bad head at 0x3f826018. Expected 0xabba1234 got 0x3f800014
+
+assert failed: multi_heap_free multi_heap_poisoning.c:259 (head != NULL)
+
+
+Backtrace: 0x40083b6d:0x3ffb1f10 0x4008f539:0x3ffb1f30 0x40095401:0x3ffb1f50 0x40094ffd:0x3ffb2080 0x400840dd:0x3ffb20a0 0x40095431:0x3ffb20c0 0x400d2bc4:0x3ffb20e0 0x40212f99:0x3ffb2130 0x401609fe:0x3ffb2150 0x40160b09:0x3ffb2170 0x40160bef:0x3ffb21b0 0x40160d96:0x3ffb2220 0x400d2ea5:0x3ffb2270 0x4016614c:0x3ffb2290
+
+
+
+
+ELF file SHA256: 1a97fe274fb92b53
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (247) gpio: gpio_install_isr_service(450): GPIO isr service already installed
+cam_hal: EV-EOF-OVF
+..
+WiFi connected
+Camera Ready! Use 'http://192.168.137.61' to connect

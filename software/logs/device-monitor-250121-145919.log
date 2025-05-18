@@ -1,0 +1,2619 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+.cam_hal: EV-VSYNC-OVF
+.
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+cam_hal: EV-VSYNC-OVF
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+....
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+cam_hal: EV-VSYNC-OVF
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+..
+WiFi connected
+192.168.1.117
+Camera Ready! Use 'http://192.168.1.117' to connect
+checkpoint0
+checkpoint00
+checkpoint1
+checkpoint2
+checkpoint3
+checkpoint4
+
+abort() was called at PC 0x401dab6b on core 1
+
+
+Backtrace: 0x40083a55:0x3ffb1ba0 0x4008f509:0x3ffb1bc0 0x4009516d:0x3ffb1be0 0x401dab6b:0x3ffb1c60 0x401dabb2:0x3ffb1c80 0x401dab65:0x3ffb1ca0 0x400ea841:0x3ffb1cc0 0x400f45dd:0x3ffb1da0 0x4013c66e:0x3ffb1df0 0x40139f29:0x3ffb1f10 0x400d2213:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   329][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (279) camera: Detected camera not supported.
+E (279) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   320][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (279) camera: Detected camera not supported.
+E (279) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   320][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (279) camera: Detected camera not supported.
+E (279) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   320][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (279) camera: Detected camera not supported.
+E (279) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   320][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (277) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (278) camera: Detected camera not supported.
+E (278) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   319][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) sccb: SCCB_Write Failed addr:0x30, reg:0xff, data:0x01, ret:-1
+E (279) camera: Detected camera not supported.
+E (279) camera: Camera probe failed with error 0x106(ESP_ERR_NOT_SUPPORTED)
+Camera init failed with error 0x106checkpoint0
+checkpoint00
+checkpoint1
+[   320][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+
+E (278) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+Camera init failed with error 0x105checkpoint0
+checkpoint00
+checkpoint1
+[   314][E][main.cpp:84] color_range_detection_n_Task(): Framebuffer is null
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d217e  PS      : 0x00060a30  A0      : 0x800d281e  A1      : 0x3ffb1fc0  
+A2      : 0x3ffcae48  A3      : 0x00000000  A4      : 0xfffffee8  A5      : 0x00000010  
+A6      : 0x3ffcb0b8  A7      : 0x3ffb215c  A8      : 0x800d2176  A9      : 0x3ffb1f40  
+A10     : 0x3ffcae48  A11     : 0x3f40142c  A12     : 0x3f4013f7  A13     : 0x00000054  
+A14     : 0x3f401534  A15     : 0x00000010  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000008  LBEG    : 0x4008cbf9  LEND    : 0x4008cc09  LCOUNT  : 0xfffffff8  
+
+
+Backtrace: 0x400d217b:0x3ffb1fc0 0x400d281b:0x3ffb2230 0x40166708:0x3ffb2290
+
+
+
+
+ELF file SHA256: 22583f444abb0b38
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
