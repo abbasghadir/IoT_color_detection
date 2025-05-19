@@ -7,6 +7,18 @@
 #include "soc/soc.h"
 #include <WebServer.h>
 #include <TickTwo.h>
+#include <HTTPClient.h>
+#include <NTPClient.h>
+#include <time.h>
+#include <ArduinoJson.h>
+
+//NTP setting
+const char* NTP_server ="pool.ntp.org" ;
+const long getoffset = 12600;
+const int daylight = 0;
+
+//Endpoint server url
+const char* endpoint_url = "http://192.168.1.5/IoT_color_detection.php";
 
 // Network credentials
 const char *ssid = "WiFi_ssid";
@@ -21,11 +33,13 @@ const char *password = "WIFi_password";
 bool loopflag = false;
 bool desition_flag = true;
 bool press_flag = false;
+bool color_detection_flag = false;
 
-const int bytes_per_pixel_number = 2; //number of byte per pixel
-                                      //for RGB565 is 2 and for RGB888 is 3
+//number of byte per pixel, for RGB565 is 2 and for RGB888 is 3
+const int bytes_per_pixel_number = 2; 
 
-const int pixelarea= 20;              //minimum pixel size threshold
+//pixel density
+const int pixelarea= 20;              
 
 //resize picture as:
 int x_scale = 135;
@@ -106,24 +120,26 @@ void cropImage(uint8_t *input, int width, int height, int w, int h,const int w_s
   }
 }
 
+//RGB converter
 void convertRGB565ToBGR(uint8_t* rgb565, int width, int height, cv::Mat& bgrImage) {
   bgrImage = cv::Mat(height, width, CV_8UC3);
   for (int y = 0; y < height; y++) {
     for (int x = 0; x < width; x++) {
       uint16_t pixel = (rgb565[(y * width + x) * 2] << 8) | rgb565[(y * width + x) * 2 + 1];
-      uint8_t r = (pixel >> 11) & 0x1F; //
-      uint8_t g = (pixel >> 5) & 0x3F;  //
-      uint8_t b = pixel & 0x1F;         //
-      r = (r << 3) | (r >> 2); //
-      g = (g << 2) | (g >> 4); //
-      b = (b << 3) | (b >> 2); //
+      uint8_t r = (pixel >> 11) & 0x1F;
+      uint8_t g = (pixel >> 5) & 0x3F;
+      uint8_t b = pixel & 0x1F;
+      r = (r << 3) | (r >> 2);
+      g = (g << 2) | (g >> 4);
+      b = (b << 3) | (b >> 2);
       cv::Vec3b& pixelBGR = bgrImage.at<cv::Vec3b>(y, x);
-      pixelBGR[0] = b; // 
-      pixelBGR[1] = g; // 
-      pixelBGR[2] = r; // 
+      pixelBGR[0] = b;
+      pixelBGR[1] = g;
+      pixelBGR[2] = r;
     }
   }
 }
+
 
 bool rangdetector(std::vector<std::vector<cv::Point>> green_contours,
                   std::vector<std::vector<cv::Point>> yellow_contours,
@@ -159,15 +175,13 @@ bool rangdetector(std::vector<std::vector<cv::Point>> green_contours,
 }
 
 
-
-void color_range_detection() {
-  // ledcWrite(pwmChannel,brightness);
+//function for color detection
+String color_range_detection() {
   camera_fb_t *fb = NULL;
   fb = esp_camera_fb_get();
   if (!fb || !fb->buf || fb->width <= 0 || fb->height <= 0) {
-      log_e("Framebuffer is null");
-      Serial.println("Framebuffer is null");
-      // continue;
+    log_e("Framebuffer is null");
+    Serial.println("Framebuffer is null");
   }
 
   uint8_t *cut_buff = (uint8_t *) malloc(x_length*y_length*bytes_per_pixel_number);
@@ -182,7 +196,6 @@ void color_range_detection() {
 
   // Convert RGB565 framebuffer data to BGR
   convertRGB565ToBGR(cut_buff, width, height, image);
-  
   free(cut_buff);
   
 
@@ -271,8 +284,14 @@ void color_range_detection() {
 
   Position brown_position = positionfinder(filtered_brown_contours);
   printf("Brown: X_scale is=%d, Y_scale is=%d\n", brown_position.x_scale, brown_position.y_scale);
+  int abbas;
+  String result_colorposition =String(blue_position.x_scale) + "," + String(blue_position.x_scale) + "/" +
+                              String(yellow_position.x_scale) + "," + String(yellow_position.x_scale) + "/" +
+                              String(brown_position.x_scale) + "," + String(brown_position.x_scale) + "/";
+  return result_colorposition;
 }
 
+//Web server response
 void webpagehandler(unsigned char *buffer,int length){
   WiFiClient client = server.client();
   String response = "HTTP/1.1 200 OK\r\n";
@@ -287,6 +306,7 @@ void webpagehandler(unsigned char *buffer,int length){
   client.write("\r\n", 2);
 }
 
+//image taker
 void pagehandlermain(){
   camera_fb_t *fb = esp_camera_fb_get();
   if (!fb){
@@ -301,6 +321,7 @@ void pagehandlermain(){
   free(jpeg_buff);
 }
 
+//image tacker and ROI
 void pagehandler_croped(){
   camera_fb_t *fb = esp_camera_fb_get();
   if (!fb){
@@ -319,15 +340,18 @@ void pagehandler_croped(){
   free(cut_buff);
 }
 
+//interrupt handler
 IRAM_ATTR void press_interrupt_handler(){
   press_flag = true;
 }
 
+//interrupt initiallizer
 void initializeInterruptPins() {
   pinMode(press_pin, INPUT_PULLUP);
   attachInterrupt(press_pin, press_interrupt_handler, FALLING);
 }
 
+//wifi connection setting
 void wifiinit(){
   WiFi.begin(ssid, password);
   while (WiFi.status() != WL_CONNECTED){
@@ -341,12 +365,13 @@ void wifiinit(){
   Serial.println("' to connect");
 }
 
+//camera flash LED control by PWM
 void led_pwm_init(){
   ledcSetup(pwmChannel,pwmFreq,pwmResolution);
   ledcAttachPin(cam_led_pin,pwmChannel);
 }
 
-bool color_detection_flag = false;
+
 
 void press_ticker_callback(){
   press_ticker.stop();
@@ -354,6 +379,37 @@ void press_ticker_callback(){
   {
     color_detection_flag = true;
   }
+}
+
+String local_time2string(){
+  struct tm timeinformation;
+  if (!getLocalTime(&timeinformation))
+  {
+    printf("fail to red time!");
+    return "NULL";
+  }
+  char return_time[100];
+  strftime(return_time,sizeof(return_time),"%Y-%m-%d %H:%M:%S",&timeinformation);
+  return return_time;
+}
+
+void http_post(String timestamp,String colorcodes){
+  JsonDocument doc;
+  doc["timestamp"] = timestamp;
+  doc["colorcodes"] = colorcodes;
+  String jsonpayload;
+  serializeJson(doc,jsonpayload); 
+  
+  HTTPClient http;
+  http.begin(endpoint_url);
+  http.addHeader("Content-Type", "application/json");
+  int httpresponse = http.POST(jsonpayload);
+  if (httpresponse>0)
+  {
+    printf("HTTP response code: %s\n",String(httpresponse));
+    printf("Response is: %s\n",http.getString());
+  }else printf("Error on send data: ", String(httpresponse));
+  http.end();  
 }
 
 void setup() {
@@ -403,6 +459,9 @@ void setup() {
   server.on("/cd",pagehandler_croped);
   server.begin();
   led_pwm_init();
+
+  configTime(getoffset,daylight,NTP_server);
+  printf("local time is %s  \n",local_time2string());
 }
 
 void crophandler(){
@@ -484,11 +543,13 @@ void loop() {
     if (color_detection_flag)
     {
       ledcWrite(pwmChannel,cam_led_on);
-      color_range_detection();
+      String colorcode = color_range_detection();
       ledcWrite(pwmChannel,cam_led_off);
       desition_flag = false;
       color_detection_flag = false;
       press_flag = false;
+      String time_stamp = local_time2string();
+      http_post(time_stamp,colorcode);
     }
   }
   desition_flag = (digitalRead(press_pin) == HIGH)?true:false;
