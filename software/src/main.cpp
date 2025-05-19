@@ -28,6 +28,9 @@ const char *password = "WIFi_password";
 #define cam_led_pin 4
 #define led_status 14
 #define press_pin 13
+#define buzzer_pin 15
+#define relay_pin 12
+
 
 //flags
 bool loopflag = false;
@@ -62,7 +65,15 @@ const int debounceTime=100;
 void press_ticker_callback();
 TickTwo press_ticker(press_ticker_callback,debounceTime,1,MILLIS);
 
+//relay configuration
+const int relay_time = 500;
+void relay_ticker_callback();
+TickTwo relay_ticker(relay_ticker_callback,relay_time,1,MILLIS);
 
+//buzzer configuration
+const int buzzer_time = 500;
+void buzzer_ticker_callback();
+TickTwo buzzer_ticker(buzzer_ticker_callback,buzzer_time,1,MILLIS);
 
 //webserver handler
 WebServer server(80);
@@ -174,9 +185,32 @@ bool rangdetector(std::vector<std::vector<cv::Point>> green_contours,
   }
 }
 
+void buzzer_on(){
+  digitalWrite(buzzer_pin,HIGH);
+}
+void buzzer_off(){
+  digitalWrite(buzzer_pin,LOW);
+}
+void relay_on(){
+  digitalWrite(relay_pin,HIGH);  
+}
+void relay_off(){
+  digitalWrite(relay_pin,LOW);  
+}
+
+void desition_handler(Position blue, Position yellow, Position brown){
+  if (blue.x_scale>brown.x_scale && brown.x_scale>yellow.x_scale){
+    buzzer_on();
+    buzzer_ticker.start();
+  }else{
+    relay_on();
+    relay_ticker.start();
+  }  
+}
+
 
 //function for color detection
-String color_range_detection() {
+String color_detection() {
   camera_fb_t *fb = NULL;
   fb = esp_camera_fb_get();
   if (!fb || !fb->buf || fb->width <= 0 || fb->height <= 0) {
@@ -284,7 +318,7 @@ String color_range_detection() {
 
   Position brown_position = positionfinder(filtered_brown_contours);
   printf("Brown: X_scale is=%d, Y_scale is=%d\n", brown_position.x_scale, brown_position.y_scale);
-  int abbas;
+  desition_handler(blue_position,yellow_position,brown_position);
   String result_colorposition =String(blue_position.x_scale) + "," + String(blue_position.x_scale) + "/" +
                               String(yellow_position.x_scale) + "," + String(yellow_position.x_scale) + "/" +
                               String(brown_position.x_scale) + "," + String(brown_position.x_scale) + "/";
@@ -346,9 +380,15 @@ IRAM_ATTR void press_interrupt_handler(){
 }
 
 //interrupt initiallizer
-void initializeInterruptPins() {
+void PIN_init() {
   pinMode(press_pin, INPUT_PULLUP);
   attachInterrupt(press_pin, press_interrupt_handler, FALLING);
+
+  pinMode(relay_pin,OUTPUT);
+  digitalWrite(relay_pin,LOW);
+
+  pinMode(buzzer_pin,OUTPUT);
+  digitalWrite(buzzer_pin,LOW);
 }
 
 //wifi connection setting
@@ -379,6 +419,16 @@ void press_ticker_callback(){
   {
     color_detection_flag = true;
   }
+}
+
+void buzzer_ticker_callback(){
+  buzzer_ticker.stop();
+  buzzer_off();
+}
+
+void relay_ticker_callback(){
+  relay_ticker.stop();
+  relay_off();
 }
 
 String local_time2string(){
@@ -417,7 +467,7 @@ void setup() {
   Serial.setDebugOutput(true);
   Serial.println();
   pinMode(led_status,OUTPUT);
-  initializeInterruptPins();
+  PIN_init();
 
   camera_config_t config;
   config.ledc_channel = LEDC_CHANNEL_0;
@@ -454,7 +504,7 @@ void setup() {
   }
 
   wifiinit();
-  // server.on("/",color_range_detection);
+  // server.on("/",color_detection);
   server.on("/",pagehandlermain);
   server.on("/cd",pagehandler_croped);
   server.begin();
@@ -512,11 +562,13 @@ void loop() {
     wifiinit();
   }
 
-  // color_range_detection();
+  // color_detection();
   server.handleClient();
 
-  //press ticker update
+  //ticker update
   press_ticker.update();
+  buzzer_ticker.update();
+  relay_ticker.update();
 
   if (Serial.available()>0){
     String inputstring = Serial.readStringUntil('\n');
@@ -543,7 +595,7 @@ void loop() {
     if (color_detection_flag)
     {
       ledcWrite(pwmChannel,cam_led_on);
-      String colorcode = color_range_detection();
+      String colorcode = color_detection();
       ledcWrite(pwmChannel,cam_led_off);
       desition_flag = false;
       color_detection_flag = false;
