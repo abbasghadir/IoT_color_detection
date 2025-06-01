@@ -3,7 +3,7 @@ Overview
 This project implements a color detection system using an ESP32 microcontroller with an OV2640 camera module. The system captures images, processes them to detect specific colors (brown, yellow, blue), determines their relative positions, and triggers actions (buzzer or relay) based on the detected positions. It also provides a web server to stream images and supports HTTP POST requests to send detection results to a specified endpoint.
 Prerequisites
 •	Hardware:
-    o   ESP32 module with OV2640 camera
+    o ESP32 module with OV2640 camera
     o	LED (for camera flash, pin 4)
     o	Status LED (pin 14)
     o	Push button (pin 13)
