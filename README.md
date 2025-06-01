@@ -151,8 +151,6 @@ Future Improvements
 •	Enhance web server to display detection results.
 •	Add error handling for network failures.
 •	Support higher resolutions or additional color detection.
-Resources
-•	ESP32 Camera Library
-•	OpenCV Documentation
-•	ArduinoJson Documentation
-•	NTP Client Documentation
+
+Contributing
+•   Contributions are welcome! Please submit issues or pull requests via the GitHub repository.
